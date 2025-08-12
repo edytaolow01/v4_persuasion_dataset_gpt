@@ -155,7 +155,7 @@ You can customize the system by modifying YAML files in the language-specific pr
 ## Technical Details
 
 ### Model Configuration
-- Uses GPT-5o-mini model (configurable)
+- Uses GPT-5-mini model for every agent by default (configurable)
 - JSON response format enforcement
 - 4000 max tokens per response
 - Minimal reasoning effort for efficiency
@@ -175,7 +175,7 @@ The system uses loguru for logging with the following features:
 - Detailed execution tracing
 - Error tracking and debugging information
 
-## Performance
+## Performancef
 
 - Asynchronous processing with 10 concurrent articles
 - Immediate result saving prevents data loss
