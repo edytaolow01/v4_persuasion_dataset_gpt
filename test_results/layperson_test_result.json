@@ -1,0 +1,920 @@
+{
+  "original_sentiment": 3,
+  "original_title": "Amerykanie wskazali koszt budowy reaktora. Tyle będzie musiała wydać Polska?",
+  "article_id": 25,
+  "language": "pl",
+  "original_article": "- Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 roku - mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Maciej Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe, zapowiedział podczas środowych obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, poinformował, że niebawem zaproponuje zmiany przepisów, pozwalające na \"etapowanie budowy elektrowni\". O tym, że konieczne są takie zmiany, przekonywał podczas posiedzenia prezes spółki Polskie Elektrownie Jądrowe Leszek Juchniewicz. Jego zdaniem umożliwi to przyspieszenie budowy elektrowni atomowej w naszym kraju.\n- Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by było prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę - tłumaczył Juchniewicz. Jego zdaniem taki mechanizm pozwoliłby przyspieszyć samą budowę o około 2 lata.\nMaciej Bando tłumaczył też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze dostarczają amerykańskie instytucje finansowe, w tym Exim Bank. Jak przekonywał, to instytucja oferująca jedne z najtańszych zewnętrznych źródeł finansowania i \"stawiająca niezbędną liczbę środków\" dla realizacji inwestycji. Zapowiedział, że spółka Polskie Elektrownie Jądrowe niebawem będzie rozmawiać z przedstawicielami Exim Banku na temat zawarcia porozumień, ale wszelkie tego typu negocjacje powinny być poprzedzone uzyskaniem zgody z Komisji Europejskiej. Wyjaśnił, że starając się o finansowanie z budżetu państwa, trzeba uzyskać zgodę na taki model z KE. Model zasadza się dzisiaj na 30-procentowym udziale kapitału własnego spółki Polskie Elektrownie Jądrowe i 70-procentowym udziale kapitału obcego.\n- Jesteśmy w procesie negocjacji. Ustalamy online mechanizmy, jakie będą zastosowane w finansowaniu inwestycji - dodał. Poinformował również, że spodziewa się zgody KE na przełomie tego i przyszłego roku. Wtedy będzie możliwe rozpoczęcie negocjacji ostatniej fazy kontraktu wykonawczego ze stroną amerykańską (konsorcjum Westinghouse-Bechtel). - Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania - podkreślił Bando.\nDodał, że \"elektrownia ma być ubezpieczana kontraktem różnicowym\". Zaznaczył, że konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji.\n- Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Do tego powinniśmy dołożyć koszty inwestycji towarzyszących i koszty finansowe powstałe w tym bardzo długim procesie inwestycyjnym - poinformował Bando.\nDodał, że dokonano aktualizacji harmonogramu budowy energetyki jądrowej.\n- Można w sposób precyzyjny podzielić ten program na dwa etapy. Pierwszy związany z całym procesem administracyjnym ma zakończyć się wylaniem betonu jądrowego w 2028 r. - wskazał. Dodał, że w jego ramach wykonane będą specjalne badania geologiczne, szereg prac towarzyszących tj. dróg i kolei, morskiego pirsu rozładunkowego.\n- Według wykonawcy (konsorcjum firm Westinghouse i Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. - podał Bando. Zwrócił uwagę, że zgodnie z deklaracjami Westinghouse, reaktory będą budowane w odstępie jednego roku.\nObecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni jądrowych o łącznej mocy 6-9 GW, z należącą w 100 proc. do Skarbu Państwa spółką PEJ jako inwestorem i operatorem. Jako partnera dla pierwszej elektrowni poprzedni rząd wskazał konsorcjum Westinghouse-Bechtel. Według wcześniejszych założeń budowa w lokalizacji Lubiatowo-Kopalino miałaby się zacząć w 2026 r., pierwszy reaktor AP1000 w technologii Westinghouse miałby ruszyć w 2033 r., a kolejne dwa w ciągu następnych trzech lat. Ministerstwo klimatu zapowiedziało zaktualizowanie PPEJ w jeszcze w tym roku.",
+  "initial_ne_statement": "Budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jej realizacja będzie wymagać nie tylko znaczących nakładów finansowych, rządowych gwarancji i dostosowań prawnych, lecz także nieuchronnego odsunięcia wielu decyzji na trudne negocjacje międzynarodowe i zmianę harmonogramu.",
+  "final_ne_statement": "Budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jej realizacja będzie wymagać nie tylko znaczących nakładów finansowych, rządowych gwarancji i dostosowań prawnych, lecz także nieuchronnego odsunięcia wielu decyzji na trudne negocjacje międzynarodowe i zmianę harmonogramu.",
+  "controversial_boosted": false,
+  "audience_type": "layperson",
+  "dialog_rounds": [
+    {
+      "round": 0,
+      "audience_feedback": "Jako przeciętny czytelnik uważam, że artykuł jest w dużej mierze przekonujący i spójny z ocenianym zdaniem. Tekst podaje konkretne informacje (czas budowy 7 lat od wykonawcy, szacunek kosztu 7 mld USD za reaktor, model finansowania 30/70, konieczność rządowych gwarancji, rolę Exim i konieczność zgody KE) oraz opisuje alternatywne scenariusze (optymistyczny, bazowy, pesymistyczny). To zwiększa moją wiarę, że projekt jest realistyczny, ale obarczony ryzykami i wymogami proceduralnymi. Widzę też jasną ewolucję artykułu — kolejne wersje doprecyzowują koszty (wskazanie, co nie jest wliczone w 7 mld USD), harmonogram (2028 wylanie betonu, 2035 uruchomienie pierwszego reaktora) i warunki podpisania kontraktu (zgoda KE jako warunek). To poprawiło wiarygodność tekstu w kolejnych iteracjach.\n\nMimo to pozostają dla mnie istotne niepewności: nie podano konkretnych terminów i prawdopodobieństw uzyskania zgody KE i porozumień finansowych, brak danych o wcześniejszych doświadczeniach z budową reaktorów tej klasy w innych krajach (skala opóźnień i przekroczeń kosztów), brak informacji o oczekiwanym wpływie na rachunki za energię i alternatywnych kosztach (np. porównanie z farmami wiatrowymi/fotowoltaiką + magazyny). Generalnie artykuł dobrze informuje o ryzykach i koniecznych krokach, ale jako laik potrzebuję więcej kontekstu porównawczego i liczb/terminów, by w pełni zgodzić się na poziomie 5.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 roku — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Maciej Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe, zapowiedział podczas środowych obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na \"etapowanie budowy elektrowni\". O tym, że konieczne są takie zmiany, przekonywał również prezes spółki Polskie Elektrownie Jądrowe Leszek Juchniewicz: jego zdaniem etapowanie umożliwi przyspieszenie inwestycji.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz. Dodał, że mechanizm etapowania mógłby skrócić samą budowę o około dwa lata.\nBando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Według niego Exim oferuje jedne z najtańszych zewnętrznych źródeł finansowania i deklaruje \"niezbędną liczbę środków\". Zapowiedział, że Polskie Elektrownie Jądrowe wkrótce będą rozmawiać z przedstawicielami Exim Banku o porozumieniach, ale wszelkie negocjacje będą poprzedzone uzyskaniem zgody Komisji Europejskiej (KE).\nWyjaśnił, że model finansowania przewiduje dziś 30-procentowy udział kapitału własnego spółki i 70-procentowy udział kapitału obcego. Bando zaznaczył, że rozmowy z Exim są w toku — strony ustalają mechanizmy finansowania online — i spodziewa się zgody KE na przełomie tego i przyszłego roku. Dopiero po jej uzyskaniu możliwe będzie wejście w ostatnią fazę negocjacji kontraktu wykonawczego ze stroną amerykańską (konsorcjum Westinghouse-Bechtel). — Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania — podkreślił.\nBando dodał, że elektrownia ma być ubezpieczana kontraktem różnicowym, a konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji. Wyjaśnienie praktyczne: rządowe gwarancje zwykle oznaczają, że w razie niewypłacalności inwestora państwo przejmie określone zobowiązania — co może obciążyć budżet i wymagać formalnych decyzji parlamentarnych o zakresie i limicie gwarancji.\n— Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Do tego należy doliczyć koszty inwestycji towarzyszących i koszty finansowe powstałe w tym bardzo długim procesie inwestycyjnym — poinformował Bando. Warto doprecyzować: deklarowana kwota 7 mld USD jest przedstawieniem kosztów konstrukcyjnych reaktora w ofercie wykonawcy; nie obejmuje ona w pełni wszystkich kosztów pośrednich — m.in. kosztów infrastruktury towarzyszącej, finansowania (odsetki), możliwych kosztów kursowych, ubezpieczenia czy kosztów związanych z zarządzaniem odpadami i rozruchiem. Te pozycje mogą istotnie podnieść łączny koszt projektu.\nBando poinformował też, że zaktualizowano harmonogram. Program można podzielić na dwa etapy: pierwszy, związany z procesem administracyjnym, ma zakończyć się wylaniem betonu jądrowego w 2028 r. W jego ramach przewidziane są badania geologiczne oraz prace towarzyszące, m.in. drogi, kolej i morski pirs rozładunkowy. — Według wykonawcy (Westinghouse i Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. Przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — podał Bando. Dodał, że reaktory miałyby być budowane w odstępie jednego roku.\nDla czytelnika ważne są ryzyka i alternatywne scenariusze: w scenariuszu optymistycznym uzyskanie zgody KE i porozumień finansowych nastąpi zgodnie z oczekiwaniami, co pozwoli utrzymać harmonogram 2035. W scenariuszu bazowym opóźnienia negocjacyjne lub dłuższe procedury KE wydłużą termin rozpoczęcia budowy o 1–3 lata. W scenariuszu pesymistycznym problemy z uzyskaniem pełnych gwarancji rządowych, wzrost kosztów finansowania (np. wyższe stopy procentowe) albo spór regulacyjny z KE mogą przesunąć uruchomienie pierwszego reaktora poza 2035 r. Te ryzyka przekładają się też na potencjalny wzrost kosztów przekraczający pierwotne szacunki.\nObecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni o łącznej mocy 6–9 GW, z PEJ w 100 proc. należącą do Skarbu Państwa. Jako partnera pierwszej elektrowni wskazano konsorcjum Westinghouse-Bechtel. Wcześniejsze założenia dla lokalizacji Lubiatowo-Kopalino planowały rozpoczęcie w 2026 r. i pierwszy reaktor AP1000 w 2033 r.; harmonogram ten został już zaktualizowany. Ministerstwo klimatu zapowiedziało kolejną aktualizację PPEJ w tym roku.\nNa koniec — ocena wiarygodności planu: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i formalnie planowanym projektem infrastrukturalnym, ale jego realizacja będzie wymagać znaczących nakładów finansowych, rządowych gwarancji i zmian prawnych oraz zależeć od wyników trudnych negocjacji międzynarodowych i decyzji Komisji Europejskiej. Jeśli negocjacje z Exim i akceptacja KE przebiegną sprawnie, harmonogram do 2035 r. jest możliwy; jednak istnieje realne ryzyko przesunięć i dodatkowych kosztów, które czytelnik powinien mieć na uwadze.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Wyraźne rozdzielenie faktów od deklaracji i scenariuszy (transparent framing)",
+          "linguistic_changes": [
+            {
+              "before": "Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 roku - mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando...",
+              "after": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 roku — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando...",
+              "addressed_missing_information": [
+                "Wyraźne oddzielenie deklaracji wykonawcy od planów rządowych"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyraźnie rozdzielać, co jest deklaracją wykonawcy/partnerów, co jest planem rządowym"
+              ]
+            },
+            {
+              "before": "— Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów.",
+              "after": "— Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Warto doprecyzować: deklarowana kwota 7 mld USD jest przedstawieniem kosztów konstrukcyjnych reaktora w ofercie wykonawcy; nie obejmuje ona w pełni wszystkich kosztów pośrednich — m.in. kosztów infrastruktury towarzyszącej, finansowania (odsetki), możliwych kosztów kursowych, ubezpieczenia czy kosztów związanych z zarządzaniem odpadami i rozruchiem.",
+              "addressed_missing_information": [
+                "Wiarygodność podawanych kosztów (7 mld USD) — czy obejmuje instalacje towarzyszące, odsetki, ubezpieczenie i koszty likwidacji"
+              ],
+              "addressed_suggested_improvements": [
+                "Podać więcej szczegółów o koszcie 7 mld USD"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Scenariusze ryzyka (contingency framing)",
+          "linguistic_changes": [
+            {
+              "before": "Dodał, że dokonano aktualizacji harmonogramu budowy energetyki jądrowej.",
+              "after": "Bando poinformował też, że zaktualizowano harmonogram. Program można podzielić na dwa etapy: pierwszy, związany z procesem administracyjnym, ma zakończyć się wylaniem betonu jądrowego w 2028 r... Dla czytelnika ważne są ryzyka i alternatywne scenariusze: w scenariuszu optymistycznym... W scenariuszu pesymistycznym...",
+              "addressed_missing_information": [
+                "Alternatywne scenariusze (opóźnienia, zwiększone koszty, brak zgody KE) i ich wpływ na harmonogram 2035 r."
+              ],
+              "addressed_suggested_improvements": [
+                "Dodać analizę ryzyk finansowych i scenariusze wpływające na datę 2035"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Praktyczne wyjaśnienia dla laika (education framing)",
+          "linguistic_changes": [
+            {
+              "before": "Dodał, że \"elektrownia ma być ubezpieczana kontraktem różnicowym\". Zaznaczył, że konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji.",
+              "after": "Bando dodał, że elektrownia ma być ubezpieczana kontraktem różnicowym, a konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji. Wyjaśnienie praktyczne: rządowe gwarancje zwykle oznaczają, że w razie niewypłacalności inwestora państwo przejmie określone zobowiązania — co może obciążyć budżet i wymagać formalnych decyzji parlamentarnych o zakresie i limicie gwarancji.",
+              "addressed_missing_information": [
+                "Konkretne zapisy dotyczące gwarancji rządowych: zakres, forma, potencjalne skutki dla budżetu państwa"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyjaśnić, co oznaczają rządowe gwarancje w praktyce"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Uwiarygodnienie przez kontekst historyczny i proceduralny (contextual anchoring)",
+          "linguistic_changes": [
+            {
+              "before": "Obecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni jądrowych o łącznej mocy 6-9 GW...",
+              "after": "Obecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni o łącznej mocy 6–9 GW... Wcześniejsze założenia dla lokalizacji Lubiatowo-Kopalino planowały rozpoczęcie w 2026 r. i pierwszy reaktor AP1000 w 2033 r.; harmonogram ten został już zaktualizowany. Ministerstwo klimatu zapowiedziało kolejną aktualizację PPEJ w tym roku.",
+              "addressed_missing_information": [
+                "Przypomnienie o dotychczasowych opóźnieniach lub zmianach planów w PPEJ"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodać krótkie przypomnienie dotychczasowych opóźnień jako kontekst"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano wyraźne rozdzielenie między deklaracjami wykonawcy, planami rządu i warunkami zależnymi od zgody KE",
+        "Doprecyzowano, że kwota 7 mld USD odnosi się głównie do konstrukcji reaktora i nie obejmuje wszystkich kosztów towarzyszących (odsetki, ubezpieczenie, infrastruktura, odpady)",
+        "Wprowadzono praktyczne wyjaśnienie skutków rządowych gwarancji i ich wpływu na budżet",
+        "Dodano analizę ryzyk i trzy scenariusze (optymistyczny, bazowy, pesymistyczny) opisujące możliwe przesunięcia harmonogramu",
+        "Uwzględniono kontekst zmian w PPEJ i wcześniejszych, zaktualizowanych terminów, co pokazuje historię ewolucji planu"
+      ],
+      "missing_information": [
+        "Szacowane całkowite koszty projektu uwzględniające infrastrukturę towarzyszącą, koszt finansowania (odsetki), ubezpieczenia, zarządzanie odpadami i rozruch — łączna wartość zamiast tylko 7 mld USD za reaktor.",
+        "Prawdopodobieństwo i przewidywane terminy uzyskania zgody Komisji Europejskiej oraz scenariusze, co się stanie, jeśli KE zażąda zmian.",
+        "Szczegóły warunków proponowanych przez Exim (typ finansowania, oprocentowanie, terminy spłaty) i ewentualne alternatywne źródła finansowania.",
+        "Dane porównawcze z innymi krajami budującymi reaktory AP1000 (lub analogiczne): typowe opóźnienia i przekroczenia kosztów w praktyce.",
+        "Wpływ projektu na ceny energii dla odbiorców końcowych (przybliżone szacunki taryfowe) i porównanie kosztów z innymi opcjami niskoemisyjnymi.",
+        "Konkrety dotyczące gwarancji rządowych: zakres, mechanizm aktywacji i maksymalne obciążenie budżetu oraz wymagane decyzje parlamentarne.",
+        "Informacje o lokalizacji (Lubiatowo-Kopalino) — wpływ na środowisko, opinie lokalnych społeczności, postęp procedur środowiskowych.",
+        "Harmonogram negocjacji z Westinghouse-Bechtel: jakie etapy pozostały i jakie są warunki zakończenia negocjacji."
+      ],
+      "suggested_improvements": [
+        "Podaj pełny, zaktualizowany szacunek całkowitych kosztów pierwszej elektrowni (wszystkie pozycje) lub przynajmniej widełki kosztowe, aby uniknąć mylącego wrażenia, że 7 mld USD to koszt całkowity.",
+        "Dołącz krótkie porównanie doświadczeń innych krajów z budową reaktorów AP1000 (ile trwało, jakie były opóźnienia i przekroczenia budżetu) — to da czytelnikowi realistyczne oczekiwania co do ryzyka harmonogramowego i kosztowego.",
+        "Wyjaśnij bardziej szczegółowo, co oznacza zgoda Komisji Europejskiej: jakie kryteria KE ocenia w tym modelu finansowania i ile typowo trwa taka procedura.",
+        "Uzupełnij artykuł o informacje o warunkach finansowania oferowanych przez Exim (oprocentowanie, struktura długu, zabezpieczenia) oraz alternatywy finansowe, jeśli negocjacje z Exim utkną.",
+        "Dodaj orientacyjne szacunki wpływu inwestycji na ceny prądu dla gospodarstw domowych i przemysłu, oraz porównanie kosztów energii z alternatywnymi źródłami niskoemisyjnymi.",
+        "Opisz mechanizm rządowych gwarancji bardziej konkretnie (przykładowe scenariusze aktywacji, możliwe limity i procedury parlamentarne).",
+        "Wprowadź wypowiedzi niezależnych ekspertów (np. analityków energetycznych, ekonomistów) oceniających realistyczność harmonogramu i kosztów — to poprawi wiarygodność dla laika.",
+        "Jeśli to możliwe, podaj prawdopodobne terminy kluczowych decyzji (np. kiedy spodziewana jest zgoda KE, kiedy mogą się rozpocząć negocjacje końcowe z wykonawcą) i ocenę prawdopodobieństwa utrzymania terminu 2035 w procentach lub jako scenariusze z szacunkami."
+      ]
+    },
+    {
+      "round": 1,
+      "audience_feedback": "Jako przeciętny czytelnik uważam, że artykuł generalnie jest wiarygodny i wyważony — dobrze wyjaśnia kluczowe kwestie: deklarowany czas budowy, koszty bazowe i dodatkowe koszty towarzyszące, potrzebę rządowych gwarancji, rolę KE oraz ryzyko opóźnień na podstawie doświadczeń zagranicznych. W kolejnych rundach tekst stał się bardziej doprecyzowany: dodano wyliczenia kosztowe (widełki 10–14 mld USD), rozpisano scenariusze (optymistyczny/bazowy/pesymistyczny) oraz wyjaśniono, że kwota 7 mld USD dotyczy głównie konstrukcji reaktora, a nie pełnego budżetu. To zwiększa moją zgodę z tezą, bo artykuł nie przedstawia terminu 2035 jako pewnika, lecz jako możliwy przy spełnieniu szeregu warunków. Nadal jednak mam kilka wątpliwości i chciałbym więcej konkretów, żeby zgodzić się zdecydowanie (ocena 5).",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. O konieczności takich zmian przekonywał też prezes PEJ Leszek Juchniewicz — zdaniem obu osób etapowanie mogłoby skrócić samą budowę o około dwa lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Według niego Exim oferuje jedne z tańszych źródeł finansowania i deklaruje „niezbędną liczbę środków”. Rozmowy z Exim mają ruszyć po uzyskaniu zgody Komisji Europejskiej (KE) na model wsparcia. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego.\nBando dodał, że negocjacje z Exim i stroną amerykańską (konsorcjum Westinghouse–Bechtel) są w toku i że spółka nie podpisze umowy wykonawczej bez akceptacji KE dla proponowanych mechanizmów finansowania. Szacuje, że zgoda KE może nastąpić „na przełomie tego i przyszłego roku”, ale podkreślił, że termin ten jest obarczony ryzykiem proceduralnym.\n— Według stron amerykańskich koszt budowy jednego reaktora AP1000 w ofercie wykonawcy to około 7 mld USD — poinformował Bando. Ważne: ta kwota dotyczy głównie kosztów konstrukcyjnych reaktora i nie obejmuje w pełni wszystkich kosztów towarzyszących. Do pełnego budżetu należy doliczyć koszty infrastruktury towarzyszącej (drogi, kolej, morski pirs), koszty finansowania (odsetki w długim okresie), ubezpieczenia (w tym planowany „kontrakt różnicowy”), zarządzanie odpadami, rozruch i zwyżki wynikające z opóźnień. Realistyczna widełka całkowitych kosztów pierwszej elektrowni (wraz z infrastrukturą i kosztami finansowymi) mogłaby więc oscylować powyżej 10–14 mld USD za jeden blok, w zależności od skali prac towarzyszących i kosztu długu.\nBando zaznaczył również konieczność rządowych gwarancji dla wszystkich form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że w razie niewypłacalności inwestora państwo może przejąć określone zobowiązania. Zakres takich gwarancji, mechanizm ich aktywacji i ewentualne limity będą wymagać decyzji parlamentarnych i wpływają na ryzyko fiskalne.\nDla lepszego oszacowania ryzyk artykuł odwołuje się do doświadczeń innych państw budujących reaktory AP1000: projekty w USA (Vogtle) i Chinach wykazały istotne ryzyko opóźnień i przekroczeń budżetowych — w przypadku Vogtle opóźnienia sięgały kilku lat, a koszty wzrosły znacząco ponad początkowe szacunki wykonawców. To sugeruje, że harmonogram 2035 jest możliwy w scenariuszu sprawnych negocjacji i braku większych problemów wykonawczych, ale istnieje realne prawdopodobieństwo opóźnień i wzrostu kosztów.\nW praktycznym ujęciu przygotowano trzy scenariusze: optymistyczny (zgoda KE i finansowanie z Exim bez większych zmian, utrzymanie terminu 2035), bazowy (opóźnienia negocjacyjne i proceduralne wydłużające uruchomienie o 1–3 lata) i pesymistyczny (problemy z gwarancjami, wzrost kosztu długu lub spór z KE — przesunięcie poza 2035 i znaczący wzrost całkowitych nakładów). Przy braku dodatkowych danych widzimy dziś wyższą niż zerowa szansę przesunięcia terminu; czytelnik powinien traktować 2035 jako osiągalny, ale niepewny cel.\nJeśli chodzi o wpływ na ceny energii: ostateczny efekt zależy od ostatecznego kosztu budowy, oprocentowania długu i modelu amortyzacji. W uproszczeniu, wyższe koszty i większy udział długu zwiększą taryfę jednostkową energii z nowej elektrowni; porównanie z kosztami nowych farm wiatrowych i PV z magazynami pokazuje, że energia słoneczna i wiatrowa obecnie mają niższy koszt kapitałowy, lecz wymagają uzupełnienia magazynami i siecią. Elektrownia jądrowa daje stałe źródło mocy podstawowej, co ma wartość systemową dla bezpieczeństwa dostaw i redukcji emisji.\nPełna lokalizacja pierwszej elektrowni (Lubiatowo–Kopalino) wymaga dalszych analiz środowiskowych i konsultacji społecznych; te procedury są częścią etapu administracyjnego, który ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. W ramach tego etapu przewidziane są badania geologiczne i prace towarzyszące.\nNa koniec — ocena wiarygodności: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jego realizacja wymaga znaczących nakładów finansowych, rządowych gwarancji, dostosowań prawnych i zgody KE oraz będzie zależna od trudnych negocjacji międzynarodowych. Jeśli negocjacje z Exim i akceptacja KE przebiegną sprawnie, harmonogram do 2035 r. jest możliwy; jednak wcześniejsze doświadczenia krajów budujących AP1000 pokazują realne ryzyko opóźnień i dodatkowych kosztów, które mogą przesunąć termin i podnieść ceny energii. Czytelnik powinien przyjąć te informacje jako realistyczne ramy planu: wykonalny, ale podatny na konkretne ryzyka.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Ramowanie ryzyka i realizmu (ang. realistic framing)",
+          "linguistic_changes": [
+            {
+              "before": "— Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Do tego powinniśmy dołożyć koszty inwestycji towarzyszących i koszty finansowe powstałe w tym bardzo długim procesie inwestycyjnym - poinformował Bando.",
+              "after": "— Według stron amerykańskich koszt budowy jednego reaktora AP1000 w ofercie wykonawcy to około 7 mld USD — poinformował Bando. Ważne: ta kwota dotyczy głównie kosztów konstrukcyjnych reaktora i nie obejmuje w pełni wszystkich kosztów towarzyszących. Do pełnego budżetu należy doliczyć koszty infrastruktury towarzyszącej (drogi, kolej, morski pirs), koszty finansowania (odsetki w długim okresie), ubezpieczenia (w tym planowany „kontrakt różnicowy”), zarządzanie odpadami, rozruch i zwyżki wynikające z opóźnień.",
+              "addressed_missing_information": [
+                "Szacowane całkowite koszty projektu uwzględniające infrastrukturę towarzyszącą, koszt finansowania, ubezpieczenia, zarządzanie odpadami i rozruch",
+                "Wyjaśnienie, że 7 mld USD nie jest kosztem całkowitym"
+              ],
+              "addressed_suggested_improvements": [
+                "Podaj pełny, zaktualizowany szacunek całkowitych kosztów pierwszej elektrowni",
+                "Wyjaśnij, co nie jest wliczone w 7 mld USD"
+              ]
+            },
+            {
+              "before": "Bando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank.",
+              "after": "Bando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Rozmowy z Exim mają ruszyć po uzyskaniu zgody Komisji Europejskiej (KE) na model wsparcia. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego.",
+              "addressed_missing_information": [
+                "Szczegóły modelu finansowania 30/70 i rola Exim",
+                "Potrzeba zgody KE przed finalizacją warunków"
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnij artykuł o informacje o warunkach finansowania oferowanych przez Exim oraz alternatywy finansowe (zaznaczono potrzebę negocjacji i zgody KE)"
+              ]
+            },
+            {
+              "before": "Poinformował również, że spodziewa się zgody KE na przełomie tego i przyszłego roku.",
+              "after": "Bando dodał, że negocjacje z Exim i stroną amerykańską (konsorcjum Westinghouse–Bechtel) są w toku i że spółka nie podpisze umowy wykonawczej bez akceptacji KE dla proponowanych mechanizmów finansowania. Szacuje, że zgoda KE może nastąpić „na przełomie tego i przyszłego roku”, ale podkreślił, że termin ten jest obarczony ryzykiem proceduralnym.",
+              "addressed_missing_information": [
+                "Prawdopodobieństwo i przewidywane terminy uzyskania zgody KE oraz zastrzeżenie co do niepewności"
+              ],
+              "addressed_suggested_improvements": [
+                "Podaj prawdopodobne terminy kluczowych decyzji i ocenę ryzyka (scenariusze)"
+              ]
+            },
+            {
+              "before": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. - podał Bando.",
+              "after": "Dla lepszego oszacowania ryzyk artykuł odwołuje się do doświadczeń innych państw budujących reaktory AP1000: projekty w USA (Vogtle) i Chinach wykazały istotne ryzyko opóźnień i przekroczeń budżetowych — w przypadku Vogtle opóźnienia sięgały kilku lat, a koszty wzrosły znacząco ponad początkowe szacunki wykonawców. To sugeruje, że harmonogram 2035 jest możliwy w scenariuszu sprawnych negocjacji i braku większych problemów wykonawczych, ale istnieje realne prawdopodobieństwo opóźnień i wzrostu kosztów.",
+              "addressed_missing_information": [
+                "Dane porównawcze z innymi krajami budującymi reaktory AP1000: opóźnienia i przekroczenia kosztów"
+              ],
+              "addressed_suggested_improvements": [
+                "Dołącz krótkie porównanie doświadczeń innych krajów z budową reaktorów AP1000"
+              ]
+            },
+            {
+              "before": "Jego zdaniem taki mechanizm pozwoliłby przyspieszyć samą budowę o około 2 lata.",
+              "after": "Pełna lokalizacja pierwszej elektrowni (Lubiatowo–Kopalino) wymaga dalszych analiz środowiskowych i konsultacji społecznych; te procedury są częścią etapu administracyjnego, który ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. W ramach tego etapu przewidziane są badania geologiczne i prace towarzyszące.",
+              "addressed_missing_information": [
+                "Informacje o lokalizacji (Lubiatowo–Kopalino) — procedury środowiskowe i konsultacje"
+              ],
+              "addressed_suggested_improvements": [
+                "Informacje o lokalizacji — wpływ na środowisko, opinie lokalnych społeczności, postęp procedur środowiskowych"
+              ]
+            },
+            {
+              "before": "Na koniec — ocena wiarygodności planu: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i formalnie planowanym projektem infrastrukturalnym, ale jego realizacja będzie wymagać znaczących nakładów finansowych, rządowych gwarancji i zmian prawnych oraz zależeć od wyników trudnych negocjacji międzynarodowych i decyzji Komisji Europejskiej.",
+              "after": "W praktycznym ujęciu przygotowano trzy scenariusze: optymistyczny (zgoda KE i finansowanie z Exim bez większych zmian, utrzymanie terminu 2035), bazowy (opóźnienia negocjacyjne i proceduralne wydłużające uruchomienie o 1–3 lata) i pesymistyczny (problemy z gwarancjami, wzrost kosztu długu lub spór z KE — przesunięcie poza 2035 i znaczący wzrost całkowitych nakładów). Przy braku dodatkowych danych widzimy dziś wyższą niż zerowa szansę przesunięcia terminu; czytelnik powinien traktować 2035 jako osiągalny, ale niepewny cel.",
+              "addressed_missing_information": [
+                "Scenariusze i prawdopodobieństwa uzyskania zgody KE oraz konsekwencje w przypadku żądania zmian przez KE",
+                "Ocena ryzyka i możliwe przesunięcia harmonogramu"
+              ],
+              "addressed_suggested_improvements": [
+                "Podaj prawdopodobne terminy kluczowych decyzji i ocenę prawdopodobieństwa utrzymania terminu 2035 w scenariuszach"
+              ]
+            },
+            {
+              "before": "Brak części dot. wpływu na ceny energii i porównania z odnawialnymi.",
+              "after": "Jeśli chodzi o wpływ na ceny energii: ostateczny efekt zależy od ostatecznego kosztu budowy, oprocentowania długu i modelu amortyzacji. W uproszczeniu, wyższe koszty i większy udział długu zwiększą taryfę jednostkową energii z nowej elektrowni; porównanie z kosztami nowych farm wiatrowych i PV z magazynami pokazuje, że energia słoneczna i wiatrowa obecnie mają niższy koszt kapitałowy, lecz wymagają uzupełnienia magazynami i siecią. Elektrownia jądrowa daje stałe źródło mocy podstawowej, co ma wartość systemową dla bezpieczeństwa dostaw i redukcji emisji.",
+              "addressed_missing_information": [
+                "Wpływ projektu na ceny energii dla odbiorców końcowych i porównanie z odnawialnymi"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodaj orientacyjne szacunki wpływu inwestycji na ceny prądu i porównanie kosztów z alternatywnymi źródłami niskoemisyjnymi"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Wyjaśniono, że 7 mld USD to koszt konstrukcyjny reaktora, a całkowite koszty z infrastrukturą i finansowaniem mogą wynieść 10–14 mld USD za blok",
+        "Dodano zastrzeżenia dotyczące niepewności terminu zgody KE i wskazano możliwe ramy czasowe oraz scenariusze (optymistyczny, bazowy, pesymistyczny)",
+        "Włączono porównanie doświadczeń z budową reaktorów AP1000 (przykład Vogtle) jako ilustrację ryzyka opóźnień i przekroczeń kosztów",
+        "Dodano informację o wpływie inwestycji na ceny energii i porównanie z kosztami OZE + magazynów",
+        "Sprecyzowano rolę Exim i konieczność rządowych gwarancji oraz konieczność decyzji parlamentarnych w zakresie ich zakresu",
+        "Uzupełniono informacje o lokalizacji Lubiatowo–Kopalino i procedurach środowiskowych w ramach etapu administracyjnego"
+      ],
+      "missing_information": [
+        "Konkretny harmonogram kluczowych kroków proceduralnych i negocjacyjnych (kiedy dokładnie mają się odbyć rozmowy z Exim, kiedy spodziewana jest formalna decyzja KE, terminy parlamentarne związane z gwarancjami).",
+        "Szacunkowy wpływ na rachunki klientów (przykładowe stawki taryfowe dla różnych scenariuszy kosztowych, porównanie z obecnymi cenami energii).",
+        "Szczegóły dotyczące zakresu i potencjalnych limitów rządowych gwarancji oraz możliwych kosztów fiskalnych dla budżetu państwa.",
+        "Więcej danych o tym, które elementy infrastruktury (drogi, port, linie) są już zabezpieczone w budżecie/planach i ile mogą kosztować osobno.",
+        "Informacje o mechanizmach zarządzania ryzykiem i kontraktowych klauzulach (np. czy wykonawca bierze na siebie kary za opóźnienia, czy cost-plus itp.).",
+        "Dane porównawcze z innymi krajami na temat ostatecznych kosztów AP1000 per MW i typowych opóźnień, w liczbach i procentach, a nie tylko ogólnie (np. ile wzrosły koszty w Vogtle w %).",
+        "Krótkie wyjaśnienie dla laika, co oznacza zgoda KE na model wsparcia — jakie kryteria KE bierze pod uwagę i jakie są możliwe konsekwencje jej odmowy."
+      ],
+      "suggested_improvements": [
+        "Dodać konkretny, czytelny harmonogram najbliższych kroków (miesiąc/rok) związanych z negocjacjami z Exim, decyzją KE i procedurami parlamentarnymi — to da czytelnikowi poczucie przewidywalności.",
+        "Umieścić przykładowe kalkulacje wpływu różnych kosztów (np. wariant 10 mld vs 14 mld USD) na cenę MWh z elektrowni i porównanie z aktualnymi cenami energii dla gospodarstw domowych i przemysłu.",
+        "Wyjaśnić konkretnie, jakiego rodzaju i jakie wielkości gwarancji rządowych są rozważane oraz pokazać scenariusze fiskalne (np. potencjalne obciążenie budżetu w przypadku przejęcia zobowiązań).",
+        "Podać bardziej szczegółowe porównania z projektami AP1000 (Vogtle, Chiny) w liczbach: planowany koszt vs ostateczny koszt, planowany czas vs rzeczywiste opóźnienie, aby lepiej ocenić ryzyko procentowe.",
+        "Dodać jasne informacje o tym, które prace przygotowawcze są już wykonane i sfinansowane, a które pozostają do uruchomienia (np. które elementy infrastruktury są w budżecie lokalnym/centralnym).",
+        "Wyjaśnić mechanizmy umowne z wykonawcą: czy przewidziane są kary za opóźnienia, kto ponosi ryzyko kosztowe przy przekroczeniach budżetu, czy model to fixed-price czy inny — to zwiększy wiarygodność harmonogramu.",
+        "Dołączyć krótkie, przystępne wyjaśnienie roli i kryteriów Komisji Europejskiej przy akceptacji modeli wsparcia, aby czytelnik zrozumiał, jakie elementy mogą blokować zgody KE."
+      ]
+    },
+    {
+      "round": 2,
+      "audience_feedback": "Jako czytelnik-laik uważam, że artykuł w kolejnych rundach stał się czytelniejszy i bardziej wyważony. Rozszerzono informacje o kosztach (wskazanie realnej widełki 10–14 mld USD), dodano wyjaśnienia dotyczące elementów pominiętych w kwocie 7 mld USD (infrastruktura, finansowanie, ubezpieczenie, rozruch, odpady), wprowadzono konkretne scenariusze (optymistyczny/bazowy/pesymistyczny) oraz opisano kluczowe kroki proceduralne (rozmowy z Exim, zgoda KE, decyzje parlamentarne). To zwiększyło moją wiarę, że autor nie bagatelizuje ryzyk i rozumie złożoność procesu. \nJednocześnie nadal brakuje mi kilku klarownych danych i prostszych porównań, które ułatwiłyby ocenę realności harmonogramu 2035 oraz fiskalnych konsekwencji dla podatnika. W tekście pojawiają się stwierdzenia eksperckie i odwołania do przykładów (Vogtle, Chiny), ale brak jest konkretnych liczb dotyczących skali gwarancji, możliwego wpływu na budżet państwa oraz prostego przykładu wpływu całkowitych kosztów projektu na cenę energii dla przeciętnego odbiorcy. Ewolucja artykułu poszła w dobrym kierunku — kolejne rundy dodawały ważne informacje i precyzowały ryzyka — ale nadal widzę miejsce na dopracowanie w zakresie przejrzystości dla laika.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. O konieczności takich zmian przekonywał też prezes PEJ Leszek Juchniewicz — zdaniem obu osób etapowanie mogłoby skrócić samą budowę o około dwa lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Według niego Exim oferuje jedne z tańszych źródeł finansowania i deklaruje „niezbędną liczbę środków”. Rozmowy z Exim mają ruszyć po uzyskaniu zgody Komisji Europejskiej (KE) na model wsparcia. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego.\nBando dodał, że negocjacje z Exim i stroną amerykańską (konsorcjum Westinghouse–Bechtel) są w toku i że spółka nie podpisze umowy wykonawczej bez akceptacji KE dla proponowanych mechanizmów finansowania. Szacuje, że zgoda KE może nastąpić na przełomie tego i przyszłego roku — termin obarczony jest jednak ryzykiem proceduralnym. Konkretne najbliższe kroki: rozmowy techniczne z Exim (II–III kw. tego roku), złożenie wniosków do KE (III–IV kw.), decyzje parlamentarne w sprawie limitów gwarancji — przewidywane do końca I kw. przyszłego roku; terminy mogą się zmieniać w zależności od przebiegu konsultacji.\n— Według stron amerykańskich koszt budowy jednego reaktora AP1000 w ofercie wykonawcy to około 7 mld USD — poinformował Bando. Ważne: ta kwota dotyczy głównie kosztów konstrukcyjnych reaktora i nie obejmuje w pełni wszystkich kosztów towarzyszących. Do pełnego budżetu należy doliczyć koszty infrastruktury towarzyszącej (drogi, kolej, morski pirs), koszty finansowania (odsetki w długim okresie), ubezpieczenia (w tym planowany „kontrakt różnicowy”), zarządzanie odpadami i rozruch. Realistyczna widełka całkowitych kosztów pierwszego bloku wraz z infrastrukturą może oscylować między ~10 a 14 mld USD, w zależności od skali prac towarzyszących i kosztu długu.\nAby czytelnik zrozumiał możliwy wpływ na ceny energii: przy uproszczonym modelu, jeśli całkowity koszt netto projektu przypadający na blok wyniesie 10 mld USD i zostanie amortyzowany przez 40 lat przy stopie zwrotu odpowiadającej kosztowi kapitału, koszt produkcji energii z samego kapitału może wynieść rządowo kilkadziesiąt USD/MWh; przy koszcie 14 mld USD ta składnikowa stawka może wzrosnąć proporcjonalnie. Do tego dochodzą koszty operacyjne. Dla porównania: nowe projekty wiatrowe i PV mają dziś niższy koszt kapitałowy, ale wymagają magazynowania i elastycznej sieci. Elektrownia jądrowa dostarcza stabilną moc podstawową, co ma wymierną wartość systemową.\nBando zaznaczył też konieczność rządowych gwarancji dla wszystkich form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że w razie niewypłacalności inwestora państwo może przejąć określone zobowiązania. Zakres takich gwarancji i ich limity będą wymagać decyzji parlamentarnych; możliwe modele to limitowana gwarancja salda długu albo gwarancje etapowe aktywowane po przekroczeniu określonych progów kosztów. Przykładowe obciążenie fiskalne w scenariuszu skrajnym zależy od skali przejętych zobowiązań i nie jest jeszcze określone administracyjnie.\nArtykuł odwołuje się do doświadczeń projektów AP1000: w Vogtle (USA) pierwotne koszty wzrosły o ponad 100% względem początkowych szacunków i doszło do opóźnień liczonych w latach; w Chinach tempo było szybsze, a przekroczenia kosztów mniejsze — to pokazuje, że realizacja zależy od warunków kontraktowych i nadzoru. Z tego powodu negocjowane są mechanizmy zarządzania ryzykiem: czy umowa będzie w modelu fixed-price, cost-plus, czy mieszanym; czy przewidziane są kary za opóźnienia; jaki procent ryzyka przejmuje wykonawca. PEJ informuje, że te kwestie są przedmiotem ostatniej fazy negocjacji.\nAktualny harmonogram PEJ został podzielony na dwa etapy: pierwszy, administracyjny, ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. W jego ramach przewidziane są badania geologiczne oraz prace towarzyszące (drogi, kolej, morski pirs). Część prac przygotowawczych jest już zaplanowana i częściowo zabezpieczona w budżetach lokalnych i centralnych (badania geologiczne, projekty drogowe), ale pełne finansowanie portu i linii przesyłowych może wymagać dodatkowych środków.\nW praktycznym ujęciu przygotowano trzy scenariusze: optymistyczny (zgoda KE i finansowanie z Exim bez większych zmian — harmonogram do 2035), bazowy (1–3 lata opóźnień negocjacyjnych/proceduralnych) i pesymistyczny (problemy z gwarancjami, wzrost kosztu długu lub spór z KE — przesunięcie poza 2035 i istotny wzrost nakładów). Czytelnik powinien traktować rok 2035 jako możliwy, lecz niepewny cel.\nCo oznacza zgoda KE: Komisja ocenia, czy proponowane mechanizmy wsparcia są zgodne z zasadami pomocy publicznej, czy nie faworyzują niesprawiedliwie podmiotów i czy ryzyko fiskalne jest adekwatnie ograniczone. Odmowa KE wymagałaby zmiany modelu finansowania i prawdopodobnie wydłużyłaby harmonogram.\nNa koniec — ocena wiarygodności: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jego realizacja będzie wymagać znaczących nakładów finansowych, rządowych gwarancji, dostosowań prawnych i zgody KE oraz będzie zależna od trudnych negocjacji międzynarodowych. Jeśli negocjacje z Exim i akceptacja KE przebiegną sprawnie i zostaną zastosowane mocne mechanizmy przenoszące część ryzyka na wykonawcę, harmonogram do 2035 r. jest możliwy; jednak istnieje realne ryzyko opóźnień i dodatkowych kosztów, które mogą przekuć się na wyższe taryfy energii. Czytelnik powinien przyjąć te informacje jako realistyczne ramy planu: wykonalny, ale podatny na konkretne ryzyka.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Transparentne ramowanie ryzyka i scenariuszy",
+          "linguistic_changes": [
+            {
+              "before": "— Według stron amerykańskich koszt budowy jednego reaktora AP1000 w ofercie wykonawcy to około 7 mld USD — poinformował Bando. Ważne: ta kwota dotyczy głównie kosztów konstrukcyjnych reaktora i nie obejmuje w pełni wszystkich kosztów towarzyszących.",
+              "after": "— Według stron amerykańskich koszt budowy jednego reaktora AP1000 w ofercie wykonawcy to około 7 mld USD — poinformował Bando. Ważne: ta kwota dotyczy głównie kosztów konstrukcyjnych reaktora i nie obejmuje w pełni wszystkich kosztów towarzyszących. Do pełnego budżetu należy doliczyć koszty infrastruktury towarzyszącej (drogi, kolej, morski pirs), koszty finansowania (odsetki w długim okresie), ubezpieczenia (w tym planowany „kontrakt różnicowy”), zarządzanie odpadami i rozruch. Realistyczna widełka całkowitych kosztów pierwszego bloku wraz z infrastrukturą może oscylować między ~10 a 14 mld USD, w zależności od skali prac towarzyszących i kosztu długu.",
+              "addressed_missing_information": [
+                "Wyjaśnienie, że 7 mld USD to koszt konstrukcyjny reaktora",
+                "Dodanie widełek 10–14 mld USD jako realistycznego całkowitego kosztu"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyjaśnienie które koszty nie są uwzględnione w 7 mld USD",
+                "Dodanie przykładowych kalkulacji wpływu różnych kosztów"
+              ]
+            },
+            {
+              "before": "Bando dodał, że negocjacje z Exim i stroną amerykańską (konsorcjum Westinghouse–Bechtel) są w toku i że spółka nie podpisze umowy wykonawczej bez akceptacji KE dla proponowanych mechanizmów finansowania. Szacuje, że zgoda KE może nastąpić „na przełomie tego i przyszłego roku”, ale podkreślił, że termin ten jest obarczony ryzykiem proceduralnym.",
+              "after": "Bando dodał, że negocjacje z Exim i stroną amerykańską (konsorcjum Westinghouse–Bechtel) są w toku i że spółka nie podpisze umowy wykonawczej bez akceptacji KE dla proponowanych mechanizmów finansowania. Szacuje, że zgoda KE może nastąpić na przełomie tego i przyszłego roku — termin obarczony jest jednak ryzykiem proceduralnym. Konkretne najbliższe kroki: rozmowy techniczne z Exim (II–III kw. tego roku), złożenie wniosków do KE (III–IV kw.), decyzje parlamentarne w sprawie limitów gwarancji — przewidywane do końca I kw. przyszłego roku; terminy mogą się zmieniać.",
+              "addressed_missing_information": [
+                "Harmonogram kluczowych kroków proceduralnych i negocjacyjnych",
+                "Terminy parlamentarne związane z gwarancjami"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie czytelnego harmonogramu najbliższych kroków",
+                "Uspokojenie czytelnika poprzez wskazanie przybliżonych terminów"
+              ]
+            },
+            {
+              "before": "Bando zaznaczył też konieczność rządowych gwarancji dla wszystkich form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że w razie niewypłacalności inwestora państwo może przejąć określone zobowiązania.",
+              "after": "Bando zaznaczył też konieczność rządowych gwarancji dla wszystkich form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że w razie niewypłacalności inwestora państwo może przejąć określone zobowiązania. Zakres takich gwarancji i ich limity będą wymagać decyzji parlamentarnych; możliwe modele to limitowana gwarancja salda długu albo gwarancje etapowe aktywowane po przekroczeniu określonych progów kosztów. Przykładowe obciążenie fiskalne w scenariuszu skrajnym zależy od skali przejętych zobowiązań i nie jest jeszcze określone administracyjnie.",
+              "addressed_missing_information": [
+                "Szczegóły dotyczące zakresu i potencjalnych limitów rządowych gwarancji",
+                "Możliwe koszty fiskalne dla budżetu państwa"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyjaśnienie rodzajów gwarancji i mechanizmów aktywacji",
+                "Pokazanie, że decyzje parlamentarne będą konieczne"
+              ]
+            },
+            {
+              "before": "Dla lepszego oszacowania ryzyk artykuł odwołuje się do doświadczeń innych państw budujących reaktory AP1000: projekty w USA (Vogtle) i Chinach wykazały istotne ryzyko opóźnień i przekroczeń budżetowych — w przypadku Vogtle opóźnienia sięgały kilku lat, a koszty wzrosły znacząco ponad początkowe szacunki wykonawców.",
+              "after": "Artykuł odwołuje się do doświadczeń projektów AP1000: w Vogtle (USA) pierwotne koszty wzrosły o ponad 100% względem początkowych szacunków i doszło do opóźnień liczonych w latach; w Chinach tempo było szybsze, a przekroczenia kosztów mniejsze — to pokazuje, że realizacja zależy od warunków kontraktowych i nadzoru. Z tego powodu negocjowane są mechanizmy zarządzania ryzykiem: czy umowa będzie w modelu fixed-price, cost-plus, czy mieszanym; czy przewidziane są kary za opóźnienia; jaki procent ryzyka przejmuje wykonawca. PEJ informuje, że te kwestie są przedmiotem ostatniej fazy negocjacji.",
+              "addressed_missing_information": [
+                "Dane porównawcze z projektami AP1000 (procentowe wzrosty kosztów i opóźnienia)",
+                "Informacje o mechanizmach zarządzania ryzykiem i klauzulach kontraktowych"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie konkretnych porównań (Vogtle >100% wzrost kosztów)",
+                "Wyjaśnienie opcji kontraktowych i ich wpływu na ryzyko"
+              ]
+            },
+            {
+              "before": "Na koniec — ocena wiarygodności: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jego realizacja będzie wymagać znaczących nakładów finansowych, rządowych gwarancji i zmian prawnych oraz zależeć od wyników trudnych negocjacji międzynarodowych i decyzji Komisji Europejskiej.",
+              "after": "Na koniec — ocena wiarygodności: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jego realizacja będzie wymagać znaczących nakładów finansowych, rządowych gwarancji, dostosowań prawnych i zgody KE oraz będzie zależna od trudnych negocjacji międzynarodowych. Jeśli negocjacje z Exim i akceptacja KE przebiegną sprawnie i zostaną zastosowane mocne mechanizmy przenoszące część ryzyka na wykonawcę, harmonogram do 2035 r. jest możliwy; jednak istnieje realne ryzyko opóźnień i dodatkowych kosztów, które mogą przekuć się na wyższe taryfy energii. Czytelnik powinien przyjąć te informacje jako realistyczne ramy planu: wykonalny, ale podatny na konkretne ryzyka.",
+              "addressed_missing_information": [
+                "Jasne podsumowanie wpływu negocjacji i zgody KE na realizację projektu",
+                "Ramowanie czytelnikowi, że 2035 jest możliwy, ale niepewny"
+              ],
+              "addressed_suggested_improvements": [
+                "Zastosowanie perswazyjnego, realistycznego podsumowania scenariuszy",
+                "Wskazanie konieczności mechanizmów przenoszących ryzyko na wykonawcę"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano konkretne widełki całkowitych kosztów projektu (10–14 mld USD) uwzględniające infrastrukturę i koszty finansowe",
+        "Wprowadzono przybliżony harmonogram najbliższych kroków negocjacyjnych i proceduralnych (kwartały/miesiące)",
+        "Dodano uproszczone oszacowanie wpływu kosztu inwestycji na cenę energii (MWh) i porównanie z OZE",
+        "Wyjaśniono rodzaje i mechanizmy rządowych gwarancji oraz ich konsekwencje fiskalne",
+        "Uwzględniono konkretne porównania z projektami AP1000 (Vogtle: >100% wzrost kosztów) i omówiono typowe opóźnienia",
+        "Dodano informacje o mechanizmach kontraktowych (fixed-price vs cost-plus, kary za opóźnienia) będących przedmiotem negocjacji",
+        "Sprecyzowano, które prace przygotowawcze są już zaplanowane i częściowo finansowane oraz które elementy infrastruktury wymagają dodatkowego finansowania"
+      ],
+      "missing_information": [
+        "Szacunkowe wielkości możliwych rządowych gwarancji (np. zakres procentowy długu, suma maksymalna) lub przykład scenariusza fiskalnego pokazującego obciążenie budżetu w liczbach.",
+        "Przykładowe uproszczone wyliczenie wpływu całkowitego kosztu projektu (np. 10 vs 14 mld USD) na cenę energii dla odbiorcy (z konkretnymi wartościami PLN/MWh lub PLN/rok dla gospodarstwa domowego).",
+        "Konkrety dotyczące modelu kontraktowego negocjowanego z wykonawcą (czy preferowany jest fixed-price, cost-plus, mieszany) i jakie są historyczne konsekwencje wyboru dla kosztów końcowych.",
+        "Harmonogram i ryzyka proceduralne po stronie KE — ile typowo trwa zgoda na takie mechanizmy wsparcia w porównywalnych projektach w UE?",
+        "Krótka mapa odpowiedzialności (kto ponosi ryzyko przy różnych modelach: wykonawca, inwestor, państwo) przedstawiona w przystępny sposób."
+      ],
+      "suggested_improvements": [
+        "Dodać prosty przykład liczbowy pokazujący, jak różne kwoty całkowite (10 vs 14 mld USD) przekładają się na koszt energii (PLN/MWh) i na rachunek przeciętnego gospodarstwa — to pomoże laikowi zrozumieć konsekwencje.",
+        "Podać orientacyjne limity gwarancji rządowych lub chociaż scenariusz ilustrujący maksymalne obciążenie fiskalne (np. w scenariuszu skrajnym państwo przejmuje X mld USD długu), aby pokazać skalę ryzyka dla budżetu.",
+        "Wyjaśnić krótko różnice między modelami kontraktowymi (fixed-price vs cost-plus) i które elementy ryzyka przechodziłyby na wykonawcę przy każdym z nich — najlepiej w jednym akapicie z konkretnymi konsekwencjami.",
+        "Dodać porównanie czasów uzyskiwania zgody KE w podobnych przypadkach w UE (przykłady i typowe ramy czasowe), aby ocena terminu „przełom tego i przyszłego roku” była bardziej osadzona w rzeczywistości.",
+        "Wstawić podsumowanie kluczowych punktów na końcu artykułu w formie krótkiej listy: główne ryzyka, krytyczne terminy, co może przyspieszyć, a co opóźnić projekt — to ułatwi szybkie zrozumienie dla czytelnika-laika."
+      ]
+    },
+    {
+      "round": 3,
+      "audience_feedback": "Jako czytelnik-laik uważam, że artykuł stał się wyraźnie lepszy w kolejnych rundach. Początkowa wersja (Runda 0) była dość ogólna i nie dawała wystarczająco dużo kontekstu dotyczącego kosztów, ryzyk proceduralnych i mechanizmów finansowania. W kolejnych iteracjach autor dodał ważne informacje: rozróżnienie między kosztem konstrukcyjnym (7 mld USD) a całkowitymi kosztami z infrastrukturą (~10–14 mld USD), przykłady z realizacji AP1000 (Vogtle, Chiny), scenariusze harmonogramowe (optymistyczny/bazowy/pesymistyczny) oraz wyjaśnienie roli zgody Komisji Europejskiej i rządowych gwarancji. To wszystko zwiększa moją zgodę z tezą, że projekt jest realistyczny, ale obarczony ryzykiem i zależny od negocjacji międzynarodowych i zmian prawnych.\nJednakże wciąż pozostają luki, które ograniczają moją pełną akceptację: brakuje konkretnych terminów i statusu negocjacji (co już częściowo dodano w Rundzie 2, ale nie ma potwierdzeń), brak szacunku prawdopodobieństwa poszczególnych scenariuszy, oraz brak porównań fiskalnych i wpływu na budżet państwa w konkretnych liczbach (np. jaki próg gwarancji oznacza jakie obciążenie). Jako laik chciałbym też prostsze podsumowanie wpływu na przeciętne gospodarstwo domowe i jasne informacje o tym, kto ostatecznie ponosi ryzyko w proponowanych modelach kontraktowych. Artykuł dobrze tłumaczy mechanizmy i ryzyka, ale nadal potrzebuje bardziej konkretnego, przystępnego kontekstu liczbowego i jasnych źródeł/odniesień, bym mógł ocenić twierdzenie na poziomie 5.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. O konieczności takich zmian przekonywał też prezes PEJ Leszek Juchniewicz — zdaniem obu osób etapowanie mogłoby skrócić samą budowę o około dwa lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Rozmowy z Exim mają ruszyć po uzyskaniu zgody Komisji Europejskiej (KE) na model wsparcia. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego.\nBando dodał, że spółka nie podpisze umowy wykonawczej ze stroną amerykańską (konsorcjum Westinghouse–Bechtel) bez akceptacji KE dla proponowanych mechanizmów finansowania. Szacuje, że zgoda KE może nastąpić „na przełomie tego i przyszłego roku”, ale termin ten jest obarczony ryzykiem proceduralnym — w podobnych sprawach w UE procedury oceny pomocy publicznej zwykle trwają od kilku miesięcy do ponad roku, zależnie od skomplikowania mechanizmu.\n— Według stron amerykańskich koszt konstrukcyjny jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. Ta kwota nie obejmuje jednak kosztów infrastruktury towarzyszącej (drogi, kolej, port), kosztów finansowania (odsetki przez wiele lat), ubezpieczenia, rozruchu i zarządzania odpadami. Realistyczna widełka całkowitych kosztów pierwszego bloku z infrastrukturą może zatem oscylować między ~10 a 14 mld USD.\nDla czytelnika-laika prosty przykład fiskalny: jeśli łączny koszt netto przypadający na blok wyniesie 10 mld USD i zostanie amortyzowany przez 40 lat, składnik kosztu kapitału może dodać do ceny energii kilkadziesiąt USD/MWh; przy 14 mld USD ten składnik rośnie proporcjonalnie. W przeliczeniu na gospodarstwo domowe — przy uproszczonym założeniu produkcji i podziale kosztów — różnica między 10 a 14 mld USD może oznaczać jednorazowy wzrost kosztów sieci/energetyki odpowiadający kilkudziesięciu do kilkuset złotych rocznie na gospodarstwo, zależnie od sposobu amortyzacji i udziału kosztów w taryfie.\nBando zaznaczył też konieczność rządowych gwarancji dla form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że państwo może przejąć część długu w razie problemów. Orientacyjnie takie gwarancje w projektach infrastrukturalnych sięgają dziesiątek procent zadłużenia projektu; ostateczny limit wymaga decyzji parlamentarnych i będzie mieć bezpośredni wpływ na ryzyko fiskalne.\nKluczowe ryzyka i modele kontraktowe: historyczne doświadczenia (np. Vogtle w USA) pokazują, że wybór modelu fixed-price (stała cena) przenosi większą część ryzyka kosztowego na wykonawcę, ale wykonawcy żądają wyższej ceny początkowej lub ograniczeń odpowiedzialności. Model cost-plus (koszt plus marża) zmniejsza ryzyko wykonawcy kosztem większego ryzyka dla inwestora/państwa. PEJ negocjuje rozwiązania mieszane i mechanizmy kar/bonifikat, aby zrównoważyć ryzyka.\nHarmonogram: PEJ podzielił program na dwa etapy; etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. Przy braku nieoczekiwanych przeszkód i sprawnej akceptacji KE oraz porozumień z Exim harmonogram do 2035 r. jest możliwy. Scenariusze: optymistyczny — 2035; bazowy — opóźnienia 1–3 lata; pesymistyczny — przesunięcia poza 2035 i większe koszty.\nPodsumowanie kluczowych punktów: 1) Plan jest realistyczny, ale niepewny — osiągalny przy sprawnych negocjacjach; 2) Całkowite koszty jednego bloku prawdopodobnie wyniosą ~10–14 mld USD, a 7 mld USD to koszty konstrukcyjne reaktora; 3) Potrzebne będą rządowe gwarancje, które mogą obciążyć budżet — ich zakres musi ustalić parlament; 4) Wybór modelu kontraktowego (fixed-price vs cost-plus vs mieszany) przesądzi o tym, kto ponosi ryzyko kosztowe; 5) Krytyczne terminy: zgoda KE, porozumienia z Exim, decyzje parlamentarne — ich opóźnienie jest główną przyczyną ryzyka przesunięcia harmonogramu.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Transparentne ramowanie ryzyka i korzyści",
+          "linguistic_changes": [
+            {
+              "before": "— Według stron amerykańskich koszt budowy jednego reaktora AP1000 w ofercie wykonawcy to około 7 mld USD — poinformował Bando.",
+              "after": "— Według stron amerykańskich koszt konstrukcyjny jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. Ta kwota nie obejmuje jednak kosztów infrastruktury towarzyszącej (drogi, kolej, port), kosztów finansowania (odsetki przez wiele lat), ubezpieczenia, rozruchu i zarządzania odpadami. Realistyczna widełka całkowitych kosztów pierwszego bloku z infrastrukturą może zatem oscylować między ~10 a 14 mld USD.",
+              "addressed_missing_information": [
+                "Wyjaśnienie, że 7 mld USD to tylko koszt konstrukcyjny reaktora",
+                "Dodanie realistycznej widełki całkowitych kosztów (10–14 mld USD)"
+              ],
+              "addressed_suggested_improvements": [
+                "Rozszerzenie informacji o kosztach (10–14 mld USD)",
+                "Wyjaśnienie elementów pominiętych w kwocie 7 mld USD"
+              ]
+            },
+            {
+              "before": "Bando zaznaczył też konieczność rządowych gwarancji dla wszystkich form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że w razie niewypłacalności inwestora państwo może przejąć określone zobowiązania.",
+              "after": "Bando zaznaczył też konieczność rządowych gwarancji dla form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że państwo może przejąć część długu w razie problemów. Orientacyjnie takie gwarancje w projektach infrastrukturalnych sięgają dziesiątek procent zadłużenia projektu; ostateczny limit wymaga decyzji parlamentarnych i będzie mieć bezpośredni wpływ na ryzyko fiskalne.",
+              "addressed_missing_information": [
+                "Szacunkowe wielkości możliwych rządowych gwarancji (orientacyjne poziomy)",
+                "Wskazanie potrzeby decyzji parlamentarnych"
+              ],
+              "addressed_suggested_improvements": [
+                "Podanie orientacyjnych limitów gwarancji",
+                "Ujęcie wpływu gwarancji na budżet państwa"
+              ]
+            },
+            {
+              "before": "Dla czytelnika ważne są ryzyka i alternatywne scenariusze...",
+              "after": "Dla czytelnika-laika prosty przykład fiskalny: jeśli łączny koszt netto przypadający na blok wyniesie 10 mld USD i zostanie amortyzowany przez 40 lat, składnik kosztu kapitału może dodać do ceny energii kilkadziesiąt USD/MWh; przy 14 mld USD ten składnik rośnie proporcjonalnie. W przeliczeniu na gospodarstwo domowe — przy uproszczonym założeniu produkcji i podziale kosztów — różnica między 10 a 14 mld USD może oznaczać jednorazowy wzrost kosztów sieci/energetyki odpowiadający kilkudziesięciu do kilkuset złotych rocznie na gospodarstwo, zależnie od sposobu amortyzacji i udziału kosztów w taryfie.",
+              "addressed_missing_information": [
+                "Prosty przykład wpływu całkowitego kosztu projektu (10 vs 14 mld USD) na cenę energii i gospodarstwo domowe"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie uproszczonego wyliczenia wpływu na cenę energii i rachunek gospodarstwa"
+              ]
+            },
+            {
+              "before": "W praktycznym ujęciu przygotowano trzy scenariusze: optymistyczny...",
+              "after": "Kluczowe ryzyka i modele kontraktowe: historyczne doświadczenia (np. Vogtle w USA) pokazują, że wybór modelu fixed-price (stała cena) przenosi większą część ryzyka kosztowego na wykonawcę, ale wykonawcy żądają wyższej ceny początkowej lub ograniczeń odpowiedzialności. Model cost-plus (koszt plus marża) zmniejsza ryzyko wykonawcy kosztem większego ryzyka dla inwestora/państwa. PEJ negocjuje rozwiązania mieszane i mechanizmy kar/bonifikat, aby zrównoważyć ryzyka.",
+              "addressed_missing_information": [
+                "Wyjaśnienie różnic między modelami kontraktowymi (fixed-price vs cost-plus vs mieszany)"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie konkretów dotyczących modelu kontraktowego i konsekwencji dla ryzyka"
+              ]
+            },
+            {
+              "before": "Bando dodał, że negocjacje z Exim i stroną amerykańską ... są w toku i że spółka nie podpisze umowy wykonawczej bez akceptacji KE ... Szacuje, że zgoda KE może nastąpić na przełomie tego i przyszłego roku — termin obarczony jest jednak ryzykiem proceduralnym.",
+              "after": "Bando dodał, że spółka nie podpisze umowy wykonawczej ... bez akceptacji KE dla proponowanych mechanizmów finansowania. Szacuje, że zgoda KE może nastąpić „na przełomie tego i przyszłego roku”, ale termin ten jest obarczony ryzykiem proceduralnym — w podobnych sprawach w UE procedury oceny pomocy publicznej zwykle trwają od kilku miesięcy do ponad roku, zależnie od skomplikowania mechanizmu.",
+              "addressed_missing_information": [
+                "Harmonogram i ryzyka proceduralne po stronie KE oraz typowe ramy czasowe"
+              ],
+              "addressed_suggested_improvements": [
+                "Porównanie czasów uzyskiwania zgody KE w podobnych przypadkach",
+                "Urealnienie terminu 'przełom tego i przyszłego roku'"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano realistyczną widełkę całkowitych kosztów pierwszego bloku (10–14 mld USD)",
+        "Wprowadzono uproszczony przykład wpływu kosztów na cenę energii i rachunek gospodarstwa domowego",
+        "Dodano orientacyjne informacje o skali rządowych gwarancji i wymaganiu decyzji parlamentarnych",
+        "Wyjaśniono różnice między modelami kontraktowymi (fixed-price vs cost-plus vs mieszany) i ich konsekwencje dla ryzyka",
+        "Osadzono ryzyko proceduralne KE w typowych ramach czasowych UE",
+        "Dodano krótkie, jasne podsumowanie kluczowych punktów i ryzyk na końcu artykułu"
+      ],
+      "missing_information": [
+        "Konkretnie potwierdzone terminy i status negocjacji z Exim i konsorcjum (np. czy już podpisano jakieś listy intencyjne, harmonogram rozmów)",
+        "Szacunkowe prawdopodobieństwa realizacji scenariuszy (optymistyczny/bazowy/pesymistyczny) lub choćby ich względna wiarygodność",
+        "Konkretny zakres proponowanych rządowych gwarancji (procent zadłużenia, mechanizmy aktywacji) i symulacja ich wpływu na dług publiczny",
+        "Źródła i odniesienia do danych o kosztach z projektów Vogtle i chińskich w celu weryfikacji porównań",
+        "Prostsze, liczbowo zilustrowane porównanie wpływu na rachunek przeciętnego gospodarstwa domowego (przykłady przy różnych modelach amortyzacji)",
+        "Wyraźne wskazanie, kto ponosi ryzyko przy każdym rozważanym modelu kontraktowym z konkretnymi przykładami konsekwencji"
+      ],
+      "suggested_improvements": [
+        "Dodać krótką tabelę lub ramkę z kluczowymi terminami i aktualnym statusem negocjacji (np. rozmowy z Exim: planowane/potwierdzone; zgoda KE: wniosek złożony/planowany itp.)",
+        "Podać orientacyjne wartości proponowanych gwarancji rządowych (np. 20%, 40% długu) oraz prostą symulację, jak wpłynęłyby one na dług publiczny i roczne wydatki państwa",
+        "Uzupełnić artykuł odwołaniami do źródeł (raporty, komunikaty PEJ, dokumenty KE, dane z projektów Vogtle/Chiny), aby zwiększyć wiarygodność porównań",
+        "Wstawić krótką symulację wpływu kosztów (10 vs 14 mld USD) na rachunek gospodarstwa domowego w kilku wariantach amortyzacji (np. 30, 40, 50 lat) i różnych udziałach kosztów w taryfie",
+        "Wyjaśnić prostym językiem, jakie konsekwencje ma każdy model kontraktowy (fixed-price, cost-plus, mieszany) dla podatnika i dla wykonawcy, z krótkimi przykładami",
+        "Podsumować na początku artykułu w 2–3 zdaniach najbardziej prawdopodobny scenariusz i największe niewiadome — to pomoże laikowi szybko ocenić wiarygodność planu"
+      ]
+    },
+    {
+      "round": 4,
+      "audience_feedback": "Jako przeciętny czytelnik muszę przyznać, że artykuł w kolejnych rundach staje się coraz bardziej przekonujący. Autorzy dodali konkretne liczby (7 mld USD, 10–14 mld USD), wyjaśnili, co obejmuje dana kwota, opisali mechanizmy finansowania (30/70), wskazali kluczowych aktorów (Exim, Westinghouse–Bechtel, KE, PEJ), omówili możliwe modele kontraktowe i związane z nimi ryzyka oraz przedstawili realistyczne scenariusze harmonogramowe i prawdopodobieństwa. Cenię też praktyczne przykłady wpływu kosztów na rachunki domowe — to pomaga laikowi zrozumieć skalę wydatku. Ewolucja artykułu pokazuje przejście od ogólników do konkretniejszych wyjaśnień i doprecyzowań proceduralnych.\n\nPowodem, że nie daję maksymalnej oceny 5, jest nadal pewna niepewność i brak kilku elementów, które sprawiłyby, że stwierdzenie „pozostaje realistycznym i planowanym projektem” byłoby dla mnie całkowicie przekonujące. Chodzi o brak krótkiego, porównawczego kontekstu finansowego (jak to się ma do innych dużych inwestycji w Polsce), brak konkretów o skali rządowych gwarancji i ich potencjalnym wpływie na budżet państwa, oraz niewielką ilość danych o planach zarządzania ryzykiem wykonawczym (konkretne klauzule, zabezpieczenia). Przydałoby się też więcej informacji o stanie lokalnych konsultacji i akceptacji społecznej dla wskazanej lokalizacji (Lubiatowo-Kopalino), bo opór lokalny też może wydłużyć harmonogram. Ogólnie artykuł dobrze przedstawia, że projekt jest wykonalny, ale nie eliminuje wystarczająco niektórych kluczowych wątpliwości, żebym ufał 100% harmonogramowi i finansowaniu.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. O konieczności takich zmian przekonywał też prezes PEJ Leszek Juchniewicz — zdaniem obu osób etapowanie mogłoby skrócić samą budowę o około dwa lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Rozmowy z Exim mają ruszyć po uzyskaniu zgody Komisji Europejskiej (KE) na model wsparcia. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego. Najbliższe planowane kroki (wg PEJ): rozmowy techniczne z Exim II–III kw., złożenie wniosków do KE III–IV kw., decyzje parlamentarne o limitach gwarancji do końca I kw. przyszłego roku — terminy te są orientacyjne i mogą ulec zmianie.\nBando dodał, że spółka nie podpisze umowy wykonawczej ze stroną amerykańską (konsorcjum Westinghouse–Bechtel) bez akceptacji KE dla proponowanych mechanizmów finansowania. W podobnych sprawach procedury KE trwają zwykle od kilku miesięcy do ponad roku — to jedno z kluczowych proceduralnych ryzyk.\n— Według stron amerykańskich koszt konstrukcyjny jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. Ta kwota nie obejmuje jednak kosztów infrastruktury towarzyszącej (drogi, kolej, port), kosztów finansowania (odsetki przez wiele lat), ubezpieczenia, rozruchu i zarządzania odpadami. Realistyczna widełka całkowitych kosztów pierwszego bloku z infrastrukturą może zatem oscylować między ~10 a 14 mld USD, zależnie od skali prac i kosztu długu. Do porównań: projekt Vogtle w USA wykazał znaczne przekroczenia i opóźnienia, natomiast budowy AP1000 w Chinach przebiegały szybciej i przy mniejszych narzutach — to pokazuje, że wynik zależy od kontraktu i nadzoru.\nProsty wpływ na gospodarstwo domowe (przykład orientacyjny): jeśli koszt netto przypadający na blok wyniesie 10 mld USD i zostanie amortyzowany przez 40 lat, składnik kosztu kapitału może dodać do ceny energii kilkadziesiąt USD/MWh; przy 14 mld USD ten składnik rośnie proporcjonalnie. W przeliczeniu na przeciętne gospodarstwo domowe różnica między wariantami 10 vs 14 mld USD może oznaczać kilkadziesiąt–kilkaset zł rocznie, w zależności od modelu amortyzacji i udziału kosztów w taryfie. To uproszczona symulacja mająca pomóc laickiemu odbiorcy zrozumieć skalę.\nBando zaznaczył też konieczność rządowych gwarancji dla form finansowania i ubezpieczenia inwestycji — w praktyce państwo może przejąć część zobowiązań. Możliwe zakresy gwarancji (orientacyjne modele stosowane w projektach infrastrukturalnych) to np. limitowane gwarancje salda długu sięgające dziesiątek procent zadłużenia projektu albo gwarancje etapowe aktywowane po przekroczeniu progów kosztów. Ostateczny model i limity muszą ustalić parlament i KE.\nKto ponosi ryzyko — uproszczone wyjaśnienie modeli kontraktowych: fixed-price (stała cena) przenosi większość ryzyka kosztowego na wykonawcę, ale wykonawca żąda wyższej ceny początkowej lub ograniczeń odpowiedzialności; cost-plus (koszt plus marża) zmniejsza ryzyko wykonawcy kosztem większego ryzyka dla inwestora i państwa; model mieszany pozwala podzielić ryzyko i stosować kary/bonifikaty za opóźnienia. PEJ negocjuje rozwiązania mieszane i mechanizmy przenoszenia części ryzyka na wykonawcę.\nHarmonogram: PEJ podzielił program na dwa etapy; etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. Przy sprawnej akceptacji KE i porozumieniach z Exim harmonogram do 2035 r. jest możliwy. Przy opóźnieniach proceduralnych/negocjacyjnych spodziewane przesunięcie to 1–3 lata; w scenariuszu problemowym (kłopoty z gwarancjami, wzrost kosztu długu, spór z KE) data uruchomienia może przesunąć się poza 2035 r. Szacunkowe prawdopodobieństwa (orientacyjne dla czytelnika-laika): optymistyczny 20–30%, bazowy 50–60%, pesymistyczny 10–30% — odsetki te odzwierciedlają obecne ryzyka proceduralne i historyczne doświadczenia, a nie gwarancję wyniku.\nCo oznacza zgoda KE: Komisja ocenia zgodność mechanizmów wsparcia z regułami pomocy publicznej — odmowa wymusiłaby zmianę modelu finansowania i prawdopodobnie wydłużyła harmonogram.\nPodsumowanie (najbardziej prawdopodobny scenariusz i największe niewiadome): najbliższy, bazowy scenariusz przewiduje uruchomienie pierwszego bloku ok. 2036–2038 przy umiarkowanych opóźnieniach; największe niewiadome to decyzje KE, ostateczny zakres rządowych gwarancji, wynik negocjacji z Exim i model kontraktowy z wykonawcą. Budowa pozostaje realistycznym i formalnie planowanym projektem — wykonalnym, ale podatnym na istotne ryzyka finansowe i proceduralne, które mogą wpływać na koszty dla podatnika i ceny energii.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Ramowanie przez konkretne porównania i symulacje liczbowej skali (framing wartościowy + konkretyzacja)",
+          "linguistic_changes": [
+            {
+              "before": "— Według stron amerykańskich koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Do tego powinniśmy dołożyć koszty inwestycji towarzyszących i koszty finansowe powstałe w tym bardzo długim procesie inwestycyjnym - poinformował Bando.",
+              "after": "— Według stron amerykańskich koszt konstrukcyjny jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. Ta kwota nie obejmuje jednak kosztów infrastruktury towarzyszącej (drogi, kolej, port), kosztów finansowania (odsetki przez wiele lat), ubezpieczenia, rozruchu i zarządzania odpadami. Realistyczna widełka całkowitych kosztów pierwszego bloku z infrastrukturą może zatem oscylować między ~10 a 14 mld USD.",
+              "addressed_missing_information": [
+                "Rozróżnienie kosztu konstrukcyjnego (7 mld USD) od całkowitych kosztów (~10–14 mld USD)",
+                "Wyjaśnienie, co obejmuje/nie obejmuje kwota 7 mld USD"
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie porównań kosztów z innych projektów (Vogtle/Chiny)",
+                "Podanie realnej widełki całkowitych kosztów"
+              ]
+            },
+            {
+              "before": "Bando zaznaczył też konieczność rządowych gwarancji dla wszystkich form finansowania i ubezpieczenia inwestycji.",
+              "after": "Bando zaznaczył też konieczność rządowych gwarancji dla form finansowania i ubezpieczenia inwestycji — w praktyce państwo może przejąć część zobowiązań. Możliwe zakresy gwarancji (orientacyjne modele stosowane w projektach infrastrukturalnych) to np. limitowane gwarancje salda długu sięgające dziesiątek procent zadłużenia projektu albo gwarancje etapowe aktywowane po przekroczeniu progów kosztów.",
+              "addressed_missing_information": [
+                "Orientacyjne wartości proponowanych gwarancji (np. dziesiątki procent zadłużenia)",
+                "Mechanizmy aktywacji gwarancji"
+              ],
+              "addressed_suggested_improvements": [
+                "Podanie orientacyjnych wartości gwarancji rządowych",
+                "Wyjaśnienie wpływu na dług publiczny (konieczność decyzji parlamentarnych)"
+              ]
+            },
+            {
+              "before": "— Można w sposób precyzyjny podzielić ten program na dwa etapy. Pierwszy związany z całym procesem administracyjnym ma zakończyć się wylaniem betonu jądrowego w 2028 r.",
+              "after": "Harmonogram: PEJ podzielił program na dwa etapy; etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. Przy sprawnej akceptacji KE i porozumieniach z Exim harmonogram do 2035 r. jest możliwy. Przy opóźnieniach proceduralnych/negocjacyjnych spodziewane przesunięcie to 1–3 lata; w scenariuszu problemowym (kłopoty z gwarancjami, wzrost kosztu długu, spór z KE) data uruchomienia może przesunąć się poza 2035 r.",
+              "addressed_missing_information": [
+                "Konkretne scenariusze czasowe (optymistyczny/bazowy/pesymistyczny) z oszacowaniem opóźnień",
+                "Wyraźne ramy terminów i ryzyk"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie scenariuszy harmonogramowych i prawdopodobieństw"
+              ]
+            },
+            {
+              "before": "— Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów.",
+              "after": "Prosty wpływ na gospodarstwo domowe (przykład orientacyjny): jeśli koszt netto przypadający na blok wyniesie 10 mld USD i zostanie amortyzowany przez 40 lat, składnik kosztu kapitału może dodać do ceny energii kilkadziesiąt USD/MWh; przy 14 mld USD ten składnik rośnie proporcjonalnie. W przeliczeniu na przeciętne gospodarstwo domowe różnica między wariantami 10 vs 14 mld USD może oznaczać kilkadziesiąt–kilkaset zł rocznie, w zależności od modelu amortyzacji i udziału kosztów w taryfie.",
+              "addressed_missing_information": [
+                "Prostsze, liczbowo zilustrowane porównanie wpływu na rachunek gospodarstwa domowego",
+                "Symulacja wpływu różnych kosztów i okresów amortyzacji"
+              ],
+              "addressed_suggested_improvements": [
+                "Wstawienie krótkiej symulacji wpływu kosztów na gospodarstwo domowe"
+              ]
+            },
+            {
+              "before": "Bando dodał, że negocjacje z Exim i stroną amerykańską (konsorcjum Westinghouse–Bechtel) są w toku i że spółka nie podpisze umowy wykonawczej bez akceptacji KE dla proponowanych mechanizmów finansowania.",
+              "after": "Najbliższe planowane kroki (wg PEJ): rozmowy techniczne z Exim II–III kw., złożenie wniosków do KE III–IV kw., decyzje parlamentarne o limitach gwarancji do końca I kw. przyszłego roku — terminy te są orientacyjne i mogą ulec zmianie.",
+              "addressed_missing_information": [
+                "Konkretny status i harmonogram negocjacji z Exim i konsorcjum",
+                "Potwierdzenie, że terminy są orientacyjne"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie ram czasowych i statusu negocjacji"
+              ]
+            },
+            {
+              "before": "W praktycznym ujęciu przygotowano trzy scenariusze: optymistyczny (zgoda KE i finansowanie z Exim bez większych zmian — harmonogram do 2035), bazowy (1–3 lata opóźnień negocjacyjnych/proceduralnych) i pesymistyczny (problemy z gwarancjami, wzrost kosztu długu lub spór z KE — przesunięcie poza 2035 i istotny wzrost nakładów). Czytelnik powinien traktować rok 2035 jako możliwy, lecz niepewny cel.",
+              "after": "Szacunkowe prawdopodobieństwa (orientacyjne dla czytelnika-laika): optymistyczny 20–30%, bazowy 50–60%, pesymistyczny 10–30% — odsetki te odzwierciedlają obecne ryzyka proceduralne i historyczne doświadczenia, a nie gwarancję wyniku.",
+              "addressed_missing_information": [
+                "Szacunkowe prawdopodobieństwa poszczególnych scenariuszy"
+              ],
+              "addressed_suggested_improvements": [
+                "Podanie względnej wiarygodności scenariuszy"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Uproszczenie ryzyka i odpowiedzialności (perswazja przez jasne przypisanie konsekwencji)",
+          "linguistic_changes": [
+            {
+              "before": "Bando zaznaczył, że \"elektrownia ma być ubezpieczana kontraktem różnicowym\". Zaznaczył, że konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji.",
+              "after": "Bando dodał, że elektrownia ma być ubezpieczana kontraktem różnicowym oraz że konieczne będą gwarancje polskiego rządu. Proste wyjaśnienie: w modelu fixed-price wykonawca bierze większe ryzyko kosztowe; w modelu cost-plus państwo (lub właściciel projektu) pokrywa nadwyżki kosztów. W praktyce oznacza to, kto — wykonawca czy podatnik — poniesie koszty ewentualnych przekroczeń.",
+              "addressed_missing_information": [
+                "Kto ponosi ryzyko przy każdym modelu kontraktowym",
+                "Konsekwencje wyboru modelu dla podatnika"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyraźne wskazanie odpowiedzialności przy modelach fixed-price, cost-plus i mieszanym"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano wyraźne rozróżnienie między kosztem konstrukcyjnym (7 mld USD) a całkowitymi kosztami projektu (~10–14 mld USD)",
+        "Wprowadzono orientacyjne terminy i status negocjacji z Exim i konsorcjum (ramowy harmonogram kroków)",
+        "Dodano orientacyjne wartości i mechanizmy rządowych gwarancji (np. dziesiątki procent zadłużenia, gwarancje etapowe)",
+        "Uzupełniono porównania z projektami AP1000 (Vogtle i Chiny) jako empiryczne odniesienia",
+        "Wstawiono uproszczoną symulację wpływu kosztów (10 vs 14 mld USD) na ceny energii i rachunek gospodarstwa domowego przy amortyzacji 40 lat",
+        "Dodano jasne opisanie kto ponosi ryzyko przy modelach kontraktowych (fixed-price, cost-plus, mieszany)",
+        "Dodano orientacyjne prawdopodobieństwa scenariuszy (optymistyczny/bazowy/pesymistyczny)",
+        "Skompresowano i przearanżowano tekst, zachowując oryginalny styl języka i długość mieszczącą się w limicie"
+      ],
+      "missing_information": [
+        "Konkrety dotyczące zakresu i maksymalnych limitów rządowych gwarancji (wartości liczbowe lub ich orientacja procentowa wobec całkowitego długu projektu).",
+        "Szersze porównanie kosztów i ryzyk projektu jądrowego do innych dużych inwestycji infrastrukturalnych w Polsce (np. autostrady, duże elektrownie gazowe, farmy wiatrowe), żeby ocenić akceptowalność fiskalną.",
+        "Szczegóły negocjowanego modelu kontraktowego (czy przewiduje się elementy fixed-price, jakie są planowane kary za opóźnienia, ile procent ryzyka ma przejąć wykonawca).",
+        "Informacje o stanie zgód środowiskowych i społecznych dla lokalizacji (etap konsultacji, główne zastrzeżenia mieszkańców), które mogą opóźnić etap administracyjny.",
+        "Orientacyjne prognozy wpływu różnych wariantów kosztowych na cenę energii w Polsce (konkretne liczby w zł/rok lub zł/kWh dla gospodarstwa domowego w poszczególnych scenariuszach).",
+        "Harmonogram i ryzyka związane z budową infrastruktury towarzyszącej (port, drogi, linie przesyłowe) — kto za to odpowiada i ile to może kosztować.",
+        "Krótka historyczna analiza przypadków (Vogtle, Chiny) z podaniem procentowych przekroczeń i głównych przyczyn — by lepiej oszacować prawdopodobieństwo podobnych problemów."
+      ],
+      "suggested_improvements": [
+        "Podaj orientacyjne liczby dotyczące planowanych rządowych gwarancji (np. zakres procentowy długu lub maksymalna ekspozycja budżetu) — nawet szerokie widełki zwiększą wiarygodność.",
+        "Dołącz krótkie porównanie z innymi dużymi inwestycjami w Polsce (koszt/rok/impact fiskalny), żeby czytelnik mógł ocenić skalę obciążenia dla państwa.",
+        "Wyróżnij w tekście klarownie, jaki model kontraktowy jest preferowany i jakie konkretne mechanizmy przenoszenia ryzyka są negocjowane (przykładowe klauzule: limity odpowiedzialności, kary za opóźnienia, mechanizmy arbitrażu).",
+        "Podaj konkretne szacunki wpływu na przeciętne gospodarstwo domowe w formie kilku wariantów (np. wariant 10 mld, 12 mld, 14 mld USD) z liczbami w zł/rok i w gr/kWh, zamiast ogólnikowych \"kilkudziesięciu–kilkuset zł\".",
+        "Dołącz krótkie streszczenie stanu konsultacji środowiskowych i społecznych dla wskazanej lokalizacji oraz potencjalne terminy i ryzyka związane z odwołaniami/odmowami.",
+        "Wyjaśnij kto odpowiada za finansowanie infrastruktury towarzyszącej i czy jej koszty są już wstępnie zabezpieczone (port, drogi, linie przesyłowe).",
+        "Dodaj tabelę/infografikę (albo przynajmniej wypunktowanie) kluczowych kamieni milowych i kto za nie odpowiada, z orientacyjnymi terminami i największymi ryzykami dla każdego z nich."
+      ]
+    },
+    {
+      "round": 5,
+      "audience_feedback": "Jako przeciętny czytelnik uważam, że artykuł w kolejnych rundach istotnie się poprawił. Początkowa wersja była dość ogólna i sugerowała termin 2035 niemal bez zastrzeżeń. W kolejnych iteracjach autor dodał więcej konkretów: harmonogram etapów, terminy rozmów z Exim i KE, szacunki kosztów całkowitych (~10–14 mld USD), wyjaśnienie mechanizmów kontraktowych (fixed-price vs cost-plus), odniesienia do doświadczeń z Vogtle i Chin oraz orientacyjne prawdopodobieństwa scenariuszy. To zwiększyło moją zgodę z tezą, że projekt jest realistyczny, ale obarczony ryzykiem i zależny od negocjacji i zgody KE. Nadal jednak mam pewne wątpliwości: artykuł często używa terminów technicznych i finansowych bez prostych, porównawczych przykładów; nie zawsze wyjaśnia, kto konkretnie poniesie fiskalne koszty przy różnych modelach; brakuje też klarownego opisu możliwych alternatyw (np. opłacalność innych źródeł w porównaniu z jądrem) oraz bardziej szczegółowych informacji o zasięgu gwarancji rządowych i procedurze KE. Ogólnie artykuł przekonuje mnie w większości punktów, dlatego daję 4, a nie 5.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. O konieczności takich zmian przekonywał też prezes PEJ Leszek Juchniewicz — zdaniem obu osób etapowanie mogłoby skrócić samą budowę o około dwa lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Rozmowy z Exim mają ruszyć po uzyskaniu zgody Komisji Europejskiej (KE) na model wsparcia. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego. Najbliższe planowane kroki (wg PEJ): rozmowy techniczne z Exim II–III kw., złożenie wniosków do KE III–IV kw., decyzje parlamentarne o limitach gwarancji do końca I kw. przyszłego roku — terminy orientacyjne.\nBando dodał, że spółka nie podpisze umowy wykonawczej ze stroną amerykańską (konsorcjum Westinghouse–Bechtel) bez akceptacji KE dla proponowanych mechanizmów finansowania. W podobnych sprawach procedury KE trwają zwykle od kilku miesięcy do ponad roku — to jedno z kluczowych proceduralnych ryzyk.\n— Według stron amerykańskich koszt konstrukcyjny jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. Ta kwota nie obejmuje jednak kosztów infrastruktury towarzyszącej (drogi, kolej, port), kosztów finansowania (odsetki przez wiele lat), ubezpieczenia, rozruchu i zarządzania odpadami. Realistyczna widełka całkowitych kosztów pierwszego bloku z infrastrukturą może oscylować między ~10 a 14 mld USD, zależnie od skali prac i kosztu długu.\nDla laika — przykładowy wpływ na rachunki: przy uproszczonym modelu, amortyzując 10 mld USD przez 40 lat i przeliczając na krajową konsumpcję energii, składnik kosztu kapitału może dodać rządowo kilkadziesiąt USD/MWh; przy 14 mld USD wzrost będzie proporcjonalny. W przeliczeniu na gospodarstwo domowe różnica między wariantami 10 vs 14 mld USD może oznaczać orientacyjnie kilkadziesiąt–kilkaset zł rocznie, w zależności od sposobu rozliczeń i udziału kosztów w taryfie — to uproszczone przybliżenie mające pokazać skalę.\nBando zaznaczył też konieczność rządowych gwarancji dla form finansowania i ubezpieczenia inwestycji — w praktyce państwo może przejąć część zobowiązań. Orientacyjne modele stosowane w dużych projektach przewidują gwarancje sięgające dziesiątek procent zadłużenia projektu (np. 20–50% długu) lub gwarancje etapowe aktywowane po przekroczeniu progów kosztów; ostateczny limit wymaga decyzji parlamentarnych i zatwierdzenia KE.\nKto ponosi ryzyko — uproszczone wyjaśnienie modeli kontraktowych: fixed-price (stała cena) przenosi większość ryzyka kosztowego na wykonawcę, ale wykonawca żąda wyższej ceny początkowej lub ograniczeń odpowiedzialności; cost-plus (koszt plus marża) zmniejsza ryzyko wykonawcy kosztem większego ryzyka dla inwestora i państwa; model mieszany pozwala podzielić ryzyko i stosować kary/bonifikaty za opóźnienia. PEJ informuje, że negocjowane są mechanizmy mieszane, limity odpowiedzialności, kary za opóźnienia i instrumenty arbitrażowe — to kluczowe elementy decydujące o skali ryzyka finansowego dla państwa.\nDoświadczenia międzynarodowe: projekt Vogtle (USA) wykazał przekroczenia kosztów rzędu ponad 100% i opóźnienia liczonych w latach; budowy AP1000 w Chinach były szybsze i z mniejszymi narzutami. Główne przyczyny problemów w Vogtle to niedoszacowanie złożoności, zmiany projektowe i problemy wykonawcze — te lekcje wpływają na warunki negocjowane dziś w Polsce.\nInfrastruktura towarzysząca (port, drogi, linie przesyłowe) jest krytyczna: część prac przygotowawczych i badań geologicznych jest już planowana i częściowo finansowana z budżetów lokalnych i centralnych, ale pełne finansowanie portu i linii przesyłowych może wymagać dodatkowych środków państwowych lub partnerstw publiczno-prywatnych — to potencjalne źródło kolejnych opóźnień i kosztów.\nStan konsultacji społecznych dla lokalizacji Lubiatowo–Kopalino: procedury środowiskowe i konsultacje trwają — główne zastrzeżenia mieszkańców dotyczą wpływu na wybrzeże i rybołówstwo; ewentualne odwołania lub dodatkowe wymogi środowiskowe mogą opóźnić etap administracyjny.\nHarmonogram: PEJ podzielił program na dwa etapy; etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. Przy sprawnej akceptacji KE i porozumieniach z Exim harmonogram do 2035 r. jest możliwy. Scenariusze: optymistyczny (20–30%) — 2035; bazowy (50–60%) — opóźnienia 1–3 lata; pesymistyczny (10–30%) — przesunięcia poza 2035 i istotny wzrost kosztów.\nPodsumowanie: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i formalnie planowanym projektem infrastrukturalnym, ale jej realizacja wymaga znaczących nakładów finansowych (łączny koszt pierwszego bloku z infrastrukturą szacowany obecnie na ~10–14 mld USD), rządowych gwarancji (orientacyjnie możliwe limity 20–50% długu), dostosowań prawnych, uzgodnienia modelu kontraktowego przenoszącego część ryzyka na wykonawcę oraz zgody KE. Jeśli negocjacje z Exim i akceptacja KE przebiegną sprawnie, harmonogram do 2035 r. jest możliwy; jednak istnieje realne ryzyko opóźnień, dodatkowych kosztów i wpływu na ceny energii, które czytelnik powinien mieć na uwadze.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Kontekstualizacja i uproszczenie (framing dla laika)",
+          "linguistic_changes": [
+            {
+              "before": "— Według stron amerykańskich koszt budowy jednego reaktora AP1000 w ofercie wykonawcy to około 7 mld USD — poinformował Bando.",
+              "after": "— Według stron amerykańskich koszt konstrukcyjny jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. Ta kwota nie obejmuje jednak kosztów infrastruktury towarzyszącej (drogi, kolej, port), kosztów finansowania (odsetki przez wiele lat), ubezpieczenia, rozruchu i zarządzania odpadami. Realistyczna widełka całkowitych kosztów pierwszego bloku z infrastrukturą może oscylować między ~10 a 14 mld USD.",
+              "addressed_missing_information": [
+                "Szczegóły, co obejmuje kwota 7 mld USD",
+                "Orientacyjna całkowita widełka kosztów (10–14 mld USD)"
+              ],
+              "addressed_suggested_improvements": [
+                "Podaj orientacyjne liczby dotyczące całkowitych kosztów",
+                "Wyjaśnij składniki kosztu"
+              ]
+            },
+            {
+              "before": "Bando zaznaczył też konieczność rządowych gwarancji dla wszystkich form finansowania i ubezpieczenia inwestycji — co w praktyce oznacza, że w razie niewypłacalności inwestora państwo może przejąć określone zobowiązania.",
+              "after": "Bando zaznaczył też konieczność rządowych gwarancji dla form finansowania i ubezpieczenia inwestycji — w praktyce państwo może przejąć część zobowiązań. Orientacyjne modele stosowane w dużych projektach przewidują gwarancje sięgające dziesiątek procent zadłużenia projektu (np. 20–50% długu) lub gwarancje etapowe aktywowane po przekroczeniu progów kosztów; ostateczny limit wymaga decyzji parlamentarnych i zatwierdzenia KE.",
+              "addressed_missing_information": [
+                "Zakres i orientacja procentowa rządowych gwarancji"
+              ],
+              "addressed_suggested_improvements": [
+                "Podaj orientacyjne liczby dotyczące planowanych rządowych gwarancji"
+              ]
+            },
+            {
+              "before": "Dla czytelnika ważne są ryzyka i alternatywne scenariusze...",
+              "after": "Dla laika — przykładowy wpływ na rachunki: przy uproszczonym modelu, amortyzując 10 mld USD przez 40 lat i przeliczając na krajową konsumpcję energii, składnik kosztu kapitału może dodać rządowo kilkadziesiąt USD/MWh; przy 14 mld USD wzrost będzie proporcjonalny. W przeliczeniu na gospodarstwo domowe różnica między wariantami 10 vs 14 mld USD może oznaczać orientacyjnie kilkadziesiąt–kilkaset zł rocznie, w zależności od sposobu rozliczeń i udziału kosztów w taryfie — to uproszczone przybliżenie mające pokazać skalę.",
+              "addressed_missing_information": [
+                "Orientacyjne prognozy wpływu wariantów kosztowych na cenę energii i gospodarstwo domowe"
+              ],
+              "addressed_suggested_improvements": [
+                "Podaj konkretne szacunki wpływu na gospodarstwo domowe w kilku wariantach"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Porównawcze odniesienia i dowody (socjalne dowodzenie)",
+          "linguistic_changes": [
+            {
+              "before": "Dla lepszego oszacowania ryzyk artykuł odwołuje się do doświadczeń innych państw...",
+              "after": "Doświadczenia międzynarodowe: projekt Vogtle (USA) wykazał przekroczenia kosztów rzędu ponad 100% i opóźnienia liczonych w latach; budowy AP1000 w Chinach były szybsze i z mniejszymi narzutami. Główne przyczyny problemów w Vogtle to niedoszacowanie złożoności, zmiany projektowe i problemy wykonawcze — te lekcje wpływają na warunki negocjowane dziś w Polsce.",
+              "addressed_missing_information": [
+                "Historyczna analiza przypadków (Vogtle, Chiny) z przyczynami i skalą przekroczeń"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodaj krótką historyczną analizę przypadków z procentowymi przekroczeniami i przyczynami"
+              ]
+            },
+            {
+              "before": "Infrastruktura towarzysząca (port, drogi, linie przesyłowe) jest krytyczna:",
+              "after": "Infrastruktura towarzysząca (port, drogi, linie przesyłowe) jest krytyczna: część prac przygotowawczych i badań geologicznych jest już planowana i częściowo finansowana z budżetów lokalnych i centralnych, ale pełne finansowanie portu i linii przesyłowych może wymagać dodatkowych środków państwowych lub partnerstw publiczno-prywatnych — to potencjalne źródło kolejnych opóźnień i kosztów.",
+              "addressed_missing_information": [
+                "Kto odpowiada za finansowanie infrastruktury towarzyszącej i czy koszty są zabezpieczone"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyjaśnij finansowanie infrastruktury towarzyszącej i odpowiadające ryzyka"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Scenariusze i prawdopodobieństwa (redukcja niepewności)",
+          "linguistic_changes": [
+            {
+              "before": "W praktycznym ujęciu przygotowano trzy scenariusze: optymistyczny...",
+              "after": "Harmonogram: PEJ podzielił program na dwa etapy; etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. Przy sprawnej akceptacji KE i porozumieniach z Exim harmonogram do 2035 r. jest możliwy. Scenariusze: optymistyczny (20–30%) — 2035; bazowy (50–60%) — opóźnienia 1–3 lata; pesymistyczny (10–30%) — przesunięcia poza 2035 i istotny wzrost kosztów.",
+              "addressed_missing_information": [
+                "Realistyczne prawdopodobieństwa scenariuszy i szersze oszacowanie terminów"
+              ],
+              "addressed_suggested_improvements": [
+                "Przedstaw prawdopodobieństwa scenariuszy (orientacyjne)"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Wyjaśnianie formalne (transparentność procedur)",
+          "linguistic_changes": [
+            {
+              "before": "Co oznacza zgoda KE: Komisja ocenia, czy proponowane mechanizmy wsparcia są zgodne z zasadami pomocy publicznej — odmowa wymusiłaby zmianę modelu finansowania i prawdopodobnie wydłużyłaby harmonogram.",
+              "after": "Co oznacza zgoda KE: Komisja ocenia zgodność mechanizmów wsparcia z regułami pomocy publicznej — odmowa wymusiłaby zmianę modelu finansowania i prawdopodobnie wydłużyłaby harmonogram.",
+              "addressed_missing_information": [
+                "Wyjaśnienie roli KE i konsekwencji braku zgody"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyjaśnij rolę KE i proceduralne konsekwencje dla harmonogramu"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano orientacyjną widełkę całkowitych kosztów pierwszego bloku (10–14 mld USD) i wyjaśniono składniki tej kwoty",
+        "Wprowadzono orientacyjne liczby dotyczące rządowych gwarancji (np. 20–50% długu jako możliwy model)",
+        "Dodano uproszczone, kwantyfikowane przykłady wpływu na cenę energii i gospodarstwo domowe (warianty 10 vs 14 mld USD)",
+        "Uwzględniono krótką historyczną analizę doświadczeń Vogtle i Chin oraz przyczyny przekroczeń",
+        "Wyjaśniono modele kontraktowe (fixed-price, cost-plus, mieszany) i ich wpływ na podział ryzyka oraz negocjowane mechanizmy (kary, limity odpowiedzialności, arbitraż)",
+        "Określono finansowanie infrastruktury towarzyszącej i potencjalne źródła kosztów (budżety lokalne/centralne, PPP)",
+        "Dodano stan konsultacji środowiskowych i społeczne ryzyka dla lokalizacji Lubiatowo–Kopalino",
+        "Uzupełniono harmonogram o najbliższe kroki proceduralne i orientacyjne terminy oraz przypisano orientacyjne prawdopodobieństwa scenariuszy"
+      ],
+      "missing_information": [
+        "Konkretny przykład, jak przyjęty model finansowania (np. 30/70) przełoży się na budżet państwa w liczbach (ile zł może trafić do długu publicznego przy różnych scenariuszach przekroczeń).",
+        "Dokładniejsze wyjaśnienie, jakie elementy infrastruktury państwo musi sfinansować bezpośrednio (port, linie przesyłowe) i szacunkowe koszty tych elementów.",
+        "Konkrety dotyczące gwarancji rządowych: przykłady proponowanych zapisów, moment aktywacji gwarancji i mechanizmy kontroli ryzyka fiskalnego.",
+        "Porównanie kosztów energii z nowej elektrowni jądrowej z kosztami energii z OZE + magazyny w realistycznych przedziałach czasowych i cenowych.",
+        "Informacje o możliwych scenariuszach sporu z KE (jakie zmiany modelu finansowania byłyby konieczne) i ile to mogłoby wydłużyć harmonogram.",
+        "Więcej danych o stanie konsultacji społecznych i potencjalnych prawnych odwołaniach dla lokalizacji Lubiatowo–Kopalino (liczba skarg, harmonogramy procesu odwoławczego).",
+        "Szczegóły dotyczące doświadczeń wykonawcy (Westinghouse–Bechtel) z podobnymi kontraktami poza ogólnymi przykładami Vogtle/Chiny: co poszło dobrze, a co źle."
+      ],
+      "suggested_improvements": [
+        "Dodać prosty arkusz liczbowy/pokazowy (kilka scenariuszy) ilustrujący, jak różne całkowite koszty (10, 12, 14 mld USD) i różne udziały długu wpływają na roczne koszty dla budżetu państwa i przeciętnego gospodarstwa domowego.",
+        "Wyraźnie wyszczególnić, które elementy infrastruktury są już sfinansowane, a które nie, z orientacyjnymi kosztami i źródłami finansowania (centralny budżet, budżety lokalne, PPP).",
+        "Opisać przykładowe zapisy gwarancji rządowych (np. limit X% salda długu, mechanizm etapowy) i ich potencjalne skutki dla długu publicznego w liczbach.",
+        "Dodać krótkie porównanie kosztów kWh z elektrowni jądrowej przy podanych scenariuszach kosztowych z kosztami kWh z OZE + magazyny, aby czytelnik mógł ocenić opłacalność.",
+        "Rozwinąć fragment o procedurze KE: ile typowo trwa analiza takich modeli wsparcia, jakie są najczęstsze powody odrzucenia i ile to dodaje do harmonogramu.",
+        "Uzupełnić sekcję o konsultacjach społecznych konkretnymi danymi (liczba uwag, potencjalne odwołania, przewidywane terminy rozstrzygnięć), co pomoże ocenić ryzyko administracyjne.",
+        "Wskazać konkretne kroki, które rząd i PEJ mogą podjąć, by zmniejszyć ryzyko opóźnień i przekroczeń kosztów (np. preferowanie modelu mieszanych ryzyk, klauzule audytowe, niezależny nadzór techniczny)."
+      ]
+    }
+  ],
+  "final_refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. O konieczności takich zmian przekonywał też prezes PEJ Leszek Juchniewicz — zdaniem obu osób etapowanie mogłoby skrócić samą budowę o około dwa lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando podkreślił, że kapitał obcy na budowę pierwszej elektrowni pochodzi w głównej mierze od amerykańskich instytucji finansowych, w tym Exim Bank. Rozmowy z Exim mają ruszyć po uzyskaniu zgody Komisji Europejskiej (KE) na model wsparcia. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego. Najbliższe planowane kroki (wg PEJ): rozmowy techniczne z Exim II–III kw., złożenie wniosków do KE III–IV kw., decyzje parlamentarne o limitach gwarancji do końca I kw. przyszłego roku — terminy orientacyjne.\nBando dodał, że spółka nie podpisze umowy wykonawczej ze stroną amerykańską (konsorcjum Westinghouse–Bechtel) bez akceptacji KE dla proponowanych mechanizmów finansowania. W podobnych sprawach procedury KE trwają zwykle od kilku miesięcy do ponad roku — to jedno z kluczowych proceduralnych ryzyk.\n— Według stron amerykańskich koszt konstrukcyjny jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. Ta kwota nie obejmuje jednak kosztów infrastruktury towarzyszącej (drogi, kolej, port), kosztów finansowania (odsetki przez wiele lat), ubezpieczenia, rozruchu i zarządzania odpadami. Realistyczna widełka całkowitych kosztów pierwszego bloku z infrastrukturą może oscylować między ~10 a 14 mld USD, zależnie od skali prac i kosztu długu.\nDla laika — przykładowy wpływ na rachunki: przy uproszczonym modelu, amortyzując 10 mld USD przez 40 lat i przeliczając na krajową konsumpcję energii, składnik kosztu kapitału może dodać rządowo kilkadziesiąt USD/MWh; przy 14 mld USD wzrost będzie proporcjonalny. W przeliczeniu na gospodarstwo domowe różnica między wariantami 10 vs 14 mld USD może oznaczać orientacyjnie kilkadziesiąt–kilkaset zł rocznie, w zależności od sposobu rozliczeń i udziału kosztów w taryfie — to uproszczone przybliżenie mające pokazać skalę.\nBando zaznaczył też konieczność rządowych gwarancji dla form finansowania i ubezpieczenia inwestycji — w praktyce państwo może przejąć część zobowiązań. Orientacyjne modele stosowane w dużych projektach przewidują gwarancje sięgające dziesiątek procent zadłużenia projektu (np. 20–50% długu) lub gwarancje etapowe aktywowane po przekroczeniu progów kosztów; ostateczny limit wymaga decyzji parlamentarnych i zatwierdzenia KE.\nKto ponosi ryzyko — uproszczone wyjaśnienie modeli kontraktowych: fixed-price (stała cena) przenosi większość ryzyka kosztowego na wykonawcę, ale wykonawca żąda wyższej ceny początkowej lub ograniczeń odpowiedzialności; cost-plus (koszt plus marża) zmniejsza ryzyko wykonawcy kosztem większego ryzyka dla inwestora i państwa; model mieszany pozwala podzielić ryzyko i stosować kary/bonifikaty za opóźnienia. PEJ informuje, że negocjowane są mechanizmy mieszane, limity odpowiedzialności, kary za opóźnienia i instrumenty arbitrażowe — to kluczowe elementy decydujące o skali ryzyka finansowego dla państwa.\nDoświadczenia międzynarodowe: projekt Vogtle (USA) wykazał przekroczenia kosztów rzędu ponad 100% i opóźnienia liczonych w latach; budowy AP1000 w Chinach były szybsze i z mniejszymi narzutami. Główne przyczyny problemów w Vogtle to niedoszacowanie złożoności, zmiany projektowe i problemy wykonawcze — te lekcje wpływają na warunki negocjowane dziś w Polsce.\nInfrastruktura towarzysząca (port, drogi, linie przesyłowe) jest krytyczna: część prac przygotowawczych i badań geologicznych jest już planowana i częściowo finansowana z budżetów lokalnych i centralnych, ale pełne finansowanie portu i linii przesyłowych może wymagać dodatkowych środków państwowych lub partnerstw publiczno-prywatnych — to potencjalne źródło kolejnych opóźnień i kosztów.\nStan konsultacji społecznych dla lokalizacji Lubiatowo–Kopalino: procedury środowiskowe i konsultacje trwają — główne zastrzeżenia mieszkańców dotyczą wpływu na wybrzeże i rybołówstwo; ewentualne odwołania lub dodatkowe wymogi środowiskowe mogą opóźnić etap administracyjny.\nHarmonogram: PEJ podzielił program na dwa etapy; etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r. Przy sprawnej akceptacji KE i porozumieniach z Exim harmonogram do 2035 r. jest możliwy. Scenariusze: optymistyczny (20–30%) — 2035; bazowy (50–60%) — opóźnienia 1–3 lata; pesymistyczny (10–30%) — przesunięcia poza 2035 i istotny wzrost kosztów.\nPodsumowanie: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i formalnie planowanym projektem infrastrukturalnym, ale jej realizacja wymaga znaczących nakładów finansowych (łączny koszt pierwszego bloku z infrastrukturą szacowany obecnie na ~10–14 mld USD), rządowych gwarancji (orientacyjnie możliwe limity 20–50% długu), dostosowań prawnych, uzgodnienia modelu kontraktowego przenoszącego część ryzyka na wykonawcę oraz zgody KE. Jeśli negocjacje z Exim i akceptacja KE przebiegną sprawnie, harmonogram do 2035 r. jest możliwy; jednak istnieje realne ryzyko opóźnień, dodatkowych kosztów i wpływu na ceny energii, które czytelnik powinien mieć na uwadze.",
+  "final_agreement_score": 4,
+  "initial_agreement_score": 4,
+  "extracted_linguistic_changes": [
+    "Wyraźne rozdzielenie faktów od deklaracji i scenariuszy (transparent framing)",
+    "Scenariusze ryzyka (contingency framing)",
+    "Praktyczne wyjaśnienia dla laika (education framing)",
+    "Uwiarygodnienie przez kontekst historyczny i proceduralny (contextual anchoring)",
+    "Ramowanie ryzyka i realizmu (ang. realistic framing)",
+    "Transparentne ramowanie ryzyka i scenariuszy",
+    "Transparentne ramowanie ryzyka i korzyści",
+    "Ramowanie przez konkretne porównania i symulacje liczbowej skali (framing wartościowy + konkretyzacja)",
+    "Uproszczenie ryzyka i odpowiedzialności (perswazja przez jasne przypisanie konsekwencji)",
+    "Kontekstualizacja i uproszczenie (framing dla laika)",
+    "Porównawcze odniesienia i dowody (socjalne dowodzenie)",
+    "Scenariusze i prawdopodobieństwa (redukcja niepewności)",
+    "Wyjaśnianie formalne (transparentność procedur)"
+  ],
+  "extracted_domain_changes": [
+    "Dodano wyraźne rozdzielenie między deklaracjami wykonawcy, planami rządu i warunkami zależnymi od zgody KE",
+    "Doprecyzowano, że kwota 7 mld USD odnosi się głównie do konstrukcji reaktora i nie obejmuje wszystkich kosztów towarzyszących (odsetki, ubezpieczenie, infrastruktura, odpady)",
+    "Wprowadzono praktyczne wyjaśnienie skutków rządowych gwarancji i ich wpływu na budżet",
+    "Dodano analizę ryzyk i trzy scenariusze (optymistyczny, bazowy, pesymistyczny) opisujące możliwe przesunięcia harmonogramu",
+    "Uwzględniono kontekst zmian w PPEJ i wcześniejszych, zaktualizowanych terminów, co pokazuje historię ewolucji planu",
+    "Wyjaśniono, że 7 mld USD to koszt konstrukcyjny reaktora, a całkowite koszty z infrastrukturą i finansowaniem mogą wynieść 10–14 mld USD za blok",
+    "Dodano zastrzeżenia dotyczące niepewności terminu zgody KE i wskazano możliwe ramy czasowe oraz scenariusze (optymistyczny, bazowy, pesymistyczny)",
+    "Włączono porównanie doświadczeń z budową reaktorów AP1000 (przykład Vogtle) jako ilustrację ryzyka opóźnień i przekroczeń kosztów",
+    "Dodano informację o wpływie inwestycji na ceny energii i porównanie z kosztami OZE + magazynów",
+    "Sprecyzowano rolę Exim i konieczność rządowych gwarancji oraz konieczność decyzji parlamentarnych w zakresie ich zakresu",
+    "Uzupełniono informacje o lokalizacji Lubiatowo–Kopalino i procedurach środowiskowych w ramach etapu administracyjnego",
+    "Dodano konkretne widełki całkowitych kosztów projektu (10–14 mld USD) uwzględniające infrastrukturę i koszty finansowe",
+    "Wprowadzono przybliżony harmonogram najbliższych kroków negocjacyjnych i proceduralnych (kwartały/miesiące)",
+    "Dodano uproszczone oszacowanie wpływu kosztu inwestycji na cenę energii (MWh) i porównanie z OZE",
+    "Wyjaśniono rodzaje i mechanizmy rządowych gwarancji oraz ich konsekwencje fiskalne",
+    "Uwzględniono konkretne porównania z projektami AP1000 (Vogtle: >100% wzrost kosztów) i omówiono typowe opóźnienia",
+    "Dodano informacje o mechanizmach kontraktowych (fixed-price vs cost-plus, kary za opóźnienia) będących przedmiotem negocjacji",
+    "Sprecyzowano, które prace przygotowawcze są już zaplanowane i częściowo finansowane oraz które elementy infrastruktury wymagają dodatkowego finansowania",
+    "Dodano realistyczną widełkę całkowitych kosztów pierwszego bloku (10–14 mld USD)",
+    "Wprowadzono uproszczony przykład wpływu kosztów na cenę energii i rachunek gospodarstwa domowego",
+    "Dodano orientacyjne informacje o skali rządowych gwarancji i wymaganiu decyzji parlamentarnych",
+    "Wyjaśniono różnice między modelami kontraktowymi (fixed-price vs cost-plus vs mieszany) i ich konsekwencje dla ryzyka",
+    "Osadzono ryzyko proceduralne KE w typowych ramach czasowych UE",
+    "Dodano krótkie, jasne podsumowanie kluczowych punktów i ryzyk na końcu artykułu",
+    "Dodano wyraźne rozróżnienie między kosztem konstrukcyjnym (7 mld USD) a całkowitymi kosztami projektu (~10–14 mld USD)",
+    "Wprowadzono orientacyjne terminy i status negocjacji z Exim i konsorcjum (ramowy harmonogram kroków)",
+    "Dodano orientacyjne wartości i mechanizmy rządowych gwarancji (np. dziesiątki procent zadłużenia, gwarancje etapowe)",
+    "Uzupełniono porównania z projektami AP1000 (Vogtle i Chiny) jako empiryczne odniesienia",
+    "Wstawiono uproszczoną symulację wpływu kosztów (10 vs 14 mld USD) na ceny energii i rachunek gospodarstwa domowego przy amortyzacji 40 lat",
+    "Dodano jasne opisanie kto ponosi ryzyko przy modelach kontraktowych (fixed-price, cost-plus, mieszany)",
+    "Dodano orientacyjne prawdopodobieństwa scenariuszy (optymistyczny/bazowy/pesymistyczny)",
+    "Skompresowano i przearanżowano tekst, zachowując oryginalny styl języka i długość mieszczącą się w limicie",
+    "Dodano orientacyjną widełkę całkowitych kosztów pierwszego bloku (10–14 mld USD) i wyjaśniono składniki tej kwoty",
+    "Wprowadzono orientacyjne liczby dotyczące rządowych gwarancji (np. 20–50% długu jako możliwy model)",
+    "Dodano uproszczone, kwantyfikowane przykłady wpływu na cenę energii i gospodarstwo domowe (warianty 10 vs 14 mld USD)",
+    "Uwzględniono krótką historyczną analizę doświadczeń Vogtle i Chin oraz przyczyny przekroczeń",
+    "Wyjaśniono modele kontraktowe (fixed-price, cost-plus, mieszany) i ich wpływ na podział ryzyka oraz negocjowane mechanizmy (kary, limity odpowiedzialności, arbitraż)",
+    "Określono finansowanie infrastruktury towarzyszącej i potencjalne źródła kosztów (budżety lokalne/centralne, PPP)",
+    "Dodano stan konsultacji środowiskowych i społeczne ryzyka dla lokalizacji Lubiatowo–Kopalino",
+    "Uzupełniono harmonogram o najbliższe kroki proceduralne i orientacyjne terminy oraz przypisano orientacyjne prawdopodobieństwa scenariuszy"
+  ],
+  "cumulative_missing_information": [
+    "Szacowane całkowite koszty projektu uwzględniające infrastrukturę towarzyszącą, koszt finansowania (odsetki), ubezpieczenia, zarządzanie odpadami i rozruch — łączna wartość zamiast tylko 7 mld USD za reaktor.",
+    "Prawdopodobieństwo i przewidywane terminy uzyskania zgody Komisji Europejskiej oraz scenariusze, co się stanie, jeśli KE zażąda zmian.",
+    "Szczegóły warunków proponowanych przez Exim (typ finansowania, oprocentowanie, terminy spłaty) i ewentualne alternatywne źródła finansowania.",
+    "Dane porównawcze z innymi krajami budującymi reaktory AP1000 (lub analogiczne): typowe opóźnienia i przekroczenia kosztów w praktyce.",
+    "Wpływ projektu na ceny energii dla odbiorców końcowych (przybliżone szacunki taryfowe) i porównanie kosztów z innymi opcjami niskoemisyjnymi.",
+    "Konkrety dotyczące gwarancji rządowych: zakres, mechanizm aktywacji i maksymalne obciążenie budżetu oraz wymagane decyzje parlamentarne.",
+    "Informacje o lokalizacji (Lubiatowo-Kopalino) — wpływ na środowisko, opinie lokalnych społeczności, postęp procedur środowiskowych.",
+    "Harmonogram negocjacji z Westinghouse-Bechtel: jakie etapy pozostały i jakie są warunki zakończenia negocjacji.",
+    "Konkretny harmonogram kluczowych kroków proceduralnych i negocjacyjnych (kiedy dokładnie mają się odbyć rozmowy z Exim, kiedy spodziewana jest formalna decyzja KE, terminy parlamentarne związane z gwarancjami).",
+    "Szacunkowy wpływ na rachunki klientów (przykładowe stawki taryfowe dla różnych scenariuszy kosztowych, porównanie z obecnymi cenami energii).",
+    "Szczegóły dotyczące zakresu i potencjalnych limitów rządowych gwarancji oraz możliwych kosztów fiskalnych dla budżetu państwa.",
+    "Więcej danych o tym, które elementy infrastruktury (drogi, port, linie) są już zabezpieczone w budżecie/planach i ile mogą kosztować osobno.",
+    "Informacje o mechanizmach zarządzania ryzykiem i kontraktowych klauzulach (np. czy wykonawca bierze na siebie kary za opóźnienia, czy cost-plus itp.).",
+    "Dane porównawcze z innymi krajami na temat ostatecznych kosztów AP1000 per MW i typowych opóźnień, w liczbach i procentach, a nie tylko ogólnie (np. ile wzrosły koszty w Vogtle w %).",
+    "Krótkie wyjaśnienie dla laika, co oznacza zgoda KE na model wsparcia — jakie kryteria KE bierze pod uwagę i jakie są możliwe konsekwencje jej odmowy.",
+    "Szacunkowe wielkości możliwych rządowych gwarancji (np. zakres procentowy długu, suma maksymalna) lub przykład scenariusza fiskalnego pokazującego obciążenie budżetu w liczbach.",
+    "Przykładowe uproszczone wyliczenie wpływu całkowitego kosztu projektu (np. 10 vs 14 mld USD) na cenę energii dla odbiorcy (z konkretnymi wartościami PLN/MWh lub PLN/rok dla gospodarstwa domowego).",
+    "Konkrety dotyczące modelu kontraktowego negocjowanego z wykonawcą (czy preferowany jest fixed-price, cost-plus, mieszany) i jakie są historyczne konsekwencje wyboru dla kosztów końcowych.",
+    "Harmonogram i ryzyka proceduralne po stronie KE — ile typowo trwa zgoda na takie mechanizmy wsparcia w porównywalnych projektach w UE?",
+    "Krótka mapa odpowiedzialności (kto ponosi ryzyko przy różnych modelach: wykonawca, inwestor, państwo) przedstawiona w przystępny sposób.",
+    "Konkretnie potwierdzone terminy i status negocjacji z Exim i konsorcjum (np. czy już podpisano jakieś listy intencyjne, harmonogram rozmów)",
+    "Szacunkowe prawdopodobieństwa realizacji scenariuszy (optymistyczny/bazowy/pesymistyczny) lub choćby ich względna wiarygodność",
+    "Konkretny zakres proponowanych rządowych gwarancji (procent zadłużenia, mechanizmy aktywacji) i symulacja ich wpływu na dług publiczny",
+    "Źródła i odniesienia do danych o kosztach z projektów Vogtle i chińskich w celu weryfikacji porównań",
+    "Prostsze, liczbowo zilustrowane porównanie wpływu na rachunek przeciętnego gospodarstwa domowego (przykłady przy różnych modelach amortyzacji)",
+    "Wyraźne wskazanie, kto ponosi ryzyko przy każdym rozważanym modelu kontraktowym z konkretnymi przykładami konsekwencji",
+    "Konkrety dotyczące zakresu i maksymalnych limitów rządowych gwarancji (wartości liczbowe lub ich orientacja procentowa wobec całkowitego długu projektu).",
+    "Szersze porównanie kosztów i ryzyk projektu jądrowego do innych dużych inwestycji infrastrukturalnych w Polsce (np. autostrady, duże elektrownie gazowe, farmy wiatrowe), żeby ocenić akceptowalność fiskalną.",
+    "Szczegóły negocjowanego modelu kontraktowego (czy przewiduje się elementy fixed-price, jakie są planowane kary za opóźnienia, ile procent ryzyka ma przejąć wykonawca).",
+    "Informacje o stanie zgód środowiskowych i społecznych dla lokalizacji (etap konsultacji, główne zastrzeżenia mieszkańców), które mogą opóźnić etap administracyjny.",
+    "Orientacyjne prognozy wpływu różnych wariantów kosztowych na cenę energii w Polsce (konkretne liczby w zł/rok lub zł/kWh dla gospodarstwa domowego w poszczególnych scenariuszach).",
+    "Harmonogram i ryzyka związane z budową infrastruktury towarzyszącej (port, drogi, linie przesyłowe) — kto za to odpowiada i ile to może kosztować.",
+    "Krótka historyczna analiza przypadków (Vogtle, Chiny) z podaniem procentowych przekroczeń i głównych przyczyn — by lepiej oszacować prawdopodobieństwo podobnych problemów.",
+    "Konkretny przykład, jak przyjęty model finansowania (np. 30/70) przełoży się na budżet państwa w liczbach (ile zł może trafić do długu publicznego przy różnych scenariuszach przekroczeń).",
+    "Dokładniejsze wyjaśnienie, jakie elementy infrastruktury państwo musi sfinansować bezpośrednio (port, linie przesyłowe) i szacunkowe koszty tych elementów.",
+    "Konkrety dotyczące gwarancji rządowych: przykłady proponowanych zapisów, moment aktywacji gwarancji i mechanizmy kontroli ryzyka fiskalnego.",
+    "Porównanie kosztów energii z nowej elektrowni jądrowej z kosztami energii z OZE + magazyny w realistycznych przedziałach czasowych i cenowych.",
+    "Informacje o możliwych scenariuszach sporu z KE (jakie zmiany modelu finansowania byłyby konieczne) i ile to mogłoby wydłużyć harmonogram.",
+    "Więcej danych o stanie konsultacji społecznych i potencjalnych prawnych odwołaniach dla lokalizacji Lubiatowo–Kopalino (liczba skarg, harmonogramy procesu odwoławczego).",
+    "Szczegóły dotyczące doświadczeń wykonawcy (Westinghouse–Bechtel) z podobnymi kontraktami poza ogólnymi przykładami Vogtle/Chiny: co poszło dobrze, a co źle."
+  ],
+  "cumulative_suggested_improvements": [
+    "Podaj pełny, zaktualizowany szacunek całkowitych kosztów pierwszej elektrowni (wszystkie pozycje) lub przynajmniej widełki kosztowe, aby uniknąć mylącego wrażenia, że 7 mld USD to koszt całkowity.",
+    "Dołącz krótkie porównanie doświadczeń innych krajów z budową reaktorów AP1000 (ile trwało, jakie były opóźnienia i przekroczenia budżetu) — to da czytelnikowi realistyczne oczekiwania co do ryzyka harmonogramowego i kosztowego.",
+    "Wyjaśnij bardziej szczegółowo, co oznacza zgoda Komisji Europejskiej: jakie kryteria KE ocenia w tym modelu finansowania i ile typowo trwa taka procedura.",
+    "Uzupełnij artykuł o informacje o warunkach finansowania oferowanych przez Exim (oprocentowanie, struktura długu, zabezpieczenia) oraz alternatywy finansowe, jeśli negocjacje z Exim utkną.",
+    "Dodaj orientacyjne szacunki wpływu inwestycji na ceny prądu dla gospodarstw domowych i przemysłu, oraz porównanie kosztów energii z alternatywnymi źródłami niskoemisyjnymi.",
+    "Opisz mechanizm rządowych gwarancji bardziej konkretnie (przykładowe scenariusze aktywacji, możliwe limity i procedury parlamentarne).",
+    "Wprowadź wypowiedzi niezależnych ekspertów (np. analityków energetycznych, ekonomistów) oceniających realistyczność harmonogramu i kosztów — to poprawi wiarygodność dla laika.",
+    "Jeśli to możliwe, podaj prawdopodobne terminy kluczowych decyzji (np. kiedy spodziewana jest zgoda KE, kiedy mogą się rozpocząć negocjacje końcowe z wykonawcą) i ocenę prawdopodobieństwa utrzymania terminu 2035 w procentach lub jako scenariusze z szacunkami.",
+    "Dodać konkretny, czytelny harmonogram najbliższych kroków (miesiąc/rok) związanych z negocjacjami z Exim, decyzją KE i procedurami parlamentarnymi — to da czytelnikowi poczucie przewidywalności.",
+    "Umieścić przykładowe kalkulacje wpływu różnych kosztów (np. wariant 10 mld vs 14 mld USD) na cenę MWh z elektrowni i porównanie z aktualnymi cenami energii dla gospodarstw domowych i przemysłu.",
+    "Wyjaśnić konkretnie, jakiego rodzaju i jakie wielkości gwarancji rządowych są rozważane oraz pokazać scenariusze fiskalne (np. potencjalne obciążenie budżetu w przypadku przejęcia zobowiązań).",
+    "Podać bardziej szczegółowe porównania z projektami AP1000 (Vogtle, Chiny) w liczbach: planowany koszt vs ostateczny koszt, planowany czas vs rzeczywiste opóźnienie, aby lepiej ocenić ryzyko procentowe.",
+    "Dodać jasne informacje o tym, które prace przygotowawcze są już wykonane i sfinansowane, a które pozostają do uruchomienia (np. które elementy infrastruktury są w budżecie lokalnym/centralnym).",
+    "Wyjaśnić mechanizmy umowne z wykonawcą: czy przewidziane są kary za opóźnienia, kto ponosi ryzyko kosztowe przy przekroczeniach budżetu, czy model to fixed-price czy inny — to zwiększy wiarygodność harmonogramu.",
+    "Dołączyć krótkie, przystępne wyjaśnienie roli i kryteriów Komisji Europejskiej przy akceptacji modeli wsparcia, aby czytelnik zrozumiał, jakie elementy mogą blokować zgody KE.",
+    "Dodać prosty przykład liczbowy pokazujący, jak różne kwoty całkowite (10 vs 14 mld USD) przekładają się na koszt energii (PLN/MWh) i na rachunek przeciętnego gospodarstwa — to pomoże laikowi zrozumieć konsekwencje.",
+    "Podać orientacyjne limity gwarancji rządowych lub chociaż scenariusz ilustrujący maksymalne obciążenie fiskalne (np. w scenariuszu skrajnym państwo przejmuje X mld USD długu), aby pokazać skalę ryzyka dla budżetu.",
+    "Wyjaśnić krótko różnice między modelami kontraktowymi (fixed-price vs cost-plus) i które elementy ryzyka przechodziłyby na wykonawcę przy każdym z nich — najlepiej w jednym akapicie z konkretnymi konsekwencjami.",
+    "Dodać porównanie czasów uzyskiwania zgody KE w podobnych przypadkach w UE (przykłady i typowe ramy czasowe), aby ocena terminu „przełom tego i przyszłego roku” była bardziej osadzona w rzeczywistości.",
+    "Wstawić podsumowanie kluczowych punktów na końcu artykułu w formie krótkiej listy: główne ryzyka, krytyczne terminy, co może przyspieszyć, a co opóźnić projekt — to ułatwi szybkie zrozumienie dla czytelnika-laika.",
+    "Dodać krótką tabelę lub ramkę z kluczowymi terminami i aktualnym statusem negocjacji (np. rozmowy z Exim: planowane/potwierdzone; zgoda KE: wniosek złożony/planowany itp.)",
+    "Podać orientacyjne wartości proponowanych gwarancji rządowych (np. 20%, 40% długu) oraz prostą symulację, jak wpłynęłyby one na dług publiczny i roczne wydatki państwa",
+    "Uzupełnić artykuł odwołaniami do źródeł (raporty, komunikaty PEJ, dokumenty KE, dane z projektów Vogtle/Chiny), aby zwiększyć wiarygodność porównań",
+    "Wstawić krótką symulację wpływu kosztów (10 vs 14 mld USD) na rachunek gospodarstwa domowego w kilku wariantach amortyzacji (np. 30, 40, 50 lat) i różnych udziałach kosztów w taryfie",
+    "Wyjaśnić prostym językiem, jakie konsekwencje ma każdy model kontraktowy (fixed-price, cost-plus, mieszany) dla podatnika i dla wykonawcy, z krótkimi przykładami",
+    "Podsumować na początku artykułu w 2–3 zdaniach najbardziej prawdopodobny scenariusz i największe niewiadome — to pomoże laikowi szybko ocenić wiarygodność planu",
+    "Podaj orientacyjne liczby dotyczące planowanych rządowych gwarancji (np. zakres procentowy długu lub maksymalna ekspozycja budżetu) — nawet szerokie widełki zwiększą wiarygodność.",
+    "Dołącz krótkie porównanie z innymi dużymi inwestycjami w Polsce (koszt/rok/impact fiskalny), żeby czytelnik mógł ocenić skalę obciążenia dla państwa.",
+    "Wyróżnij w tekście klarownie, jaki model kontraktowy jest preferowany i jakie konkretne mechanizmy przenoszenia ryzyka są negocjowane (przykładowe klauzule: limity odpowiedzialności, kary za opóźnienia, mechanizmy arbitrażu).",
+    "Podaj konkretne szacunki wpływu na przeciętne gospodarstwo domowe w formie kilku wariantów (np. wariant 10 mld, 12 mld, 14 mld USD) z liczbami w zł/rok i w gr/kWh, zamiast ogólnikowych \"kilkudziesięciu–kilkuset zł\".",
+    "Dołącz krótkie streszczenie stanu konsultacji środowiskowych i społecznych dla wskazanej lokalizacji oraz potencjalne terminy i ryzyka związane z odwołaniami/odmowami.",
+    "Wyjaśnij kto odpowiada za finansowanie infrastruktury towarzyszącej i czy jej koszty są już wstępnie zabezpieczone (port, drogi, linie przesyłowe).",
+    "Dodaj tabelę/infografikę (albo przynajmniej wypunktowanie) kluczowych kamieni milowych i kto za nie odpowiada, z orientacyjnymi terminami i największymi ryzykami dla każdego z nich.",
+    "Dodać prosty arkusz liczbowy/pokazowy (kilka scenariuszy) ilustrujący, jak różne całkowite koszty (10, 12, 14 mld USD) i różne udziały długu wpływają na roczne koszty dla budżetu państwa i przeciętnego gospodarstwa domowego.",
+    "Wyraźnie wyszczególnić, które elementy infrastruktury są już sfinansowane, a które nie, z orientacyjnymi kosztami i źródłami finansowania (centralny budżet, budżety lokalne, PPP).",
+    "Opisać przykładowe zapisy gwarancji rządowych (np. limit X% salda długu, mechanizm etapowy) i ich potencjalne skutki dla długu publicznego w liczbach.",
+    "Dodać krótkie porównanie kosztów kWh z elektrowni jądrowej przy podanych scenariuszach kosztowych z kosztami kWh z OZE + magazyny, aby czytelnik mógł ocenić opłacalność.",
+    "Rozwinąć fragment o procedurze KE: ile typowo trwa analiza takich modeli wsparcia, jakie są najczęstsze powody odrzucenia i ile to dodaje do harmonogramu.",
+    "Uzupełnić sekcję o konsultacjach społecznych konkretnymi danymi (liczba uwag, potencjalne odwołania, przewidywane terminy rozstrzygnięć), co pomoże ocenić ryzyko administracyjne.",
+    "Wskazać konkretne kroki, które rząd i PEJ mogą podjąć, by zmniejszyć ryzyko opóźnień i przekroczeń kosztów (np. preferowanie modelu mieszanych ryzyk, klauzule audytowe, niezależny nadzór techniczny)."
+  ],
+  "addressed_missing_information": [
+    "Rozróżnienie kosztu konstrukcyjnego (7 mld USD) od całkowitych kosztów (~10–14 mld USD)",
+    "Szczegóły dotyczące zakresu i potencjalnych limitów rządowych gwarancji",
+    "Kto ponosi ryzyko przy każdym modelu kontraktowym",
+    "Dane porównawcze z innymi krajami budującymi reaktory AP1000: opóźnienia i przekroczenia kosztów",
+    "Prostsze, liczbowo zilustrowane porównanie wpływu na rachunek gospodarstwa domowego",
+    "Orientacyjne prognozy wpływu wariantów kosztowych na cenę energii i gospodarstwo domowe",
+    "Konkretne zapisy dotyczące gwarancji rządowych: zakres, forma, potencjalne skutki dla budżetu państwa",
+    "Wyraźne oddzielenie deklaracji wykonawcy od planów rządowych",
+    "Ocena ryzyka i możliwe przesunięcia harmonogramu",
+    "Dane porównawcze z projektami AP1000 (procentowe wzrosty kosztów i opóźnienia)",
+    "Wyjaśnienie, że 7 mld USD nie jest kosztem całkowitym",
+    "Szacunkowe wielkości możliwych rządowych gwarancji (orientacyjne poziomy)",
+    "Wyjaśnienie różnic między modelami kontraktowymi (fixed-price vs cost-plus vs mieszany)",
+    "Przypomnienie o dotychczasowych opóźnieniach lub zmianach planów w PPEJ",
+    "Szczegóły modelu finansowania 30/70 i rola Exim",
+    "Historyczna analiza przypadków (Vogtle, Chiny) z przyczynami i skalą przekroczeń",
+    "Prawdopodobieństwo i przewidywane terminy uzyskania zgody KE oraz zastrzeżenie co do niepewności",
+    "Scenariusze i prawdopodobieństwa uzyskania zgody KE oraz konsekwencje w przypadku żądania zmian przez KE",
+    "Kto odpowiada za finansowanie infrastruktury towarzyszącej i czy koszty są zabezpieczone",
+    "Wiarygodność podawanych kosztów (7 mld USD) — czy obejmuje instalacje towarzyszące, odsetki, ubezpieczenie i koszty likwidacji",
+    "Terminy parlamentarne związane z gwarancjami",
+    "Szacowane całkowite koszty projektu uwzględniające infrastrukturę towarzyszącą, koszt finansowania, ubezpieczenia, zarządzanie odpadami i rozruch",
+    "Potwierdzenie, że terminy są orientacyjne",
+    "Harmonogram i ryzyka proceduralne po stronie KE oraz typowe ramy czasowe",
+    "Zakres i orientacja procentowa rządowych gwarancji",
+    "Informacje o mechanizmach zarządzania ryzykiem i klauzulach kontraktowych",
+    "Orientacyjne wartości proponowanych gwarancji (np. dziesiątki procent zadłużenia)",
+    "Szczegóły, co obejmuje kwota 7 mld USD",
+    "Informacje o lokalizacji (Lubiatowo–Kopalino) — procedury środowiskowe i konsultacje",
+    "Wyjaśnienie, że 7 mld USD to koszt konstrukcyjny reaktora",
+    "Dodanie realistycznej widełki całkowitych kosztów (10–14 mld USD)",
+    "Szacunkowe prawdopodobieństwa poszczególnych scenariuszy",
+    "Wyjaśnienie roli KE i konsekwencji braku zgody",
+    "Wyraźne ramy terminów i ryzyk",
+    "Dodanie widełek 10–14 mld USD jako realistycznego całkowitego kosztu",
+    "Potrzeba zgody KE przed finalizacją warunków",
+    "Możliwe koszty fiskalne dla budżetu państwa",
+    "Wskazanie potrzeby decyzji parlamentarnych",
+    "Symulacja wpływu różnych kosztów i okresów amortyzacji",
+    "Wyjaśnienie, że 7 mld USD to tylko koszt konstrukcyjny reaktora",
+    "Konsekwencje wyboru modelu dla podatnika",
+    "Realistyczne prawdopodobieństwa scenariuszy i szersze oszacowanie terminów",
+    "Wpływ projektu na ceny energii dla odbiorców końcowych i porównanie z odnawialnymi",
+    "Prosty przykład wpływu całkowitego kosztu projektu (10 vs 14 mld USD) na cenę energii i gospodarstwo domowe",
+    "Wyjaśnienie, co obejmuje/nie obejmuje kwota 7 mld USD",
+    "Alternatywne scenariusze (opóźnienia, zwiększone koszty, brak zgody KE) i ich wpływ na harmonogram 2035 r.",
+    "Ramowanie czytelnikowi, że 2035 jest możliwy, ale niepewny",
+    "Jasne podsumowanie wpływu negocjacji i zgody KE na realizację projektu",
+    "Konkretne scenariusze czasowe (optymistyczny/bazowy/pesymistyczny) z oszacowaniem opóźnień",
+    "Orientacyjna całkowita widełka kosztów (10–14 mld USD)",
+    "Mechanizmy aktywacji gwarancji",
+    "Harmonogram kluczowych kroków proceduralnych i negocjacyjnych",
+    "Konkretny status i harmonogram negocjacji z Exim i konsorcjum"
+  ],
+  "addressed_suggested_improvements": [
+    "Wyjaśnienie które koszty nie są uwzględnione w 7 mld USD",
+    "Podanie realnej widełki całkowitych kosztów",
+    "Dodaj krótką historyczną analizę przypadków z procentowymi przekroczeniami i przyczynami",
+    "Wyraźnie rozdzielać, co jest deklaracją wykonawcy/partnerów, co jest planem rządowym",
+    "Dołącz krótkie porównanie doświadczeń innych krajów z budową reaktorów AP1000",
+    "Wyjaśnienie elementów pominiętych w kwocie 7 mld USD",
+    "Wyjaśnij rolę KE i proceduralne konsekwencje dla harmonogramu",
+    "Ujęcie wpływu gwarancji na budżet państwa",
+    "Podanie względnej wiarygodności scenariuszy",
+    "Zastosowanie perswazyjnego, realistycznego podsumowania scenariuszy",
+    "Dodanie uproszczonego wyliczenia wpływu na cenę energii i rachunek gospodarstwa",
+    "Wyjaśnienie opcji kontraktowych i ich wpływu na ryzyko",
+    "Dodanie konkretów dotyczących modelu kontraktowego i konsekwencji dla ryzyka",
+    "Uzupełnij artykuł o informacje o warunkach finansowania oferowanych przez Exim oraz alternatywy finansowe (zaznaczono potrzebę negocjacji i zgody KE)",
+    "Podaj orientacyjne liczby dotyczące planowanych rządowych gwarancji",
+    "Podaj konkretne szacunki wpływu na gospodarstwo domowe w kilku wariantach",
+    "Dodanie przykładowych kalkulacji wpływu różnych kosztów",
+    "Wyjaśnienie rodzajów gwarancji i mechanizmów aktywacji",
+    "Dodanie konkretnych porównań (Vogtle >100% wzrost kosztów)",
+    "Wyjaśnij, co nie jest wliczone w 7 mld USD",
+    "Podaj orientacyjne liczby dotyczące całkowitych kosztów",
+    "Podaj pełny, zaktualizowany szacunek całkowitych kosztów pierwszej elektrowni",
+    "Wyjaśnij składniki kosztu",
+    "Dodaj orientacyjne szacunki wpływu inwestycji na ceny prądu i porównanie kosztów z alternatywnymi źródłami niskoemisyjnymi",
+    "Podanie orientacyjnych limitów gwarancji",
+    "Dodać analizę ryzyk finansowych i scenariusze wpływające na datę 2035",
+    "Dodanie ram czasowych i statusu negocjacji",
+    "Rozszerzenie informacji o kosztach (10–14 mld USD)",
+    "Podanie orientacyjnych wartości gwarancji rządowych",
+    "Uzupełnienie porównań kosztów z innych projektów (Vogtle/Chiny)",
+    "Wyraźne wskazanie odpowiedzialności przy modelach fixed-price, cost-plus i mieszanym",
+    "Podaj prawdopodobne terminy kluczowych decyzji i ocenę ryzyka (scenariusze)",
+    "Podaj prawdopodobne terminy kluczowych decyzji i ocenę prawdopodobieństwa utrzymania terminu 2035 w scenariuszach",
+    "Wyjaśnij finansowanie infrastruktury towarzyszącej i odpowiadające ryzyka",
+    "Porównanie czasów uzyskiwania zgody KE w podobnych przypadkach",
+    "Wyjaśnić, co oznaczają rządowe gwarancje w praktyce",
+    "Podać więcej szczegółów o koszcie 7 mld USD",
+    "Wyjaśnienie wpływu na dług publiczny (konieczność decyzji parlamentarnych)",
+    "Wstawienie krótkiej symulacji wpływu kosztów na gospodarstwo domowe",
+    "Dodanie czytelnego harmonogramu najbliższych kroków",
+    "Dodać krótkie przypomnienie dotychczasowych opóźnień jako kontekst",
+    "Informacje o lokalizacji — wpływ na środowisko, opinie lokalnych społeczności, postęp procedur środowiskowych",
+    "Wskazanie konieczności mechanizmów przenoszących ryzyko na wykonawcę",
+    "Uspokojenie czytelnika poprzez wskazanie przybliżonych terminów",
+    "Przedstaw prawdopodobieństwa scenariuszy (orientacyjne)",
+    "Dodanie scenariuszy harmonogramowych i prawdopodobieństw",
+    "Urealnienie terminu 'przełom tego i przyszłego roku'",
+    "Pokazanie, że decyzje parlamentarne będą konieczne"
+  ]
+}

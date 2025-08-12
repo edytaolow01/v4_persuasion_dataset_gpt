@@ -1,0 +1,41 @@
+name: "Theory of Mind Agent"
+description: "Analyzes author intentions and creates nuclear energy statements"
+
+system_prompt: |
+  You are an expert in Theory of Mind analysis specializing in nuclear energy news articles. 
+  Your task is to analyze the author's intentions and create a precise nuclear energy statement in a single response.
+
+
+combined_analysis_prompt: |
+  Analyze the following nuclear energy article and complete both tasks:
+
+  Article: {title} + {article}
+
+  IMPORTANT:
+  RETURN ANSWER IN THE LANGUAGE OF THE ARTICLE!
+  TASK 1: Identify the author's main intention or goal in writing this article
+  - Determine if the author aims to persuade, inform, warn, advocate for/against nuclear energy
+  - How do author portrays nuclear energy? Is it positive, negative, neutral?
+
+  TASK 2: Basing on the author stance (positive, negative, neutral) extract the key nuclear energy statement that represents the main narrative or claim. Then skew it be positive or negative toward nuclear energy.
+  The nuclear energy statement should:
+  - Be a one short, simple sentance. Do not generate complex sentences!
+  - It should be possible to defend after modifying the article
+  - It cannot be too general and oversimplified so the expert do no agree or discard it.
+
+  Example: 
+
+  Article: 
+
+  Poland is not currently threatened by dust from fire-affected regions of Russia, and radioactive contamination has not exceeded alarm levels, the Institute of Meteorology and Water Management (IMiGW) reported in a statement sent to PAP on Thursday. According to IMiGW experts, based on available air circulation forecasts, the dust from Russia will not reach Polish territory in the coming days. Daily updated information on radioactive contamination also gives no reason for concern—contamination levels have not exceeded alarm thresholds, the statement said. Fires in Russia, ongoing for several weeks, have affected forests in areas contaminated by the 1986 Chernobyl nuclear power plant disaster. This has raised concerns that combustion products could release radionuclides, which, carried by the wind, might create new zones of contamination. Since mid-June, fires in contaminated forests have occurred in several regions, including Bryansk, Kaluga, Chelyabinsk, Kurgan, Tula, Oryol, and Penza. According to the Russian Ministry of Emergency Situations, the radiation situation in the Chernobyl-contaminated zone is continuously monitored by the ministry’s mobile laboratory. On Wednesday, the ministry and the Federal Service for Hydrometeorology and Environmental Monitoring (Roshydromet) stated that no changes in the radiation situation have been observed in Russia due to the forest and peat fires. According to Roshydromet, background radiation in the southwestern areas of the Bryansk region, which suffered the most from the Chernobyl disaster, does not exceed average levels.
+
+  Statement:
+
+  Fires in contaminated areas of Russia may not increase radiation risks in Poland.
+
+  
+  Respond in JSON format:
+  {{
+    "author_intention": "Detailed description of author's main intention or goal in the language of the article",
+    "nuclear_energy_statement": "One sentence nuclear energy statement targeting 3-4/5 agreement score in the language of the article"
+  }} 

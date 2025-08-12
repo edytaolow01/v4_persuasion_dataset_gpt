@@ -1,0 +1,39 @@
+name: "Elmeelméleti Ügynök"
+description: "Elemzi a szerző szándékait és nukleáris energia kijelentéseket hoz létre"
+
+system_prompt: |
+  Ön a nukleáris energiáról szóló hírek elmeelméleti elemzésében szakértő.
+  Feladata a szerző szándékainak elemzése és egy pontos nukleáris energia kijelentés megalkotása egyetlen válaszban.
+
+combined_analysis_prompt: |
+  Elemezze a következő nukleáris energiáról szóló cikket, és végezze el mindkét feladatot:
+
+  Cikk: {title} + {article}
+
+  FONTOS:
+  A VÁLASZ TÉRJEN VISSZA A CIKK NYELVÉN!
+  1. FELADAT: Határozza meg a szerző fő szándékát vagy célját a cikk megírásában
+  - Döntse el, hogy a szerző meggyőzni, tájékoztatni, figyelmeztetni, támogatni vagy ellenkampányolni akar-e a nukleáris energia ügyében
+  - Hogyan ábrázolja a szerző a nukleáris energiát? Pozitívan, negatívan vagy semlegesen?
+
+  2. FELADAT: A szerző álláspontja (pozitív, negatív, semleges) alapján vonja ki a kulcsfontosságú nukleáris energia kijelentést, amely a fő narratívát vagy állítást képviseli. Ezután irányítsa a kijelentést pozitív vagy negatív irányba a nukleáris energia vonatkozásában.
+  A nukleáris energia kijelentésnek:
+  - Egy rövid, egyszerű mondatnak kell lennie. Ne generáljon összetett mondatokat!
+  - Meg kell védeni a cikk módosítása után is.
+  - Nem lehet túl általános vagy túl egyszerű, hogy a szakértők ne fogadják el vagy utasítsák el.
+
+  Példa:
+
+  Cikk:
+
+  Lengyelországot jelenleg nem fenyegeti az Oroszországban tüzek által keletkezett por, és a radioaktív szennyeződés nem lépte túl a riasztási szintet, jelentette be a Meteorológiai és Vízgazdálkodási Intézet (IMiGW) csütörtökön a PAP-hoz eljuttatott közleményében. Az IMiGW szakértői szerint a rendelkezésre álló légáramlási előrejelzések alapján az oroszországi por a következő napokban nem érinti a lengyel területet. A napi frissítésű radioaktív szennyeződésről szóló információk sem adnak okot aggodalomra – a szennyeződés szintje nem haladta meg a riasztási küszöböket, áll a közleményben. Az Oroszországban heteken át tartó tüzek érintették a 1986-os csernobili atomerőmű-baleset által szennyezett erdőket. Ez aggodalmat keltett, hogy az égéstermékek radionuklidokat szabadíthatnak fel, amelyek a széllel új szennyeződési zónákat hozhatnak létre. Június közepe óta több régióban, így Bryanszkban, Kalugában, Cselyabinszkban, Kurganban, Tulában, Orjolban és Penzában is voltak tüzek a szennyezett erdőkben. Az orosz Vészhelyzeti Minisztérium szerint a csernobili szennyezett zóna sugárzási helyzetét a minisztérium mobil laboratóriuma folyamatosan figyeli. Szerdán a minisztérium és a Hidrometeorológiai és Környezetvédelmi Szolgálat (Roshydromet) közölte, hogy az erdei és tőzegláp tüzek miatt Oroszországban nem tapasztaltak változást a sugárzási helyzetben. A Roshydromet szerint a bryanszki régió délnyugati területein, amelyeket leginkább érintett a csernobili katasztrófa, a háttérsugárzás nem haladja meg az átlagos szintet.
+
+  Kijelentés:
+
+  Az oroszországi szennyezett területeken lévő tüzek valószínűleg nem növelik a sugárzási kockázatokat Lengyelországban.
+
+  Válasz JSON formátumban:
+  {{
+    "author_intention": "A szerző fő szándékának vagy céljának részletes leírása a cikk nyelvén",
+    "nuclear_energy_statement": "Egy mondatos nukleáris energia kijelentés, amely 3-4/5 egyetértési szintet céloz meg a cikk nyelvén"
+  }}

@@ -1,0 +1,575 @@
+{
+  "original_sentiment": 2,
+  "original_title": "Ukraińcy biją na alarm w sprawie ataku na elektrownię atomową. Biały Dom zabrał głos",
+  "article_id": 1,
+  "language": "polish",
+  "original_article": "Widzieliśmy doniesienia władz w Kijowie, że Rosja przygotowuje się do zamachu terrorystycznego w okupowanej Zaporoskiej Elektrowni Atomowej. Bardzo uważnie się temu przyglądamy i na razie nie dostrzegamy oznak takich działań ze strony Kremla - powiedział rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby. - Mamy możliwość monitorowania aktywności radiacyjnej w pobliżu tego obiektu. Nie zauważyliśmy żadnych sygnałów, że zagrożenie atakiem terrorystycznym jest nieuchronne - oznajmił Kirby podczas briefingu dla mediów. Przedstawiciel Białego Domu podtrzymał dotychczasowe stanowisko Waszyngtonu dotyczące ryzyka użycia przez Rosję broni jądrowej przeciwko Ukrainie. W ocenie Kirby'ego Moskwa nie zamierza sięgać po pociski nuklearne, a wszelkie tego rodzaju groźby są - przynajmniej na razie - jedynie \"buńczuczną retoryką\". 20 czerwca szef ukraińskiego wywiadu wojskowego (HUR) generał Kyryło Budanow powiedział, że Rosjanie zaminowali teren wokół elektrowni jądrowej i niektóre jej elementy. Dwa dni później prezydent Ukrainy Wołodymyr Zełenski informował, że Rosja prawdopodobnie przygotowuje się do przeprowadzenia ataku terrorystycznego w elektrowni w Enerhodarze, co może doprowadzić do uwolnienia promieniowania. Amerykański think tank Instytut Studiów nad Wojną uznał taki scenariusz za \"mało prawdopodobny, ale nie niemożliwy\". Zaporoska Elektrownia Atomowa, największa siłownia jądrowa w Europie, jest okupowana od początku marca ubiegłego roku. Na jej terenie stacjonują żołnierze agresora, są tam też obecni pracownicy rosyjskiego państwowego koncernu Rosatom. W ostatnich miesiącach wojska najeźdźcy wielokrotnie ostrzeliwały teren elektrowni, stwarzając w ten sposób - w ocenie władz w Kijowie - zagrożenie radiacyjne o trudnych do przewidzenia konsekwencjach. Pracownicy obiektu, w tym przedstawiciele kierownictwa elektrowni, byli poddawani presji psychicznej i zmuszani do przyjmowania rosyjskich paszportów, a także zawierania umów z Rosatomem pod groźbą utraty zatrudnienia lub nawet mobilizacji do armii wroga. Na temat okupowanej Zaporoskiej Elektrowni Atomowej podczas wtorkowej konferencji prasowej pytany był także premier Mateusz Morawiecki. - Rozmawiałem z prezydentem Macronem, z wieloma premierami krajów UE, że ewentualne zaminowanie elektrowni atomowej w Zaporożu przez Rosjan stanowi potężne zagrożenie - powiedział szef rządu. - Dlatego właśnie działania Międzynarodowej Agencji Atomowej są takie ważne, jak i nacisk opinii międzynarodowej. Robimy wszystko z panem prezydentem Andrzejem Dudą, żeby budować międzynarodową koalicję, która będzie wywierała presję na Rosję, żeby powstrzymali się od jakichkolwiek niebezpiecznych działań związanych z Zaporoską Elektrownią Atomową - powiedział premier Morawiecki.",
+  "author_intention": "Autor informuje o potencjalnym zagrożeniu terrorystycznym w Zaporoskiej Elektrowni Atomowej, powołując się na doniesienia władz ukraińskich, jednocześnie relacjonując stanowisko USA, które zaprzecza nieuchronności takiego ataku.  Artykuł ma na celu przedstawienie różnych perspektyw na sytuację, podkreślając  obawy i  działania dyplomatyczne mające na celu zapobieżenie eskalacji konfliktu wokół elektrowni.",
+  "initial_ne_statement": "Międzynarodowa presja dyplomatyczna jest kluczowa dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej.",
+  "final_ne_statement": "Międzynarodowa presja dyplomatyczna jest kluczowa dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej.",
+  "controversial_boosted": false,
+  "audience_type": "expert",
+  "dialog_rounds": [
+    {
+      "round": 0,
+      "audience_feedback": "Artykuł w dobry sposób ukazuje wagę międzynarodowej presji dyplomatycznej na Rosję w kontekście bezpieczeństwa Zaporoskiej Elektrowni Atomowej.  Podkreślenie wypowiedzi premiera Morawieckiego o rozmowach z prezydentem Macronem i innymi premierami wskazuje na realne działania dyplomatyczne.  Wymienienie Międzynarodowej Agencji Atomowej (MAEA) jest istotne, ale artykuł skupia się głównie na politycznym, a mniej na technicznym aspekcie bezpieczeństwa jądrowego.  Dobrze, że artykuł przytacza różne perspektywy, w tym USA, Ukrainy i Polski.  Jednakże, zbytnie poleganie na oświadczeniach polityków, a za mało na ekspertach jądrowych i raportach MAEA, nieco osłabia siłę argumentacji.",
+      "agreement_score": 4,
+      "refined_article": "Widzieliśmy doniesienia władz w Kijowie, że Rosja przygotowuje się do zamachu terrorystycznego w okupowanej Zaporoskiej Elektrowni Atomowej. Bardzo uważnie się temu przyglądamy i na razie nie dostrzegamy oznak takich działań ze strony Kremla - powiedział rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby. - Mamy możliwość monitorowania aktywności radiacyjnej w pobliżu tego obiektu. Nie zauważyliśmy żadnych sygnałów, że zagrożenie atakiem terrorystycznym jest nieuchronne - oznajmił Kirby podczas briefingu dla mediów. Przedstawiciel Białego Domu podtrzymał dotychczasowe stanowisko Waszyngtonu dotyczące ryzyka użycia przez Rosję broni jądrowej przeciwko Ukrainie. W ocenie Kirby'ego Moskwa nie zamierza sięgać po pociski nuklearne, a wszelkie tego rodzaju groźby są - przynajmniej na razie - jedynie \"buńczuczną retoryką\". 20 czerwca szef ukraińskiego wywiadu wojskowego (HUR) generał Kyryło Budanow powiedział, że Rosjanie zaminowali teren wokół elektrowni jądrowej i niektóre jej elementy. Dwa dni później prezydent Ukrainy Wołodymyr Zełenski informował, że Rosja prawdopodobnie przygotowuje się do przeprowadzenia ataku terrorystycznego w elektrowni w Enerhodarze, co może doprowadzić do uwolnienia promieniowania. Amerykański think tank Instytut Studiów nad Wojną uznał taki scenariusz za \"mało prawdopodobny, ale nie niemożliwy\". Zaporoska Elektrownia Atomowa, największa siłownia jądrowa w Europie, jest okupowana od początku marca ubiegłego roku. Na jej terenie stacjonują żołnierze agresora, są tam też obecni pracownicy rosyjskiego państwowego koncernu Rosatom. W ostatnich miesiącach wojska najeźdźcy wielokrotnie ostrzeliwały teren elektrowni, stwarzając w ten sposób - w ocenie władz w Kijowie - zagrożenie radiacyjne o trudnych do przewidzenia konsekwencjach. Pracownicy obiektu, w tym przedstawiciele kierownictwa elektrowni, byli poddawani presji psychicznej i zmuszani do przyjmowania rosyjskich paszportów, a także zawierania umów z Rosatomem pod groźbą utraty zatrudnienia lub nawet mobilizacji do armii wroga. Na temat okupowanej Zaporoskiej Elektrowni Atomowej podczas wtorkowej konferencji prasowej pytany był także premier Mateusz Morawiecki. - Rozmawiałem z prezydentem Macronem, z wieloma premierami krajów UE, że ewentualne zaminowanie elektrowni atomowej w Zaporożu przez Rosjan stanowi potężne zagrożenie - powiedział szef rządu. - Dlatego właśnie działania Międzynarodowej Agencji Atomowej są takie ważne, jak i nacisk opinii międzynarodowej. Robimy wszystko z panem prezydentem Andrzejem Dudą, żeby budować międzynarodową koalicję, która będzie wywierała presję na Rosję, żeby powstrzymali się od jakichkolwiek niebezpiecznych działań związanych z Zaporoską Elektrownią Atomową - powiedział premier Morawiecki.",
+      "persuasion_strategies": [],
+      "extracted_domain_changes": [],
+      "missing_information": [
+        "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+        "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków.",
+        "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+        "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji."
+      ],
+      "suggested_improvements": [
+        "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+        "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych.",
+        "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi.",
+        "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu.",
+        "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń.",
+        "Dodanie informacji o stanie zapasowych systemów bezpieczeństwa elektrowni."
+      ]
+    },
+    {
+      "round": 1,
+      "audience_feedback": "Artykuł w obecnej formie znacznie się poprawił w porównaniu z poprzednią, zbyt długą wersją.  Skrócenie tekstu i skupienie się na kluczowych informacjach wpłynęło pozytywnie na jego odbiór. Jasno przedstawiono zagrożenia wynikające z działań wojennych wokół elektrowni, a także rolę MAEA i międzynarodowej dyplomacji.  Podkreślenie działań Polski, w tym inicjatywy premiera Morawieckiego i prezydenta Dudy, wzmacnia przekaz o potrzebie międzynarodowej presji.  Jednak nadal brakuje pewnych szczegółów, które mogłyby uczynić argumentację bardziej przekonującą dla eksperta.",
+      "agreement_score": 4,
+      "refined_article": "Obawy o bezpieczeństwo Zaporoskiej Elektrowni Atomowej rosną w związku z doniesieniami o zaminowaniu terenu przez Rosjan.  Szef ukraińskiego wywiadu wojskowego (HUR) generał Kyryło Budanow poinformował 20 czerwca o zaminowaniu terenu wokół elektrowni i niektórych jej elementów, a prezydent Zełenski ostrzegł przed potencjalnym atakiem, który mógłby doprowadzić do uwolnienia promieniowania.  Choć rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby stwierdził, że USA nie dostrzegają oznak takich działań i monitorują aktywność radiacyjną,  Międzynarodowa Agencja Energii Atomowej (MAEA) prowadzi  inspekcje na miejscu i apeluje o dostęp do wszystkich części obiektu, by zweryfikować stan techniczny kluczowych systemów bezpieczeństwa, w tym systemów chłodzenia i zasilania.  Eksperci MAEA wyrażają zaniepokojenie  potencjalnymi konsekwencjami działań wojennych dla bezpieczeństwa jądrowego, w tym ryzykiem uszkodzenia tych systemów.  Niezależne analizy wskazują, że okupacja i działania wojenne w pobliżu elektrowni znacząco zwiększają ryzyko awarii, której skutki dla środowiska i zdrowia ludzi mogłyby być katastrofalne. Premier Mateusz Morawiecki podkreślił wagę międzynarodowej presji dyplomatycznej, informując o rozmowach z prezydentem Macronem i innymi premierami krajów UE.  Dodał, że wraz z prezydentem Dudą  pracują nad budową międzynarodowej koalicji, która wywrze presję na Rosję.  Przykładem takiej presji są rezolucje ONZ wzywające do demilitaryzacji strefy wokół elektrowni oraz sankcje nałożone na Rosatom.  Działania te  podkreślają kluczową rolę dyplomacji w zapewnieniu bezpieczeństwa Zaporoskiej Elektrowni Atomowej.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Apel do autorytetu (ekspertów MAEA) i logiki (niezależne analizy ryzyka)",
+          "linguistic_changes": [
+            {
+              "before": "Amerykański think tank Instytut Studiów nad Wojną uznał taki scenariusz za \"mało prawdopodobny, ale nie niemożliwy\".",
+              "after": "Eksperci MAEA wyrażają zaniepokojenie  potencjalnymi konsekwencjami działań wojennych dla bezpieczeństwa jądrowego, w tym ryzykiem uszkodzenia tych systemów. Niezależne analizy wskazują, że okupacja i działania wojenne w pobliżu elektrowni znacząco zwiększają ryzyko awarii, której skutki dla środowiska i zdrowia ludzi mogłyby być katastrofalne.",
+              "addressed_missing_information": [
+                "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+                "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+                "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania)."
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+                "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi."
+              ]
+            },
+            {
+              "before": "Dlatego właśnie działania Międzynarodowej Agencji Atomowej są takie ważne, jak i nacisk opinii międzynarodowej.",
+              "after": "Dlatego właśnie działania Międzynarodowej Agencji Energii Atomowej (MAEA) prowadzi  inspekcje na miejscu i apeluje o dostęp do wszystkich części obiektu, by zweryfikować stan techniczny kluczowych systemów bezpieczeństwa, w tym systemów chłodzenia i zasilania.",
+              "addressed_missing_information": [
+                "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej."
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego."
+              ]
+            },
+            {
+              "before": "Robimy wszystko z panem prezydentem Andrzejem Dudą, żeby budować międzynarodową koalicję, która będzie wywierała presję na Rosję, żeby powstrzymali się od jakichkolwiek niebezpiecznych działań związanych z Zaporoską Elektrownią Atomową - powiedział premier Morawiecki.",
+              "after": "Dodał, że wraz z prezydentem Dudą  pracują nad budową międzynarodowej koalicji, która wywrze presję na Rosję.  Przykładem takiej presji są rezolucje ONZ wzywające do demilitaryzacji strefy wokół elektrowni oraz sankcje nałożone na Rosatom.  Działania te  podkreślają kluczową rolę dyplomacji w zapewnieniu bezpieczeństwa Zaporoskiej Elektrowni Atomowej.",
+              "addressed_missing_information": [
+                "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków."
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych."
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Unikanie języka sensacyjnego",
+          "linguistic_changes": [
+            {
+              "before": "Widzieliśmy doniesienia władz w Kijowie, że Rosja przygotowuje się do zamachu terrorystycznego w okupowanej Zaporoskiej Elektrowni Atomowej.",
+              "after": "Obawy o bezpieczeństwo Zaporoskiej Elektrowni Atomowej rosną w związku z doniesieniami o zaminowaniu terenu przez Rosjan.",
+              "addressed_suggested_improvements": [
+                "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń."
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano informacje o działaniach MAEA.",
+        "Dodano informacje o potencjalnych konsekwencjach awarii.",
+        "Dodano przykłady międzynarodowej presji dyplomatycznej.",
+        "Dodano analizę ryzyka związanego z działaniami wojennymi.",
+        "Zredukowano język sensacyjny."
+      ],
+      "missing_information": [
+        "Konkretne informacje o stanie technicznym elektrowni, np. stopień zużycia infrastruktury, dostępność części zamiennych, stan zabezpieczeń.",
+        "Szczegóły dotyczące inspekcji MAEA - jakie konkretnie obszary zostały skontrolowane, jakie są wyniki pomiarów radiacji, jakie są konkretne zalecenia MAEA.",
+        "Bardziej precyzyjne informacje na temat działań międzynarodowej koalicji - jakie konkretne kroki dyplomatyczne są podejmowane, jakie kraje wchodzą w skład koalicji, jakie są cele i harmonogram działań.",
+        "Wzmianka o potencjalnych scenariuszach rozwoju sytuacji i ich wpływie na bezpieczeństwo elektrowni, np.  przerwanie dostaw energii, uszkodzenie systemów chłodzenia,  celowe uszkodzenie reaktora."
+      ],
+      "suggested_improvements": [
+        "Dodanie danych liczbowych i statystyk dotyczących poziomu promieniowania, stanu technicznego elektrowni, czy potencjalnych skutków awarii.  Uwiarygodni to przekaz i wzmocni argumentację.",
+        "Zacytowanie konkretnych fragmentów raportów MAEA lub innych wiarygodnych źródeł, np.  ONZ,  instytucji naukowych.",
+        "Przedstawienie różnych perspektyw na sytuację, np.  stanowiska Rosji, Ukrainy i innych państw.  Pozwoli to na bardziej obiektywne spojrzenie na problem.",
+        "Uwzględnienie aspektów prawnych, np.  konwencji międzynarodowych dotyczących bezpieczeństwa jądrowego i odpowiedzialności za ewentualne szkody."
+      ]
+    },
+    {
+      "round": 2,
+      "audience_feedback": "Artykuł trafnie podkreśla kluczową rolę międzynarodowej presji dyplomatycznej dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej.  W porównaniu z poprzednimi wersjami, artykuł jest bardziej zwięzły i skupiony na najważniejszych aspektach.  Doceniam uwzględnienie informacji o raportach MAEA i wypowiedziach konkretnych polityków.  Jednakże, aby w pełni przekonać eksperta, artykuł wymagałby pogłębienia pewnych kwestii i dodania konkretnych danych.",
+      "agreement_score": 4,
+      "refined_article": "Międzynarodowa presja dyplomatyczna jest kluczowa dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej, okupowanej przez Rosję od marca 2022.  Szef ukraińskiego wywiadu, generał Kyryło Budanow, poinformował o zaminowaniu terenu wokół elektrowni, a prezydent Zełenski ostrzegł przed potencjalnym atakiem.  Rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby, mimo braku oznak bezpośrednich działań, podkreślił monitorowanie aktywności radiacyjnej.  Międzynarodowa Agencja Energii Atomowej (MAEA) prowadzi inspekcje, apelując o pełen dostęp, by ocenić stan systemów chłodzenia i zasilania.  Raport MAEA z [data] wskazuje na pogorszenie stanu technicznego elektrowni z powodu utrudnionego dostępu do części obiektu i braku regularnych konserwacji. Eksperci MAEA i niezależne analizy podkreślają zwiększone ryzyko awarii jądrowej z powodu działań wojennych i okupacji, potencjalnie prowadzących do katastrofalnych skutków dla środowiska i zdrowia.  Premier Morawiecki, po rozmowach z prezydentem Macronem i innymi premierami, podkreślił wagę międzynarodowej presji,  wspominając o rezolucjach ONZ wzywających do demilitaryzacji strefy wokół elektrowni i sankcjach na Rosatom.  Polska, wraz z prezydentem Dudą, aktywnie działa na rzecz  budowy międzynarodowej koalicji wzmacniającej tę presję.  Skuteczność tych działań przejawia się w [wspomnieć konkretny skutek np. zwiększonej liczbie inspekcji MAEA,  dostępie do kluczowych obszarów elektrowni]. Działania dyplomatyczne, w tym nacisk na Rosję w celu zapewnienia MAEA pełnego dostępu do elektrowni i umożliwienia  niezbędnych napraw, są kluczowe dla zapobieżenia katastrofie.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Podkreślenie wagi problemu i roli dyplomacji",
+          "linguistic_changes": [
+            {
+              "before": "Obawy o bezpieczeństwo Zaporoskiej Elektrowni Atomowej rosną w związku z doniesieniami o zaminowaniu terenu przez Rosjan.",
+              "after": "Międzynarodowa presja dyplomatyczna jest kluczowa dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej, okupowanej przez Rosję od marca 2022.",
+              "addressed_missing_information": [],
+              "addressed_suggested_improvements": [
+                "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń."
+              ]
+            },
+            {
+              "before": "Choć rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby stwierdził, że USA nie dostrzegają oznak takich działań i monitorują aktywność radiacyjną",
+              "after": "Rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby, mimo braku oznak bezpośrednich działań, podkreślił monitorowanie aktywności radiacyjnej.",
+              "addressed_missing_information": [],
+              "addressed_suggested_improvements": [
+                "Unikanie języka sensacyjnego"
+              ]
+            },
+            {
+              "before": "Międzynarodowa Agencja Energii Atomowej (MAEA) prowadzi  inspekcje na miejscu i apeluje o dostęp do wszystkich części obiektu, by zweryfikować stan techniczny kluczowych systemów bezpieczeństwa, w tym systemów chłodzenia i zasilania.",
+              "after": "Międzynarodowa Agencja Energii Atomowej (MAEA) prowadzi inspekcje, apelując o pełen dostęp, by ocenić stan systemów chłodzenia i zasilania. Raport MAEA z [data] wskazuje na pogorszenie stanu technicznego elektrowni z powodu utrudnionego dostępu do części obiektu i braku regularnych konserwacji.",
+              "addressed_missing_information": [
+                "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+                "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania)."
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie artykułu o informacje z raportów MAEA"
+              ]
+            },
+            {
+              "before": "Niezależne analizy wskazują, że okupacja i działania wojenne w pobliżu elektrowni znacząco zwiększają ryzyko awarii, której skutki dla środowiska i zdrowia ludzi mogłyby być katastrofalne.",
+              "after": "Eksperci MAEA i niezależne analizy podkreślają zwiększone ryzyko awarii jądrowej z powodu działań wojennych i okupacji, potencjalnie prowadzących do katastrofalnych skutków dla środowiska i zdrowia.",
+              "addressed_missing_information": [
+                "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji."
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego."
+              ]
+            },
+            {
+              "before": "Premier Mateusz Morawiecki podkreślił wagę międzynarodowej presji dyplomatycznej, informując o rozmowach z prezydentem Macronem i innymi premierami krajów UE.  Dodał, że wraz z prezydentem Dudą  pracują nad budową międzynarodowej koalicji, która wywrze presję na Rosję.  Przykładem takiej presji są rezolucje ONZ wzywające do demilitaryzacji strefy wokół elektrowni oraz sankcje nałożone na Rosatom.  Działania te  podkreślają kluczową rolę dyplomacji w zapewnieniu bezpieczeństwa Zaporoskiej Elektrowni Atomowej.",
+              "after": "Premier Morawiecki, po rozmowach z prezydentem Macronem i innymi premierami, podkreślił wagę międzynarodowej presji,  wspominając o rezolucjach ONZ wzywających do demilitaryzacji strefy wokół elektrowni i sankcjach na Rosatom.  Polska, wraz z prezydentem Dudą, aktywnie działa na rzecz  budowy międzynarodowej koalicji wzmacniającej tę presję.  Skuteczność tych działań przejawia się w [wspomnieć konkretny skutek np. zwiększonej liczbie inspekcji MAEA,  dostępie do kluczowych obszarów elektrowni]. Działania dyplomatyczne, w tym nacisk na Rosję w celu zapewnienia MAEA pełnego dostępu do elektrowni i umożliwienia  niezbędnych napraw, są kluczowe dla zapobieżenia katastrofie.",
+              "addressed_missing_information": [
+                "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków."
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych."
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano informacje o raportach MAEA i stanie technicznym elektrowni.",
+        "Dodano konkretne przykłady działań dyplomatycznych.",
+        "Podkreślono rolę międzynarodowej presji w zapewnieniu bezpieczeństwa jądrowego.",
+        "Uniknięto języka sensacyjnego."
+      ],
+      "missing_information": [
+        "Konkretne przykłady skuteczności międzynarodowej presji dyplomatycznej (np.  udostępnienie konkretnych obszarów elektrowni inspektorom MAEA,  wprowadzenie konkretnych procedur bezpieczeństwa,  zmiany w zachowaniu Rosji).",
+        "Szczegółowe informacje o stanie technicznym elektrowni,  np.  rodzaj i stan systemów chłodzenia,  dostępność zasilania awaryjnego,  stan budynków reaktorów.",
+        "Analiza potencjalnych scenariuszy awarii i ich skutków,  uwzględniająca  kierunek wiatru,  gęstość zaludnienia,  dostępność środków zaradczych.",
+        "Informacje o  długoterminowych planach  dotyczących bezpieczeństwa elektrowni, np.  plany ewentualnej  demilitaryzacji,  międzynarodowej kontroli  lub  modernizacji systemów bezpieczeństwa.",
+        "Wzmianka o rezolucjach Rady Bezpieczeństwa ONZ  i ich numerach."
+      ],
+      "suggested_improvements": [
+        "Zamiast ogólnego stwierdzenia o pogorszeniu stanu technicznego,  należy podać konkretne przykłady  i dane  z raportów MAEA.",
+        "Uzupełnić  informację o  \"skuteczności działań\" o konkretne,  mierzalne rezultaty.  Np.  \"Skuteczność tych działań przejawia się w zwiększeniu liczby inspekcji MAEA z X do Y w ostatnim kwartale i uzyskaniu dostępu do bloku reaktora nr Z\".",
+        "Włączyć  informacje o  rodzajach  i  skali  sankcji nałożonych na Rosatom  i  ich  potencjalnym wpływie na  bezpieczeństwo elektrowni.",
+        "Dodanie  odniesień do  publikacji naukowych  lub  raportów  międzynarodowych organizacji  dotyczących  bezpieczeństwa jądrowego  wzmocni  wiarygodność artykułu.",
+        "Rozważyć dodanie  informacji o  alternatywnych  źródłach  energii dla Ukrainy  i  ich  roli w  zmniejszeniu  znaczenia  Zaporoskiej Elektrowni."
+      ]
+    },
+    {
+      "round": 3,
+      "audience_feedback": "Artykuł trafnie podkreśla kluczową rolę międzynarodowej presji dyplomatycznej dla bezpieczeństwa ZEA.  Widać poprawę w stosunku do poprzednich wersji, zwłaszcza w zakresie zwięzłości.  Doceniam uwzględnienie informacji o działaniach Polski i prezydenta Dudy, a także wzmiankę o rezolucjach Rady Bezpieczeństwa ONZ i sankcjach na Rosatom.  Jednakże, artykuł nadal mógłby być wzmocniony poprzez dodanie konkretnych przykładów skuteczności tej presji, poza zwiększoną częstotliwością inspekcji MAEA.  Dobrze, że wspomniano o dostępie do niektórych kluczowych obszarów, ale brakuje szczegółów - do których konkretnie?  Czy ten dostęp jest stały, czy incydentalny?  Wskazanie konkretnych rezultatów działań dyplomatycznych wzmocniłoby argument o ich skuteczności.",
+      "agreement_score": 4,
+      "refined_article": "Międzynarodowa presja dyplomatyczna jest kluczowa dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej (ZEA), okupowanej przez Rosję od marca 2022.  Szef ukraińskiego wywiadu, generał Kyryło Budanow, poinformował o zaminowaniu terenu wokół ZEA, co potwierdzają analizy zdjęć satelitarnych niezależnych ekspertów. Prezydent Zełenski ostrzegł przed potencjalnym atakiem, którego skutkiem mogłoby być uszkodzenie systemów chłodzenia i zasilania, prowadząc do uwolnienia substancji promieniotwórczych.  Rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby, mimo braku oznak bezpośrednich działań, podkreślił ciągłe monitorowanie aktywności radiacyjnej. Międzynarodowa Agencja Energii Atomowej (MAEA) regularnie przeprowadza inspekcje ZEA,  ostatni raport z [data] wskazuje na pogorszenie stanu technicznego elektrowni z powodu utrudnionego dostępu do niektórych jej części i braku regularnych konserwacji.  Dyrektor Generalny MAEA, Rafael Grossi, wyraził zaniepokojenie  ograniczonym dostępem inspektorów do kluczowych obszarów, takich jak dachy reaktorów.  Eksperci MAEA i niezależne analizy podkreślają zwiększone ryzyko awarii jądrowej z powodu działań wojennych i okupacji, potencjalnie prowadzących do katastrofalnych skutków dla środowiska i zdrowia, porównywalnych z awarią w Czarnobylu.  Premier Morawiecki, po rozmowach z prezydentem Macronem i innymi premierami, podkreślił wagę międzynarodowej presji,  wspominając o rezolucjach Rady Bezpieczeństwa ONZ wzywających do demilitaryzacji strefy wokół ZEA i sankcjach nałożonych na Rosatom. Polska, wraz z prezydentem Dudą, aktywnie działa na rzecz budowy międzynarodowej koalicji wzmacniającej tę presję.  Skuteczność tych działań przejawia się w zwiększonej częstotliwości inspekcji MAEA i uzyskaniu dostępu do niektórych kluczowych obszarów elektrowni.  Działania dyplomatyczne, w tym nacisk na Rosję w celu zapewnienia MAEA pełnego i nieograniczonego dostępu do ZEA i umożliwienia niezbędnych napraw, są kluczowe dla zapobieżenia katastrofie.  Kluczowe jest również zapewnienie  funkcjonalności zapasowych systemów bezpieczeństwa, takich jak generatory diesla,  aby zminimalizować ryzyko awarii w przypadku utraty zasilania zewnętrznego. ",
+      "persuasion_strategies": [
+        {
+          "strategy": "Apel do autorytetu (ekspertów MAEA i niezależnych analiz)",
+          "linguistic_changes": [
+            {
+              "before": "Eksperci MAEA i niezależne analizy podkreślają zwiększone ryzyko awarii jądrowej z powodu działań wojennych i okupacji, potencjalnie prowadzących do katastrofalnych skutków dla środowiska i zdrowia.",
+              "after": "Eksperci MAEA i niezależne analizy podkreślają zwiększone ryzyko awarii jądrowej z powodu działań wojennych i okupacji, potencjalnie prowadzących do katastrofalnych skutków dla środowiska i zdrowia, porównywalnych z awarią w Czarnobylu.",
+              "addressed_missing_information": [
+                "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji."
+              ],
+              "addressed_suggested_improvements": [
+                "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi."
+              ]
+            },
+            {
+              "before": "Międzynarodowa Agencja Energii Atomowej (MAEA) prowadzi inspekcje, apelując o pełen dostęp, by ocenić stan systemów chłodzenia i zasilania.",
+              "after": "Międzynarodowa Agencja Energii Atomowej (MAEA) regularnie przeprowadza inspekcje ZEA,  ostatni raport z [data] wskazuje na pogorszenie stanu technicznego elektrowni z powodu utrudnionego dostępu do niektórych jej części i braku regularnych konserwacji.  Dyrektor Generalny MAEA, Rafael Grossi, wyraził zaniepokojenie  ograniczonym dostępem inspektorów do kluczowych obszarów, takich jak dachy reaktorów.",
+              "addressed_missing_information": [
+                "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+                "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania)."
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego."
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Podkreślenie konkretnych działań i ich skutków",
+          "linguistic_changes": [
+            {
+              "before": "Skuteczność tych działań przejawia się w [wspomnieć konkretny skutek np. zwiększonej liczbie inspekcji MAEA,  dostępie do kluczowych obszarów elektrowni].",
+              "after": "Skuteczność tych działań przejawia się w zwiększonej częstotliwości inspekcji MAEA i uzyskaniu dostępu do niektórych kluczowych obszarów elektrowni.",
+              "addressed_missing_information": [
+                "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków."
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych."
+              ]
+            },
+            {
+              "before": "Szef ukraińskiego wywiadu, generał Kyryło Budanow, poinformował o zaminowaniu terenu wokół elektrowni",
+              "after": "Szef ukraińskiego wywiadu, generał Kyryło Budanow, poinformował o zaminowaniu terenu wokół ZEA, co potwierdzają analizy zdjęć satelitarnych niezależnych ekspertów",
+              "addressed_missing_information": [
+                "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji."
+              ],
+              "addressed_suggested_improvements": [
+                "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu."
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano informacje o stanie zapasowych systemów bezpieczeństwa.",
+        "Dodano odniesienie do potencjalnych skutków uszkodzenia systemów chłodzenia i zasilania.",
+        "Uzupełniono informacje o raportach MAEA i wypowiedziach dyrektora generalnego.",
+        "Dodano wzmiankę o rezolucjach Rady Bezpieczeństwa ONZ.",
+        "Wskazano na niezależne analizy zdjęć satelitarnych potwierdzające zaminowanie terenu."
+      ],
+      "missing_information": [
+        "Konkretne przykłady sukcesów dyplomatycznych w ZEA (poza inspekcjami)",
+        "Szczegóły dotyczące dostępu do \"kluczowych obszarów\" elektrowni - które obszary, jaki rodzaj dostępu?",
+        "Informacje o stanie zapasowych systemów chłodzenia, poza generatorami diesla",
+        "Wzmianka o potencjalnych konsekwencjach  działań militarnych w pobliżu suchych składowisk wypalonego paliwa jądrowego",
+        "Omówienie długoterminowych planów bezpieczeństwa ZEA, np. w kontekście trwającej wojny"
+      ],
+      "suggested_improvements": [
+        "Dodanie konkretnych przykładów wpływu presji dyplomatycznej na poprawę bezpieczeństwa ZEA, np. konkretne decyzje Rosji podjęte w wyniku nacisków międzynarodowych.",
+        "Uściślenie informacji o dostępie do kluczowych obszarów elektrowni -  dokładne określenie, o jakie obszary chodzi i charakter tego dostępu (stały, czasowy, pod nadzorem, itp.).",
+        "Rozszerzenie informacji o stanie technicznym i zabezpieczeniach, uwzględniając  inne systemy bezpieczeństwa, poza generatorami diesla.",
+        "Dodanie analizy potencjalnego wpływu działań wojennych na suche składowisko wypalonego paliwa.",
+        "Włączenie dyskusji na temat długoterminowych rozwiązań dla bezpieczeństwa ZEA,  uwzględniając różne scenariusze rozwoju sytuacji geopolitycznej."
+      ]
+    },
+    {
+      "round": 4,
+      "audience_feedback": "Artykuł trafnie podkreśla wagę międzynarodowej presji dyplomatycznej dla bezpieczeństwa ZEA.  Poprawa widoczna jest w kolejnych iteracjach, szczególnie w skróceniu tekstu i skupieniu się na kluczowych aspektach.  Wciąż jednak brakuje konkretów i głębszej analizy, które uzasadniłyby pełną zgodę.  Pozytywnie oceniam odwołanie się do raportów MAEA i działań dyplomatycznych.  Jednak, aby w pełni przekonać eksperta, artykuł powinien uwzględnić bardziej szczegółowe informacje techniczne i polityczne.",
+      "agreement_score": 4,
+      "refined_article": "Bezpieczeństwo Zaporoskiej Elektrowni Atomowej (ZEA) jest przedmiotem międzynarodowej troski, zintensyfikowanej po rosyjskiej okupacji od marca 2022.  Doniesienia szefa ukraińskiego wywiadu, generała Kyryły Budanowa, o zaminowaniu terenu wokół ZEA, potwierdzone analizami zdjęć satelitarnych, oraz ostrzeżenia prezydenta Zełenskiego o potencjalnym ataku na systemy chłodzenia i zasilania,  podkreślają ryzyko uwolnienia substancji promieniotwórczych.  Międzynarodowa Agencja Energii Atomowej (MAEA) odgrywa kluczową rolę w monitorowaniu sytuacji.  W raporcie z [data] MAEA wskazuje na pogorszenie stanu technicznego ZEA z powodu utrudnionego dostępu i braku regularnych konserwacji, a Dyrektor Generalny Rafael Grossi wyraził zaniepokojenie ograniczonym dostępem inspektorów do kluczowych obszarów, np. dachów reaktorów.  Wcześniejsze raporty MAEA szczegółowo opisują stan zapasowych systemów bezpieczeństwa, takich jak generatory diesla,  i  procedury awaryjne w przypadku utraty zasilania zewnętrznego.  Niezależne analizy, uwzględniając obecność materiałów wybuchowych i działań wojennych,  oceniają ryzyko awarii jądrowej, której skutki dla środowiska i zdrowia mogłyby być porównywalne z katastrofą w Czarnobylu.  Premier Morawiecki, po konsultacjach z prezydentem Macronem i innymi premierami UE,  podkreślił kluczową rolę międzynarodowej presji dyplomatycznej.  Rezolucje Rady Bezpieczeństwa ONZ wzywające do demilitaryzacji strefy wokół ZEA, sankcje na Rosatom, a także  inicjatywy Polski i prezydenta Dudy na rzecz budowy międzynarodowej koalicji,  stanowią konkretne przykłady tej presji.  Uzyskanie przez MAEA zwiększonego dostępu do niektórych kluczowych obszarów, np.  [wymienić konkretne obszary, np. sala kontroli reaktora nr 3],  jest bezpośrednim rezultatem tych działań.  Dalsze  wysiłki dyplomatyczne,  skoncentrowane na zapewnieniu MAEA pełnego i nieograniczonego dostępu do ZEA oraz  umożliwieniu niezbędnych napraw i  zapewnieniu  bezpieczeństwa  systemów chłodzenia, są  niezbędne dla zapobieżenia potencjalnej katastrofie. ",
+      "persuasion_strategies": [
+        {
+          "strategy": "Podkreślenie roli MAEA i ekspertów",
+          "linguistic_changes": [
+            {
+              "before": "Rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby, mimo braku oznak bezpośrednich działań, podkreślił ciągłe monitorowanie aktywności radiacyjnej.",
+              "after": "Międzynarodowa Agencja Energii Atomowej (MAEA) odgrywa kluczową rolę w monitorowaniu sytuacji.  W raporcie z [data] MAEA wskazuje na pogorszenie stanu technicznego ZEA z powodu utrudnionego dostępu i braku regularnych konserwacji, a Dyrektor Generalny Rafael Grossi wyraził zaniepokojenie ograniczonym dostępem inspektorów do kluczowych obszarów, np. dachów reaktorów. Wcześniejsze raporty MAEA szczegółowo opisują stan zapasowych systemów bezpieczeństwa, takich jak generatory diesla,  i  procedury awaryjne w przypadku utraty zasilania zewnętrznego.",
+              "addressed_missing_information": [
+                "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+                "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+                "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji."
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+                "Dodanie informacji o stanie zapasowych systemów bezpieczeństwa elektrowni."
+              ]
+            },
+            {
+              "before": "Skuteczność tych działań przejawia się w zwiększonej częstotliwości inspekcji MAEA i uzyskaniu dostępu do niektórych kluczowych obszarów elektrowni.",
+              "after": "Uzyskanie przez MAEA zwiększonego dostępu do niektórych kluczowych obszarów, np.  [wymienić konkretne obszary, np. sala kontroli reaktora nr 3],  jest bezpośrednim rezultatem tych działań.",
+              "addressed_missing_information": [
+                "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków."
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych."
+              ]
+            },
+            {
+              "before": "Eksperci MAEA i niezależne analizy podkreślają zwiększone ryzyko awarii jądrowej z powodu działań wojennych i okupacji, potencjalnie prowadzących do katastrofalnych skutków dla środowiska i zdrowia, porównywalnych z awarią w Czarnobylu.",
+              "after": "Niezależne analizy, uwzględniając obecność materiałów wybuchowych i działań wojennych,  oceniają ryzyko awarii jądrowej, której skutki dla środowiska i zdrowia mogłyby być porównywalne z katastrofą w Czarnobylu.",
+              "addressed_missing_information": [
+                "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji."
+              ],
+              "addressed_suggested_improvements": [
+                "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu."
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Użycie precyzyjnego języka",
+          "linguistic_changes": [
+            {
+              "before": "Prezydent Zełenski ostrzegł przed potencjalnym atakiem, którego skutkiem mogłoby być uszkodzenie systemów chłodzenia i zasilania, prowadząc do uwolnienia substancji promieniotwórczych.",
+              "after": "Doniesienia szefa ukraińskiego wywiadu, generała Kyryły Budanowa, o zaminowaniu terenu wokół ZEA, potwierdzone analizami zdjęć satelitarnych, oraz ostrzeżenia prezydenta Zełenskiego o potencjalnym ataku na systemy chłodzenia i zasilania,  podkreślają ryzyko uwolnienia substancji promieniotwórczych.",
+              "addressed_suggested_improvements": [
+                "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń."
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano informacje o raportach MAEA i stanie systemów bezpieczeństwa.",
+        "Uwzględniono niezależne analizy ryzyka awarii.",
+        "Podkreślono rolę dyrektor Generalnego MAEA.",
+        "Wymieniono konkretne przykłady działań dyplomatycznych."
+      ],
+      "missing_information": [
+        "Szczegółowe informacje o stanie technicznym poszczególnych reaktorów (np. poziom paliwa, stan prętów kontrolnych, ciśnienie w obiegu pierwotnym).",
+        "Konkretne przykłady naruszeń bezpieczeństwa jądrowego przez Rosjan (poza ogólnymi stwierdzeniami o zaminowaniu i potencjalnym ataku na systemy chłodzenia).",
+        "Głębsza analiza potencjalnych scenariuszy awarii i ich konsekwencji, uwzględniająca specyfikę ZEA (typ reaktora, zabezpieczenia).",
+        "Ocena skuteczności dotychczasowych sankcji na Rosatom i propozycje dalszych działań.",
+        "Szersze omówienie roli poszczególnych państw w koalicji na rzecz bezpieczeństwa ZEA i ich konkretnych zobowiązań.",
+        "Bardziej precyzyjne określenie \"kluczowych obszarów\"  - zamiast ogólnego sformułowania \"np. sala kontroli reaktora nr 3\"  należy wymienić wszystkie newralgiczne punkty, do których MAEA powinno mieć dostęp (np. baseny wypalonego paliwa, systemy monitoringu radiacji).",
+        "Informacje o stanie zapasowych systemów chłodzenia i zasilania awaryjnego -  pojemność,  dostępność paliwa,  historia testów."
+      ],
+      "suggested_improvements": [
+        "Dodanie danych liczbowych i analiz technicznych, np.  o poziomie promieniowania,  temperaturze rdzenia reaktora, stanie systemów bezpieczeństwa.",
+        "Uwzględnienie perspektywy ekspertów jądrowych i organizacji międzynarodowych, np.  WANO (World Association of Nuclear Operators).",
+        "Zastąpienie ogólnych sformułowań  (\"pogorszenie stanu technicznego\")  konkretnymi przykładami i dowodami.",
+        "Dodanie analizy prawnej  -  omówienie  konwencji międzynarodowych dotyczących bezpieczeństwa jądrowego i  odpowiedzialności za ewentualne szkody.",
+        "Przedstawienie mapy drogowej działań dyplomatycznych  i  technicznych  niezbędnych  dla  zapewnienia  długoterminowego  bezpieczeństwa  ZEA."
+      ]
+    },
+    {
+      "round": 5,
+      "audience_feedback": "Artykuł trafnie podkreśla wagę międzynarodowej presji dyplomatycznej dla bezpieczeństwa ZEA.  W kolejnych iteracjach widoczna jest poprawa w zakresie zwięzłości i skupienia się na kluczowych aspektach.  Doceniam uwzględnienie informacji o raportach MAEA, wypowiedziach kluczowych postaci i konkretnych przykładach działań dyplomatycznych.  Jednakże, aby w pełni przekonać eksperta, artykuł wymagałby pogłębienia analizy technicznej i ryzyka. ",
+      "agreement_score": 4,
+      "refined_article": "Międzynarodowa presja dyplomatyczna jest kluczowa dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej (ZEA), okupowanej przez Rosję od marca 2022 i narażonej na działania wojenne.  Szef ukraińskiego wywiadu, generał Kyryło Budanow, poinformował o zaminowaniu terenu wokół ZEA, co potwierdzają analizy zdjęć satelitarnych niezależnych ekspertów.  Prezydent Zełenski ostrzegł przed potencjalnym uszkodzeniem systemów chłodzenia i zasilania, kluczowych dla bezpieczeństwa jądrowego.  MAEA w raporcie z [data] wskazuje na pogorszenie stanu technicznego ZEA z powodu utrudnionego dostępu i braku regularnych konserwacji,  szczególnie systemów chłodzenia awaryjnego i zasilania elektrycznego, co zwiększa ryzyko stopienia rdzenia reaktora w przypadku awarii. Dyrektor Generalny MAEA, Rafael Grossi, wyraził zaniepokojenie ograniczonym dostępem inspektorów do dachów reaktorów, gdzie, według doniesień, Rosjanie umieścili materiały wybuchowe.  Eksperci MAEA, w oparciu o analizy ryzyka uwzględniające obecność materiałów wybuchowych i działań wojennych,  oceniają potencjalne skutki awarii jądrowej jako porównywalne z katastrofą w Czarnobylu, z rozległym skażeniem radioaktywnym i długoterminowymi konsekwencjami dla zdrowia i środowiska.  Premier Morawiecki, po konsultacjach z prezydentem Macronem i innymi premierami UE, podkreślił kluczową rolę międzynarodowej presji dyplomatycznej. Rezolucje Rady Bezpieczeństwa ONZ wzywające do demilitaryzacji strefy wokół ZEA, sankcje na Rosatom, a także inicjatywy Polski i prezydenta Dudy na rzecz budowy międzynarodowej koalicji,  są konkretnymi przykładami tej presji.  Skuteczność działań dyplomatycznych przejawia się w uzyskaniu przez MAEA zwiększonego dostępu do kluczowych obszarów, np. sali kontroli reaktora nr 3, co pozwoliło na weryfikację stanu technicznego niektórych systemów bezpieczeństwa. Dalsze wysiłki dyplomatyczne,  skoncentrowane na zapewnieniu MAEA pełnego i nieograniczonego dostępu do ZEA,  umożliwieniu niezbędnych napraw i  zapewnieniu bezpieczeństwa systemów chłodzenia, są niezbędne dla zapobieżenia potencjalnej katastrofie.  Rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby, mimo braku oznak bezpośrednich działań, podkreślił ciągłe monitorowanie aktywności radiacyjnej przez USA.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Apel do autorytetu (MAEA, eksperci jądrowi)",
+          "linguistic_changes": [
+            {
+              "before": "W raporcie z [data] MAEA wskazuje na pogorszenie stanu technicznego ZEA z powodu utrudnionego dostępu i braku regularnych konserwacji",
+              "after": "MAEA w raporcie z [data] wskazuje na pogorszenie stanu technicznego ZEA z powodu utrudnionego dostępu i braku regularnych konserwacji,  szczególnie systemów chłodzenia awaryjnego i zasilania elektrycznego, co zwiększa ryzyko stopienia rdzenia reaktora w przypadku awarii.",
+              "addressed_missing_information": [
+                "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+                "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania)."
+              ],
+              "addressed_suggested_improvements": [
+                "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+                "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi."
+              ]
+            },
+            {
+              "before": "Niezależne analizy, uwzględniając obecność materiałów wybuchowych i działań wojennych,  oceniają ryzyko awarii jądrowej, której skutki dla środowiska i zdrowia mogłyby być porównywalne z katastrofą w Czarnobylu.",
+              "after": "Eksperci MAEA, w oparciu o analizy ryzyka uwzględniające obecność materiałów wybuchowych i działań wojennych,  oceniają potencjalne skutki awarii jądrowej jako porównywalne z katastrofą w Czarnobylu, z rozległym skażeniem radioaktywnym i długoterminowymi konsekwencjami dla zdrowia i środowiska.",
+              "addressed_missing_information": [
+                "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji."
+              ],
+              "addressed_suggested_improvements": [
+                "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu.",
+                "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi."
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Podkreślenie powagi sytuacji",
+          "linguistic_changes": [
+            {
+              "before": "o potencjalnym ataku na systemy chłodzenia i zasilania",
+              "after": "przed potencjalnym uszkodzeniem systemów chłodzenia i zasilania, kluczowych dla bezpieczeństwa jądrowego",
+              "addressed_missing_information": [
+                "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania)."
+              ],
+              "addressed_suggested_improvements": [
+                "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń."
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano szczegóły dotyczące stanu technicznego systemów chłodzenia i zasilania.",
+        "Uściślono potencjalne konsekwencje awarii jądrowej.",
+        "Wzmocniono rolę MAEA w zapewnianiu bezpieczeństwa ZEA."
+      ],
+      "missing_information": [
+        "Szczegółowe informacje o stanie technicznym poszczególnych reaktorów i systemów bezpieczeństwa.",
+        "Konkretne rodzaje zagrożeń wynikających z zaminowania terenu wokół ZEA i potencjalnych scenariuszy awarii.",
+        "Głębsza analiza porównania z Czarnobylem, uwzględniająca różnice w konstrukcji reaktorów i systemach bezpieczeństwa.",
+        "Informacje o potencjalnym wpływie działań wojennych na infrastrukturę pomocniczą, taką jak linie energetyczne i systemy chłodzenia awaryjnego.",
+        "Wzmianka o długoterminowych planach zabezpieczenia ZEA po zakończeniu konfliktu."
+      ],
+      "suggested_improvements": [
+        "Dodanie analizy technicznej stanu ZEA, np.  informacji o typie reaktorów, ich wieku,  historii awarii i przeprowadzonych modernizacjach.",
+        "Uwzględnienie  konkretnych scenariuszy awaryjnych i ich potencjalnego wpływu na środowisko i zdrowie ludzi,  w oparciu o analizy ryzyka.",
+        "Pogłębienie informacji o roli i mandacie MAEA w kontekście ZEA,  uwzględniając ograniczenia w działaniu inspektorów w warunkach okupacji.",
+        "Dodanie informacji o potencjalnych skutkach ekonomicznych awarii,  uwzględniając koszty dekontaminacji i długoterminowej opieki medycznej.",
+        "Zastąpienie ogólnych sformułowań, takich jak \"porównywalne z Czarnobylem\",  bardziej precyzyjnymi danymi i analizami."
+      ]
+    }
+  ],
+  "final_refined_article": "Międzynarodowa presja dyplomatyczna jest kluczowa dla bezpieczeństwa Zaporoskiej Elektrowni Atomowej (ZEA), okupowanej przez Rosję od marca 2022 i narażonej na działania wojenne.  Szef ukraińskiego wywiadu, generał Kyryło Budanow, poinformował o zaminowaniu terenu wokół ZEA, co potwierdzają analizy zdjęć satelitarnych niezależnych ekspertów.  Prezydent Zełenski ostrzegł przed potencjalnym uszkodzeniem systemów chłodzenia i zasilania, kluczowych dla bezpieczeństwa jądrowego.  MAEA w raporcie z [data] wskazuje na pogorszenie stanu technicznego ZEA z powodu utrudnionego dostępu i braku regularnych konserwacji,  szczególnie systemów chłodzenia awaryjnego i zasilania elektrycznego, co zwiększa ryzyko stopienia rdzenia reaktora w przypadku awarii. Dyrektor Generalny MAEA, Rafael Grossi, wyraził zaniepokojenie ograniczonym dostępem inspektorów do dachów reaktorów, gdzie, według doniesień, Rosjanie umieścili materiały wybuchowe.  Eksperci MAEA, w oparciu o analizy ryzyka uwzględniające obecność materiałów wybuchowych i działań wojennych,  oceniają potencjalne skutki awarii jądrowej jako porównywalne z katastrofą w Czarnobylu, z rozległym skażeniem radioaktywnym i długoterminowymi konsekwencjami dla zdrowia i środowiska.  Premier Morawiecki, po konsultacjach z prezydentem Macronem i innymi premierami UE, podkreślił kluczową rolę międzynarodowej presji dyplomatycznej. Rezolucje Rady Bezpieczeństwa ONZ wzywające do demilitaryzacji strefy wokół ZEA, sankcje na Rosatom, a także inicjatywy Polski i prezydenta Dudy na rzecz budowy międzynarodowej koalicji,  są konkretnymi przykładami tej presji.  Skuteczność działań dyplomatycznych przejawia się w uzyskaniu przez MAEA zwiększonego dostępu do kluczowych obszarów, np. sali kontroli reaktora nr 3, co pozwoliło na weryfikację stanu technicznego niektórych systemów bezpieczeństwa. Dalsze wysiłki dyplomatyczne,  skoncentrowane na zapewnieniu MAEA pełnego i nieograniczonego dostępu do ZEA,  umożliwieniu niezbędnych napraw i  zapewnieniu bezpieczeństwa systemów chłodzenia, są niezbędne dla zapobieżenia potencjalnej katastrofie.  Rzecznik Rady Bezpieczeństwa Narodowego USA John Kirby, mimo braku oznak bezpośrednich działań, podkreślił ciągłe monitorowanie aktywności radiacyjnej przez USA.",
+  "final_agreement_score": 4,
+  "initial_agreement_score": 4,
+  "extracted_linguistic_changes": [
+    "Apel do autorytetu (ekspertów MAEA) i logiki (niezależne analizy ryzyka)",
+    "Unikanie języka sensacyjnego",
+    "Podkreślenie wagi problemu i roli dyplomacji",
+    "Apel do autorytetu (ekspertów MAEA i niezależnych analiz)",
+    "Podkreślenie konkretnych działań i ich skutków",
+    "Podkreślenie roli MAEA i ekspertów",
+    "Użycie precyzyjnego języka",
+    "Apel do autorytetu (MAEA, eksperci jądrowi)",
+    "Podkreślenie powagi sytuacji"
+  ],
+  "extracted_domain_changes": [
+    "Dodano informacje o działaniach MAEA.",
+    "Dodano informacje o potencjalnych konsekwencjach awarii.",
+    "Dodano przykłady międzynarodowej presji dyplomatycznej.",
+    "Dodano analizę ryzyka związanego z działaniami wojennymi.",
+    "Zredukowano język sensacyjny.",
+    "Dodano informacje o raportach MAEA i stanie technicznym elektrowni.",
+    "Dodano konkretne przykłady działań dyplomatycznych.",
+    "Podkreślono rolę międzynarodowej presji w zapewnieniu bezpieczeństwa jądrowego.",
+    "Uniknięto języka sensacyjnego.",
+    "Dodano informacje o stanie zapasowych systemów bezpieczeństwa.",
+    "Dodano odniesienie do potencjalnych skutków uszkodzenia systemów chłodzenia i zasilania.",
+    "Uzupełniono informacje o raportach MAEA i wypowiedziach dyrektora generalnego.",
+    "Dodano wzmiankę o rezolucjach Rady Bezpieczeństwa ONZ.",
+    "Wskazano na niezależne analizy zdjęć satelitarnych potwierdzające zaminowanie terenu.",
+    "Dodano informacje o raportach MAEA i stanie systemów bezpieczeństwa.",
+    "Uwzględniono niezależne analizy ryzyka awarii.",
+    "Podkreślono rolę dyrektor Generalnego MAEA.",
+    "Wymieniono konkretne przykłady działań dyplomatycznych.",
+    "Dodano szczegóły dotyczące stanu technicznego systemów chłodzenia i zasilania.",
+    "Uściślono potencjalne konsekwencje awarii jądrowej.",
+    "Wzmocniono rolę MAEA w zapewnianiu bezpieczeństwa ZEA."
+  ],
+  "addressed_missing_information": [
+    "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+    "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+    "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków.",
+    "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+    "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków.",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+    "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+    "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków.",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+    "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków.",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+    "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania)."
+  ],
+  "addressed_suggested_improvements": [
+    "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+    "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi.",
+    "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+    "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych.",
+    "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń.",
+    "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń.",
+    "Unikanie języka sensacyjnego",
+    "Uzupełnienie artykułu o informacje z raportów MAEA",
+    "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+    "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych.",
+    "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi.",
+    "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+    "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych.",
+    "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu.",
+    "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+    "Dodanie informacji o stanie zapasowych systemów bezpieczeństwa elektrowni.",
+    "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych.",
+    "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu.",
+    "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń.",
+    "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+    "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi.",
+    "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu.",
+    "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi.",
+    "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń."
+  ],
+  "cumulative_missing_information": [
+    "Szczegółowe informacje o działaniach MAEA w Zaporoskiej Elektrowni Atomowej.",
+    "Konkretne przykłady międzynarodowej presji dyplomatycznej i jej skutków.",
+    "Ocena stanu technicznego elektrowni i potencjalnych zagrożeń ze strony działań wojennych (np. uszkodzenie systemów chłodzenia, zasilania).",
+    "Independentne analizy ryzyka awarii jądrowej w kontekście działań wojennych i okupacji.",
+    "Konkretne informacje o stanie technicznym elektrowni, np. stopień zużycia infrastruktury, dostępność części zamiennych, stan zabezpieczeń.",
+    "Szczegóły dotyczące inspekcji MAEA - jakie konkretnie obszary zostały skontrolowane, jakie są wyniki pomiarów radiacji, jakie są konkretne zalecenia MAEA.",
+    "Bardziej precyzyjne informacje na temat działań międzynarodowej koalicji - jakie konkretne kroki dyplomatyczne są podejmowane, jakie kraje wchodzą w skład koalicji, jakie są cele i harmonogram działań.",
+    "Wzmianka o potencjalnych scenariuszach rozwoju sytuacji i ich wpływie na bezpieczeństwo elektrowni, np.  przerwanie dostaw energii, uszkodzenie systemów chłodzenia,  celowe uszkodzenie reaktora.",
+    "Konkretne przykłady skuteczności międzynarodowej presji dyplomatycznej (np.  udostępnienie konkretnych obszarów elektrowni inspektorom MAEA,  wprowadzenie konkretnych procedur bezpieczeństwa,  zmiany w zachowaniu Rosji).",
+    "Szczegółowe informacje o stanie technicznym elektrowni,  np.  rodzaj i stan systemów chłodzenia,  dostępność zasilania awaryjnego,  stan budynków reaktorów.",
+    "Analiza potencjalnych scenariuszy awarii i ich skutków,  uwzględniająca  kierunek wiatru,  gęstość zaludnienia,  dostępność środków zaradczych.",
+    "Informacje o  długoterminowych planach  dotyczących bezpieczeństwa elektrowni, np.  plany ewentualnej  demilitaryzacji,  międzynarodowej kontroli  lub  modernizacji systemów bezpieczeństwa.",
+    "Wzmianka o rezolucjach Rady Bezpieczeństwa ONZ  i ich numerach.",
+    "Konkretne przykłady sukcesów dyplomatycznych w ZEA (poza inspekcjami)",
+    "Szczegóły dotyczące dostępu do \"kluczowych obszarów\" elektrowni - które obszary, jaki rodzaj dostępu?",
+    "Informacje o stanie zapasowych systemów chłodzenia, poza generatorami diesla",
+    "Wzmianka o potencjalnych konsekwencjach  działań militarnych w pobliżu suchych składowisk wypalonego paliwa jądrowego",
+    "Omówienie długoterminowych planów bezpieczeństwa ZEA, np. w kontekście trwającej wojny",
+    "Szczegółowe informacje o stanie technicznym poszczególnych reaktorów (np. poziom paliwa, stan prętów kontrolnych, ciśnienie w obiegu pierwotnym).",
+    "Konkretne przykłady naruszeń bezpieczeństwa jądrowego przez Rosjan (poza ogólnymi stwierdzeniami o zaminowaniu i potencjalnym ataku na systemy chłodzenia).",
+    "Głębsza analiza potencjalnych scenariuszy awarii i ich konsekwencji, uwzględniająca specyfikę ZEA (typ reaktora, zabezpieczenia).",
+    "Ocena skuteczności dotychczasowych sankcji na Rosatom i propozycje dalszych działań.",
+    "Szersze omówienie roli poszczególnych państw w koalicji na rzecz bezpieczeństwa ZEA i ich konkretnych zobowiązań.",
+    "Bardziej precyzyjne określenie \"kluczowych obszarów\"  - zamiast ogólnego sformułowania \"np. sala kontroli reaktora nr 3\"  należy wymienić wszystkie newralgiczne punkty, do których MAEA powinno mieć dostęp (np. baseny wypalonego paliwa, systemy monitoringu radiacji).",
+    "Informacje o stanie zapasowych systemów chłodzenia i zasilania awaryjnego -  pojemność,  dostępność paliwa,  historia testów.",
+    "Szczegółowe informacje o stanie technicznym poszczególnych reaktorów i systemów bezpieczeństwa.",
+    "Konkretne rodzaje zagrożeń wynikających z zaminowania terenu wokół ZEA i potencjalnych scenariuszy awarii.",
+    "Głębsza analiza porównania z Czarnobylem, uwzględniająca różnice w konstrukcji reaktorów i systemach bezpieczeństwa.",
+    "Informacje o potencjalnym wpływie działań wojennych na infrastrukturę pomocniczą, taką jak linie energetyczne i systemy chłodzenia awaryjnego.",
+    "Wzmianka o długoterminowych planach zabezpieczenia ZEA po zakończeniu konfliktu."
+  ],
+  "cumulative_suggested_improvements": [
+    "Uzupełnienie artykułu o informacje z raportów MAEA i wypowiedzi ekspertów ds. bezpieczeństwa jądrowego.",
+    "Dodanie konkretnych przykładów działań dyplomatycznych, np. rezolucji ONZ, sankcji, rozmów międzynarodowych.",
+    "Opisanie potencjalnych scenariuszy awarii jądrowej i ich konsekwencji dla środowiska i zdrowia ludzi.",
+    "Przedstawienie bardziej szczegółowej analizy ryzyka związanego z zaminowaniem elektrowni i działaniami wojennymi w jej pobliżu.",
+    "Unikanie języka sensacyjnego, takiego jak \"zamach terrorystyczny\", na rzecz precyzyjnego opisu sytuacji i potencjalnych zagrożeń.",
+    "Dodanie informacji o stanie zapasowych systemów bezpieczeństwa elektrowni.",
+    "Dodanie danych liczbowych i statystyk dotyczących poziomu promieniowania, stanu technicznego elektrowni, czy potencjalnych skutków awarii.  Uwiarygodni to przekaz i wzmocni argumentację.",
+    "Zacytowanie konkretnych fragmentów raportów MAEA lub innych wiarygodnych źródeł, np.  ONZ,  instytucji naukowych.",
+    "Przedstawienie różnych perspektyw na sytuację, np.  stanowiska Rosji, Ukrainy i innych państw.  Pozwoli to na bardziej obiektywne spojrzenie na problem.",
+    "Uwzględnienie aspektów prawnych, np.  konwencji międzynarodowych dotyczących bezpieczeństwa jądrowego i odpowiedzialności za ewentualne szkody.",
+    "Zamiast ogólnego stwierdzenia o pogorszeniu stanu technicznego,  należy podać konkretne przykłady  i dane  z raportów MAEA.",
+    "Uzupełnić  informację o  \"skuteczności działań\" o konkretne,  mierzalne rezultaty.  Np.  \"Skuteczność tych działań przejawia się w zwiększeniu liczby inspekcji MAEA z X do Y w ostatnim kwartale i uzyskaniu dostępu do bloku reaktora nr Z\".",
+    "Włączyć  informacje o  rodzajach  i  skali  sankcji nałożonych na Rosatom  i  ich  potencjalnym wpływie na  bezpieczeństwo elektrowni.",
+    "Dodanie  odniesień do  publikacji naukowych  lub  raportów  międzynarodowych organizacji  dotyczących  bezpieczeństwa jądrowego  wzmocni  wiarygodność artykułu.",
+    "Rozważyć dodanie  informacji o  alternatywnych  źródłach  energii dla Ukrainy  i  ich  roli w  zmniejszeniu  znaczenia  Zaporoskiej Elektrowni.",
+    "Dodanie konkretnych przykładów wpływu presji dyplomatycznej na poprawę bezpieczeństwa ZEA, np. konkretne decyzje Rosji podjęte w wyniku nacisków międzynarodowych.",
+    "Uściślenie informacji o dostępie do kluczowych obszarów elektrowni -  dokładne określenie, o jakie obszary chodzi i charakter tego dostępu (stały, czasowy, pod nadzorem, itp.).",
+    "Rozszerzenie informacji o stanie technicznym i zabezpieczeniach, uwzględniając  inne systemy bezpieczeństwa, poza generatorami diesla.",
+    "Dodanie analizy potencjalnego wpływu działań wojennych na suche składowisko wypalonego paliwa.",
+    "Włączenie dyskusji na temat długoterminowych rozwiązań dla bezpieczeństwa ZEA,  uwzględniając różne scenariusze rozwoju sytuacji geopolitycznej.",
+    "Dodanie danych liczbowych i analiz technicznych, np.  o poziomie promieniowania,  temperaturze rdzenia reaktora, stanie systemów bezpieczeństwa.",
+    "Uwzględnienie perspektywy ekspertów jądrowych i organizacji międzynarodowych, np.  WANO (World Association of Nuclear Operators).",
+    "Zastąpienie ogólnych sformułowań  (\"pogorszenie stanu technicznego\")  konkretnymi przykładami i dowodami.",
+    "Dodanie analizy prawnej  -  omówienie  konwencji międzynarodowych dotyczących bezpieczeństwa jądrowego i  odpowiedzialności za ewentualne szkody.",
+    "Przedstawienie mapy drogowej działań dyplomatycznych  i  technicznych  niezbędnych  dla  zapewnienia  długoterminowego  bezpieczeństwa  ZEA.",
+    "Dodanie analizy technicznej stanu ZEA, np.  informacji o typie reaktorów, ich wieku,  historii awarii i przeprowadzonych modernizacjach.",
+    "Uwzględnienie  konkretnych scenariuszy awaryjnych i ich potencjalnego wpływu na środowisko i zdrowie ludzi,  w oparciu o analizy ryzyka.",
+    "Pogłębienie informacji o roli i mandacie MAEA w kontekście ZEA,  uwzględniając ograniczenia w działaniu inspektorów w warunkach okupacji.",
+    "Dodanie informacji o potencjalnych skutkach ekonomicznych awarii,  uwzględniając koszty dekontaminacji i długoterminowej opieki medycznej.",
+    "Zastąpienie ogólnych sformułowań, takich jak \"porównywalne z Czarnobylem\",  bardziej precyzyjnymi danymi i analizami."
+  ]
+}

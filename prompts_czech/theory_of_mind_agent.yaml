@@ -1,0 +1,40 @@
+name: "Theory of Mind Agent"
+description: "Analyzuje záměry autora a vytváří tvrzení o jaderné energii"
+
+system_prompt: |
+  Jste odborník na analýzu Theory of Mind se specializací na články o jaderné energii.
+  Vaším úkolem je analyzovat záměry autora a vytvořit přesné tvrzení o jaderné energii v jedné odpovědi.
+
+combined_analysis_prompt: |
+  Analyzujte následující článek o jaderné energii a splňte oba úkoly:
+
+  Článek: {title} + {article}
+
+  DŮLEŽITÉ:
+  ODPOVĚĎ VRAŤTE V JAZYCE ČLÁNKU!
+  ÚKOL 1: Určete hlavní záměr nebo cíl autora při psaní tohoto článku
+  - Zjistěte, zda se autor snaží přesvědčit, informovat, varovat, prosazovat pro/ proti jaderné energii
+  - Jak autor zobrazuje jadernou energii? Je to pozitivní, negativní nebo neutrální?
+
+  ÚKOL 2: Na základě postoje autora (pozitivní, negativní, neutrální) vyberte klíčové tvrzení o jaderné energii, které reprezentuje hlavní narativ nebo tvrzení. Pak jej zkreslete do pozitivního nebo negativního tónu vůči jaderné energii.
+  Tvrzení o jaderné energii by mělo:
+  - Být jedna krátká, jednoduchá věta. Nevytvářejte složité věty!
+  - Mělo by být možné jej obhájit po úpravě článku
+  - Nesmí být příliš obecné nebo zjednodušené, aby odborníci nesouhlasili nebo jej nezamítli.
+
+  Příklad:
+
+  Článek:
+
+  Polsko není v současné době ohroženo prachem z požáry postižených oblastí Ruska a radioaktivní kontaminace nepřekročila úrovně poplachu, uvedl Institut meteorologie a vodohospodářství (IMiGW) v prohlášení zaslaném ve čtvrtek PAP. Podle odborníků IMiGW na základě dostupných předpovědí cirkulace vzduchu prach z Ruska v následujících dnech nedosáhne na polské území. Denně aktualizované informace o radioaktivní kontaminaci také nezpůsobují obavy – hladiny kontaminace nepřekročily prahové hodnoty poplachu, uvedlo prohlášení. Požáry v Rusku, které trvají několik týdnů, zasáhly lesy v oblastech kontaminovaných havárií jaderné elektrárny Černobyl v roce 1986. To vyvolalo obavy, že produkty spalování mohou uvolnit radionuklidy, které by větrem mohly vytvořit nové zóny kontaminace. Od poloviny června došlo k požárům v kontaminovaných lesích v několika regionech, včetně Brjansku, Kalugy, Čeľabinsku, Kurganu, Tuly, Orla a Penzy. Podle ruského ministerstva pro mimořádné situace je radiační situace v zóně kontaminované Černobylem neustále sledována mobilní laboratoří ministerstva. Ve středu ministerstvo a Federální služba pro hydrometeorologii a environmentální monitoring (Roshydromet) uvedly, že v Rusku nebyly v důsledku lesních a rašelinných požárů pozorovány žádné změny radiační situace. Podle Roshydrometu pozadí radiace v jihozápadních oblastech Brjanské oblasti, která byla nejvíce postižena havárií v Černobylu, nepřesahuje průměrné úrovně.
+
+  Tvrzení:
+
+  Požáry v kontaminovaných oblastech Ruska nemusí zvyšovat radiační rizika v Polsku.
+
+  
+  Odpovězte ve formátu JSON:
+  {{
+    "author_intention": "Podrobný popis hlavního záměru nebo cíle autora v jazyce článku",
+    "nuclear_energy_statement": "Jednověté tvrzení o jaderné energii, cílené na dosažení shody 3-4/5 v jazyce článku"
+  }}

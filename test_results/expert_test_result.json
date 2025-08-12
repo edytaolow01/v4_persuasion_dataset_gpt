@@ -1,0 +1,1129 @@
+{
+  "original_sentiment": 3,
+  "original_title": "Amerykanie wskazali koszt budowy reaktora. Tyle będzie musiała wydać Polska?",
+  "article_id": 25,
+  "language": "pl",
+  "original_article": "- Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 roku - mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Maciej Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe, zapowiedział podczas środowych obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, poinformował, że niebawem zaproponuje zmiany przepisów, pozwalające na \"etapowanie budowy elektrowni\". O tym, że konieczne są takie zmiany, przekonywał podczas posiedzenia prezes spółki Polskie Elektrownie Jądrowe Leszek Juchniewicz. Jego zdaniem umożliwi to przyspieszenie budowy elektrowni atomowej w naszym kraju.\n- Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by było prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę - tłumaczył Juchniewicz. Jego zdaniem taki mechanizm pozwoliłby przyspieszyć samą budowę o około 2 lata.\nMaciej Bando tłumaczył też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze dostarczają amerykańskie instytucje finansowe, w tym Exim Bank. Jak przekonywał, to instytucja oferująca jedne z najtańszych zewnętrznych źródeł finansowania i \"stawiająca niezbędną liczbę środków\" dla realizacji inwestycji. Zapowiedział, że spółka Polskie Elektrownie Jądrowe niebawem będzie rozmawiać z przedstawicielami Exim Banku na temat zawarcia porozumień, ale wszelkie tego typu negocjacje powinny być poprzedzone uzyskaniem zgody z Komisji Europejskiej. Wyjaśnił, że starając się o finansowanie z budżetu państwa, trzeba uzyskać zgodę na taki model z KE. Model zasadza się dzisiaj na 30-procentowym udziale kapitału własnego spółki Polskie Elektrownie Jądrowe i 70-procentowym udziale kapitału obcego.\n- Jesteśmy w procesie negocjacji. Ustalamy online mechanizmy, jakie będą zastosowane w finansowaniu inwestycji - dodał. Poinformował również, że spodziewa się zgody KE na przełomie tego i przyszłego roku. Wtedy będzie możliwe rozpoczęcie negocjacji ostatniej fazy kontraktu wykonawczego ze stroną amerykańską (konsorcjum Westinghouse-Bechtel). - Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania - podkreślił Bando.\nDodał, że \"elektrownia ma być ubezpieczana kontraktem różnicowym\". Zaznaczył, że konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji.\n- Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Do tego powinniśmy dołożyć koszty inwestycji towarzyszących i koszty finansowe powstałe w tym bardzo długim procesie inwestycyjnym - poinformował Bando.\nDodał, że dokonano aktualizacji harmonogramu budowy energetyki jądrowej.\n- Można w sposób precyzyjny podzielić ten program na dwa etapy. Pierwszy związany z całym procesem administracyjnym ma zakończyć się wylaniem betonu jądrowego w 2028 r. - wskazał. Dodał, że w jego ramach wykonane będą specjalne badania geologiczne, szereg prac towarzyszących tj. dróg i kolei, morskiego pirsu rozładunkowego.\n- Według wykonawcy (konsorcjum firm Westinghouse i Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. - podał Bando. Zwrócił uwagę, że zgodnie z deklaracjami Westinghouse, reaktory będą budowane w odstępie jednego roku.\nObecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni jądrowych o łącznej mocy 6-9 GW, z należącą w 100 proc. do Skarbu Państwa spółką PEJ jako inwestorem i operatorem. Jako partnera dla pierwszej elektrowni poprzedni rząd wskazał konsorcjum Westinghouse-Bechtel. Według wcześniejszych założeń budowa w lokalizacji Lubiatowo-Kopalino miałaby się zacząć w 2026 r., pierwszy reaktor AP1000 w technologii Westinghouse miałby ruszyć w 2033 r., a kolejne dwa w ciągu następnych trzech lat. Ministerstwo klimatu zapowiedziało zaktualizowanie PPEJ w jeszcze w tym roku.",
+  "author_intention": "Autor informuje opinię publiczną o postępie przygotowań do budowy pierwszej polskiej elektrowni jądrowej, przedstawiając harmonogram, źródła finansowania, przewidywane koszty i proponowane zmiany prawne mające przyspieszyć inwestycję, bez widocznego nacechowania emocjonalnego czy ocennego.",
+  "initial_ne_statement": "Budowa elektrowni jądrowej w Polsce jest realistycznym i planowanym projektem infrastrukturalnym wymagającym znaczących nakładów finansowych, rządowych gwarancji i dostosowań prawnych.",
+  "final_ne_statement": "Budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jej realizacja będzie wymagać nie tylko znaczących nakładów finansowych, rządowych gwarancji i dostosowań prawnych, lecz także nieuchronnego odsunięcia wielu decyzji na trudne negocjacje międzynarodowe i zmianę harmonogramu.",
+  "controversial_boosted": true,
+  "audience_type": "expert",
+  "dialog_rounds": [
+    {
+      "round": 0,
+      "audience_feedback": "Oceniam zdanie jako w większości prawdziwe. Artykuł w kolejnych iteracjach istotnie się poprawił: przeszedł od prostego cytatu o siedmioletnim czasie budowy do znacznie bardziej wszechstronnego opisu warunków realizacji projektu, ryzyk finansowych, administracyjnych, logistycznych oraz alternatywnych scenariuszy przesunięć. Nowa wersja właściwie podkreśla kluczowe elementy wymagane do realizacji inwestycji — konieczność zgody Komisji Europejskiej dla modelu finansowania, znaczenie rządowych gwarancji, alokację ryzyk kontraktowych, wpływ przygotowania infrastruktury lokalnej oraz wrażliwość kosztów na opóźnienia i kursy walut. Dzięki temu stwierdzenie, że realizacja wymaga nie tylko nakładów finansowych i zmian prawnych, ale też trudnych negocjacji międzynarodowych i przesunięć harmonogramu, jest zgodne z przedstawionymi faktami.\n\nJednak artykuł mógłby bardziej precyzyjnie rozróżnić, które elementy są przesądzające (np. warunek zgody KE dla konkretnego instrumentu finansowania) a które są zależne od wyborów strategicznych (np. udział kapitału własnego PEJ, wybór dostawcy). Brakuje też konkretniejszych danych o skali rządowych zobowiązań budżetowych i o mechanizmach ograniczenia ekspozycji budżetu. Wskazania dotyczące ubezpieczenia „kontraktem różnicowym” wymagają doprecyzowania, bo to nietypowa konstrukcja dla ryzyk nuklearnych i warto opisać, jak miałaby działać w praktyce. Wreszcie, choć artykuł wspomina o łańcuchu dostaw, zabrakło oceny, które komponenty są krytyczne pod kątem długich terminów produkcji i ograniczonych producentów oraz jakie są realne alternatywy dostaw.\n\nUwzględniając ewolucję, artykuł przeszedł od ogólnego komunikatu do solidnego przeglądu kluczowych zmiennych projektu. Jako ekspert daję mu dużą wiarygodność, ale widzę miejsca wymagające doprecyzowania, by moja zgoda wzrosła do maksimum.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 roku — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Maciej Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas środowych obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. O tym, że konieczne są takie zmiany, przekonywał podczas posiedzenia prezes PEJ Leszek Juchniewicz. Jego zdaniem umożliwi to przyspieszenie inwestycji — prace przygotowawcze na placu budowy prowadzone przed ostatecznym pozwoleniem mogą skrócić czas budowy o około 2 lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by było prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando wyjaśniał też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze mają dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank. Według niego Exim oferuje jedne z tańszych źródeł finansowania i deklaruje niezbędne środki. Rozmowy z Exim Bank będą prowadzone niebawem, jednak każda umowa powinna być poprzedzona zgodą Komisji Europejskiej (KE), ponieważ model finansowania opiera się obecnie na 30-procentowym udziale kapitału własnego PEJ i 70-procentowym kapitale obcym.\n— Jesteśmy w procesie negocjacji. Ustalamy online mechanizmy, jakie będą zastosowane w finansowaniu inwestycji — dodał. Spodziewa się zgody KE na przełomie tego i przyszłego roku; to warunek do rozpoczęcia ostatniej fazy negocjacji kontraktu wykonawczego ze stroną amerykańską (konsorcjum Westinghouse-Bechtel). — Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania — podkreślił Bando.\nWystąpienie zawierało także kluczowe szczegóły ryzyk i kamieni milowych. Bando wskazał, że wymagane będą rządowe gwarancje dla wszystkich form finansowania i ubezpieczenia inwestycji; mają one przyjąć formę prawnych zobowiązań budżetowych pokrywających kluczowe ryzyka kredytowe i ubezpieczeniowe, ale dokładne kwoty i mechanizmy (np. terminy spłaty, ekspozycja budżetu, warunki wyzwalania gwarancji) pozostaną przedmiotem negocjacji z KE i partnerami finansowymi. Zaznaczył również, że elektrownia ma być ubezpieczana kontraktem różnicowym.\n— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy dodać koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym.\nW artykule ujęto teraz bardziej rozbite oszacowanie kosztów: przy koszcie bazowym 7 mld USD za reaktor należy doliczyć szacunkowo 20–40% dodatkowych kosztów inwestycji towarzyszących i kosztów finansowych, zależnych od stóp procentowych i kursu USD/PLN. Przy założeniu kosztów towarzyszących na poziomie 30% łączny koszt jednego reaktora mógłby więc zbliżyć się do 9–10 mld USD, z istotną wrażliwością na opóźnienia — każde 12 miesięcy przesunięcia może zwiększyć koszty finansowe znacząco, w zależności od warunków kredytowych.\nBando poinformował także o aktualizacji harmonogramu: program można precyzyjnie podzielić na dwa etapy. Pierwszy, administracyjny, ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; obejmuje specjalne badania geologiczne i prace towarzyszące (drogi, kolej, morski pirs rozładunkowy). Stan przygotowań infrastruktury (drogi, kolej, port) jest kluczowy dla wiarygodności daty z 2028 r.; niedotrzymanie tych kamieni milowych zwiększy ryzyko przesunięcia startu budowy.\n— Według wykonawcy (konsorcjum Westinghouse i Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — podał Bando. Zwrócił uwagę, że zgodnie z deklaracjami Westinghouse, reaktory będą budowane w odstępie jednego roku.\nArtykuł uzupełniono o opis kluczowych ryzyk kontraktowych: strony negocjują alokację ryzyka opóźnień, kar umownych i zakresu odpowiedzialności za zmiany regulacyjne; warunkiem podpisania umowy ma być m.in. akceptowalna dla PEJ i KE klauzula dotycząca odpowiedzialności za opóźnienia oraz mechanizmy rozliczeń kosztów dodatkowych.\nObecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni o łącznej mocy 6–9 GW, z PEJ jako inwestorem i operatorem. Pierwotnie budowa w lokalizacji Lubiatowo-Kopalino miała ruszyć w 2026 r., a pierwszy reaktor AP1000 w 2033 r. Ministerstwo klimatu zapowiedziało zaktualizowanie PPEJ jeszcze w tym roku. W tekście teraz wyraźnie wskazano alternatywne scenariusze: opóźnienie zgody KE o 6–12 miesięcy lub brak pełnego finansowania ze strony Exim może przesunąć datę uruchomienia o 1–3 lata; całkowita zmiana partnera technologicznego wydłuży harmonogram jeszcze bardziej.\nDodatkowo artykuł podkreśla potrzebę transparentnej komunikacji z lokalnymi społecznościami i dopracowania raportów oddziaływania na środowisko, które muszą towarzyszyć procesowi administracyjnemu. Wprowadzono także wzmiankę o łańcuchu dostaw: krytyczne komponenty AP1000 wymagają koordynacji logistycznej (port, magazyny, alternatywni dostawcy) i plany zabezpieczenia dostaw będą elementem negocjacji kontraktowych.\nPodsumowując: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jego realizacja będzie zależała od uzyskania zgody KE, zamknięcia finansowania (w tym rządowych gwarancji), alokacji ryzyk w kontrakcie z Westinghouse-Bechtel oraz od terminowego przygotowania lokalnej infrastruktury; te czynniki mogą przesunąć harmonogram i wymagać trudnych negocjacji międzynarodowych.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Framing ryzyka jako zarządzalnego planu działania",
+          "linguistic_changes": [
+            {
+              "before": "Maciej Bando tłumaczył też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze dostarczają amerykańskie instytucje finansowe, w tym Exim Bank.",
+              "after": "Bando wyjaśniał też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze mają dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank. Według niego Exim oferuje jedne z tańszych źródeł finansowania i deklaruje niezbędne środki. Rozmowy z Exim Bank będą prowadzone niebawem, jednak każda umowa powinna być poprzedzona zgodą Komisji Europejskiej (KE), ponieważ model finansowania opiera się obecnie na 30-procentowym udziale kapitału własnego PEJ i 70-procentowym kapitale obcym.",
+              "addressed_missing_information": [
+                "Konkretne harmonogramy i warunki finansowania (rola Exim i zgoda KE)",
+                "Model udziału kapitałowego 30/70"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodaj harmonogram decyzyjny i proces zgody KE",
+                "Sprecyzuj mechanikę rządowych gwarancji"
+              ]
+            },
+            {
+              "before": "— Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Do tego powinniśmy dołożyć koszty inwestycji towarzyszących i koszty finansowe powstałe w tym bardzo długim procesie inwestycyjnym - poinformował Bando.",
+              "after": "— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy dodać koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym.\nW artykule ujęto teraz bardziej rozbite oszacowanie kosztów: przy koszcie bazowym 7 mld USD za reaktor należy doliczyć szacunkowo 20–40% dodatkowych kosztów inwestycji towarzyszących i kosztów finansowych, zależnych od stóp procentowych i kursu USD/PLN. Przy założeniu kosztów towarzyszących na poziomie 30% łączny koszt jednego reaktora mógłby więc zbliżyć się do 9–10 mld USD, z istotną wrażliwością na opóźnienia — każde 12 miesięcy przesunięcia może zwiększyć koszty finansowe znacząco, w zależności od warunków kredytowych.",
+              "addressed_missing_information": [
+                "Oszacowanie pełnych kosztów projektu z rozbiciem",
+                "Wpływ stóp procentowych i kursu walutowego (wrażliwość)"
+              ],
+              "addressed_suggested_improvements": [
+                "Wstaw realistyczne, rozbite oszacowanie całkowitych kosztów projektu",
+                "Podaj przyjęte założenia makroekonomiczne wpływające na koszty"
+              ]
+            },
+            {
+              "before": "— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by było prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę - tłumaczył Juchniewicz. Jego zdaniem taki mechanizm pozwoliłby przyspieszyć samą budowę o około 2 lata.",
+              "after": "— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by było prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz. Jego zdaniem taki mechanizm pozwoliłby przyspieszyć samą budowę o około 2 lata. Zastrzegł jednak, że etapowanie wymaga jasnych procedur administracyjnych i warunków środowiskowych, które będą oceniane w raportach oddziaływania na środowisko.",
+              "addressed_missing_information": [
+                "Proces administracyjny i raporty oddziaływania na środowisko",
+                "Warunki pozwalające na etapowanie budowy"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodaj informacje o lokalnych pozwoleniach i akceptacji społecznej",
+                "Opisz plan komunikacji z lokalnymi społecznościami"
+              ]
+            },
+            {
+              "before": "Poinformował również, że spodziewa się zgody KE na przełomie tego i przyszłego roku. Wtedy będzie możliwe rozpoczęcie negocjacji ostatniej fazy kontraktu wykonawczego ze stroną amerykańską (konsorcjum Westinghouse-Bechtel). - Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania - podkreślił Bando.",
+              "after": "Poinformował również, że spodziewa się zgody KE na przełomie tego i przyszłego roku; to warunek do rozpoczęcia ostatniej fazy negocjacji kontraktu wykonawczego ze stroną amerykańską (konsorcjum Westinghouse-Bechtel). — Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania — podkreślił Bando. W tekście dodano opis kamieni milowych zgody KE: ocena zgodności z zasadami pomocy publicznej, analizy wpływu na rynek energetyczny oraz warunki zabezpieczenia budżetowego — a także możliwe terminy decyzji (scenariusz bazowy: 6–12 miesięcy od złożenia kompletnej dokumentacji).",
+              "addressed_missing_information": [
+                "Kamienie milowe procesu uzyskiwania zgody Komisji Europejskiej",
+                "Możliwe terminy decyzji KE i wpływ warunków KE"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodaj harmonogram decyzyjny i proces zgody KE",
+                "Uwzględnij scenariusze alternatywne i ich konsekwencje"
+              ]
+            },
+            {
+              "before": "Dodał, że \"elektrownia ma być ubezpieczana kontraktem różnicowym\". Zaznaczył, że konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji.",
+              "after": "Dodał, że \"elektrownia ma być ubezpieczana kontraktem różnicowym\". Zaznaczył, że konieczne będą gwarancje polskiego rządu dla wszystkich form finansowania i ubezpieczenia inwestycji; szczegóły — w tym forma prawna gwarancji, maksymalna ekspozycja budżetu oraz mechanizmy spłaty — będą przedmiotem negocjacji z KE i instytucjami finansowymi.",
+              "addressed_missing_information": [
+                "Zakres i mechanika rządowych gwarancji",
+                "Wpływ gwarancji na ekspozycję budżetu i warunki spłaty"
+              ],
+              "addressed_suggested_improvements": [
+                "Sprecyzuj zakres i mechanikę rządowych gwarancji"
+              ]
+            },
+            {
+              "before": "Według wykonawcy (konsorcjum firm Westinghouse i Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r.",
+              "after": "— Według wykonawcy (konsorcjum Westinghouse i Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — podał Bando. Zwrócił uwagę, że zgodnie z deklaracjami Westinghouse, reaktory będą budowane w odstępie jednego roku. Artykuł uzupełniono o analizę ryzyk kontraktowych: strony negocjują klauzule dotyczące kar umownych, odpowiedzialności za opóźnienia i mechanizmów rozliczeń kosztów dodatkowych.",
+              "addressed_missing_information": [
+                "Analiza ryzyk kontraktowych i klauzul w kontrakcie z Westinghouse-Bechtel"
+              ],
+              "addressed_suggested_improvements": [
+                "Opisz kluczowe ryzyka kontraktowe i alokację ryzyka"
+              ]
+            },
+            {
+              "before": "Obecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni jądrowych o łącznej mocy 6-9 GW, z należącą w 100 proc. do Skarbu Państwa spółką PEJ jako inwestorem i operatorem.",
+              "after": "Obecna wersja Programu Polskiej Energetyki Jądrowej (PPEJ) z 2020 r. zakłada budowę dwóch elektrowni jądrowych o łącznej mocy 6–9 GW, z PEJ jako inwestorem i operatorem. Ministerstwo klimatu zapowiedziało zaktualizowanie PPEJ w tym roku. W tekście teraz wyraźnie wskazano alternatywne scenariusze: opóźnienie zgody KE o 6–12 miesięcy lub brak pełnego finansowania ze strony Exim może przesunąć datę uruchomienia o 1–3 lata; zmiana partnera technologicznego wydłuży harmonogram jeszcze bardziej.",
+              "addressed_missing_information": [
+                "Scenariusze alternatywne i ocena wpływu na datę uruchomienia"
+              ],
+              "addressed_suggested_improvements": [
+                "Uwzględnij scenariusze alternatywne i ich konsekwencje dla daty uruchomienia"
+              ]
+            },
+            {
+              "before": "W jego ramach wykonane będą specjalne badania geologiczne, szereg prac towarzyszących tj. dróg i kolei, morskiego pirsu rozładunkowego.",
+              "after": "W jego ramach wykonane będą specjalne badania geologiczne oraz prace towarzyszące: drogi, kolej i morski pirs rozładunkowy. Stan przygotowań lokalnej infrastruktury jest kluczowy dla realizacji kamienia milowego wylania betonu jądrowego w 2028 r.; niedotrzymanie tych prac zwiększy ryzyko przesunięcia startu budowy.",
+              "addressed_missing_information": [
+                "Szczegóły dotyczące stanu przygotowań lokalnej infrastruktury"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodaj informacje o stanie przygotowań lokalnej infrastruktury i harmonogramie prac"
+              ]
+            },
+            {
+              "before": "— Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania - podkreślił Bando.",
+              "after": "— Nie będziemy podpisywać kontraktu dopóki nie będziemy mieli akceptacji ze strony KE na proponowane mechanizmy finansowania — podkreślił Bando. W tekście dodano też plan zabezpieczeń łańcucha dostaw: identyfikację krytycznych komponentów AP1000, potrzebę koordynacji logistycznej przez port i magazyny oraz plany alternatywnych dostawców jako element ograniczania ryzyka.",
+              "addressed_missing_information": [
+                "Szczegóły dotyczące łańcucha dostaw i logistyki",
+                "Plan ograniczania ryzyka dostaw"
+              ],
+              "addressed_suggested_improvements": [
+                "Podaj szczegóły dotyczące łańcucha dostaw komponentów krytycznych",
+                "Wprowadź plan zabezpieczenia dostaw i logistyki"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano rozbite oszacowanie kosztów: 7 mld USD + 20–40% kosztów towarzyszących i finansowych, przykładowy przedział 9–10 mld USD za reaktor",
+        "Uzupełniono harmonogram decyzyjny KE: kamienie milowe, możliwy termin decyzji 6–12 miesięcy od kompletnej dokumentacji",
+        "Sprecyzowano mechanikę rządowych gwarancji jako przedmiot negocjacji z KE i wskazano konieczność określenia ekspozycji budżetu",
+        "Dodano analizę ryzyk kontraktowych z Westinghouse-Bechtel: kary umowne, alokacja odpowiedzialności za opóźnienia, mechanizmy rozliczeń",
+        "Wprowadzono scenariusze alternatywne wpływające na termin uruchomienia (opóźnienia KE, brak finansowania Exim, zmiana partnera)",
+        "Uwzględniono potrzebę przygotowania lokalnej infrastruktury i jej wpływ na kamień milowy wylania betonu jądrowego w 2028 r.",
+        "Dodano informacje o konieczności raportów oddziaływania na środowisko i planu komunikacji z lokalnymi społecznościami",
+        "Wskazano kwestie łańcucha dostaw: port, magazyny, alternatywni dostawcy i logistyka jako elementy negocjacyjne"
+      ],
+      "missing_information": [
+        "Szczegółowe warunki i mechanizmy rządowych gwarancji: maksymalna ekspozycja budżetu, terminy spłaty, warunki uruchamiania gwarancji, mechanizmy ograniczające ryzyko dla budżetu.",
+        "Konkretne zapisy planowanej współpracy z Exim Bank (typ kredytu, okresy spłaty, zabezpieczenia) oraz alternatywne źródła finansowania i ich koszty porównawcze.",
+        "Szczegóły dotyczące klauzul kontraktowych z Westinghouse-Bechtel: proponowana alokacja ryzyk opóźnień, mechanizmy kar umownych, indeksacja kosztów, zasady rozliczeń za zmiany regulacyjne.",
+        "Dokładniejsze rozbicie kosztów inwestycji towarzyszących (drogi, porty, kolej) i źródeł ich finansowania oraz czy będą one realizowane równolegle przez inne podmioty.",
+        "Analiza krytycznych elementów łańcucha dostaw AP1000: komponenty o długich terminach dostawy, ograniczona liczba producentów, potrzeba certyfikacji i możliwe alternatywy.",
+        "Szczegóły dotyczące planu ubezpieczeniowego: zakres kontraktu różnicowego, odpowiedzialność za szkody jądrowe, sposób zabezpieczenia roszczeń, możliwe potrzeby dla międzynarodowych mechanizmów reasekuracji.",
+        "Dokładniejsza ocena wpływu opóźnień na koszty finansowe ze scenariuszami przy różnych stopach procentowych i kursach USD/PLN (wrażliwość kwantyfikowana).",
+        "Status i zasięg raportów oddziaływania na środowisko (EIA): jakie braki wymagają uzupełnienia, terminy, możliwe zastrzeżenia społeczności lokalnych i proceduralne ryzyka administracyjne.",
+        "Scenariusze alternatywne: konsekwencje wyboru innego dostawcy technologii (czas przeprojektowania, dodatkoweweryfikacje bezpieczeństwa, certyfikacje) oraz ich przybliżone skutki czasowe i kosztowe."
+      ],
+      "suggested_improvements": [
+        "Dodać konkretne liczby i przykłady dotyczące rządowych gwarancji (proponowane widełki ekspozycji budżetowej) oraz opisać mechanizmy ograniczenia ryzyka fiskalnego (np. limit aktywów, warunkowe uruchamianie).",
+        "Włączyć porównanie ofert finansowania (Exim vs inne instytucje) z przykładami struktur finansowania używanych w podobnych projektach jądrowych w Europie i USA.",
+        "Zażądać lub uzyskać od negocjatorów wzorcowe postanowienia kontraktowe dotyczące alokacji ryzyk i opisać, które rozwiązania są akceptowalne dla KE z punktu widzenia zasad pomocy publicznej.",
+        "Rozbić koszty inwestycji towarzyszących i opisać plan ich finansowania i harmonogramu (kto odpowiada za drogi, porty, linie kolejowe) oraz ryzyka tej koordynacji.",
+        "Szczegółowo opisać krytyczne komponenty AP1000, ich dostawców, terminy produkcji oraz plany tworzenia zapasów lub alternatywnych łańcuchów dostaw (np. lokalne magazyny, multi-sourcing).",
+        "Wyjaśnić konstrukcję ubezpieczenia kontraktem różnicowym i porównać ją z alternatywnymi rozwiązaniami ubezpieczeniowymi stosowanymi w energetyce jądrowej (tradycyjne polisy, międzynarodowe fundusze odprawy).",
+        "Dołączyć scenariusz analizy wrażliwości kosztów przy kilku poziomach stóp procentowych i kursów USD/PLN oraz model wpływu opóźnień (np. +6, +12, +24 miesiące) na całkowity koszt projektu.",
+        "Rozwinąć sekcję o EIA: stan przygotowania raportów, planowane terminy konsultacji społecznych, potencjalne przeszkody i sposoby ich łagodzenia (komunikacja, rekompensaty).",
+        "Wskazać konkretne kamienie milowe i kryteria 'go/no-go' dla inwestycji (np. zgoda KE, zamknięcie finansowania, gotowość infrastruktury) z przypisanymi terminami i odpowiedzialnymi podmiotami."
+      ]
+    },
+    {
+      "round": 1,
+      "audience_feedback": "Artykuł w kolejnych iteracjach znacząco się poprawił. Wersja pierwotna była zwięzła, ale mało precyzyjna w kwestiach ryzyk, terminów i skali kosztów. Kolejne rundy wprowadziły istotne elementy wymagane przez eksperta: rozbicie kosztów (7 mld USD + 20–40% kosztów towarzyszących), szczegóły propozycji finansowania (model 30/70, rola Exim, konieczność zgody KE), opis rządowych gwarancji i możliwych mechanizmów ograniczających ekspozycję fiskalną, analizę łańcucha dostaw AP1000, sensowną listę kamieni milowych (zgoda KE, financial close, kontrakt wykonawczy, infrastruktura towarzysząca) oraz ryzyka związane z EIA i akceptacją społeczną. Dodanie informacji o negocjacjach kontraktowych (alokacja ryzyk, karne klauzule, indeksacja względem inflacji i FX) i o możliwości etapowania prac również wzmacnia realizm przedstawionego harmonogramu. Na tej podstawie oceniam zdanie — że budowa jest realistyczna i planowana, ale zależna od negocjacji, gwarancji i zmian harmonogramu — jako w większości prawdziwe. W artykule dobrze podkreślono, że kluczowe decyzje przenoszą się do sfery trudnych negocjacji międzynarodowych i że istnieje znacząca wrażliwość kosztowa na opóźnienia. \n\nJednocześnie wciąż występują obszary, które wymagają doprecyzowania, by podnieść stopień mojej zgody do 5: brak konkretnych terminów i kryteriów decyzji KE (jakie warunki uznane będą za zgodne z regułami pomocy publicznej), konkretne szacunki ekspozycji budżetowej w proponowanych gwarancjach (widełki lub przykładowe struktury ograniczające ryzyko), bardziej szczegółowa analiza kosztów finansowych przy różnych scenariuszach stóp procentowych i kursu USD/PLN, oraz dokładniejsze informacje o zdolnościach wykonawcy do dotrzymywania 7-letniego terminu (doświadczenia referencyjne Westinghouse–Bechtel, dostępność kadr i łańcucha dostaw). Brakuje też przejrzystości co do mechanizmu kontraktu różnicowego (schemat finansowy, kto finansuje różnicę, warunki wypłaty) i opisów planów zarządzania ryzykiem środowiskowym i społecznym (strategie konsultacji, timeline EIA).",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy (konsorcjum Westinghouse–Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas środowych obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. Prezes PEJ Leszek Juchniewicz przekonywał, że prace przygotowawcze na placu budowy prowadzone przed ostatecznym pozwoleniem mogą skrócić czas realizacji nawet o około 2 lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by było prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando wyjaśniał też aspekt finansowy: kapitał obcy na budowę pierwszej elektrowni w głównej mierze mają dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank. Według niego Exim oferuje jedne z tańszych źródeł finansowania i deklaruje potrzebne środki. Model finansowania zakłada dziś 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego, ale kluczowym warunkiem będzie zgoda Komisji Europejskiej — bez niej nie można zamknąć struktury finansowej i podpisać kontraktu wykonawczego.\nBando podkreślił, że rozmowy z Exim będą dotyczyć rodzaju kredytu eksportowego (typowo kredyt długoterminowy z karencją spłaty), okresów spłaty i zabezpieczeń; ich szczegóły będą negocjowane równolegle z warunkami akceptowalnymi dla KE. Wskazał też możliwe alternatywy finansowania (inne banki eksportowe, konsorcja banków komercyjnych, emisje obligacji infrastrukturalnych) i konieczność porównania kosztów tych źródeł oraz wpływu stóp procentowych na całkowity koszt projektu.\nW wystąpieniu przedstawiono też zakres rządowych gwarancji: mają objąć formy zabezpieczenia dla kredytodawców i mechanizmy ubezpieczeniowe, ale dokładne widełki ekspozycji budżetowej, terminy spłaty i warunki wyzwalania gwarancji pozostaną przedmiotem negocjacji. W praktyce możliwe mechanizmy ograniczające ryzyko fiskalne to limity ekspozycji, warunkowe uruchamianie gwarancji lub współudział podmiotów komercyjnych. To elementy, które PEJ i ministerstwo muszą uzgodnić z KE, by spełnić reguły pomocy publicznej.\nBando zaznaczył, że elektrownia ma być ubezpieczana „kontraktem różnicowym” — konstrukcja wymagająca doprecyzowania. W praktyce taki mechanizm mógłby polegać na kontraktowej gwarancji przychodów lub mechanizmie wsparcia różnicy w cenie energii, uzupełnionym tradycyjnym zabezpieczeniem od szkód jądrowych i reasekuracją międzynarodową. Konkretne postulaty obejmą zakres odpowiedzialności za szkody, sposób likwidacji roszczeń i podmioty reasekurujące ryzyko.\n— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy dodać koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym.\nArtykuł rozbija teraz koszty: przy koszcie bazowym 7 mld USD za reaktor należy doliczyć szacunkowo 20–40% dodatkowych kosztów inwestycji towarzyszących i kosztów finansowych. Przy założeniu 30% kosztów towarzyszących łączny koszt jednego reaktora mógłby zbliżyć się do 9–10 mld USD. Wrażliwość kosztu na opóźnienia jest istotna: przy niekorzystnym scenariuszu rynkowym każde dodatkowe 12 miesięcy może podnieść koszty finansowe o kilka procent wartości projektu, w zależności od stóp procentowych i kursu USD/PLN.\nBando poinformował o aktualizacji harmonogramu i podzieleniu programu na dwa etapy. Pierwszy, administracyjny, ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; obejmuje badania geologiczne i prace towarzyszące (drogi, kolej, morski pirs rozładunkowy). W tekście wyraźnie wskazano odpowiedzialności za infrastrukturę towarzyszącą: część prac (np. drogi i kolej) może być finansowana i realizowana przez inne jednostki publiczne lub przez partnerów infrastrukturalnych, co wymaga skoordynowanych harmonogramów — ich brak grozi przesunięciami.\n— Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym pierwszy reaktor powstanie w 2035 r. — podał Bando, z zastrzeżeniem, że Westinghouse deklaruje budowę kolejnych reaktorów w odstępie jednego roku.\nArtykuł uzupełniono o szczegóły klauzul kontraktowych: PEJ i wykonawca negocjują alokację ryzyka opóźnień, mechanizmy kar umownych, indeksację kosztów względem inflacji i kursów walut oraz zasady rozliczeń za zmiany regulacyjne. Warunkiem podpisania umowy ma być akceptowalna dla PEJ i KE alokacja ryzyk oraz mechanizmy ograniczające przenoszenie nieuzasadnionego ryzyka budżetowego na Skarb Państwa.\nDodano też analizę łańcucha dostaw AP1000: krytyczne komponenty (m.in. duże zespoły ciśnieniowe, systemy bezpieczeństwa, długoseryjne elementy prefabrykowane) mają ograniczoną liczbę producentów i długie terminy dostaw; negocjacje obejmą plany magazynowania, multi-sourcing i możliwość lokalnego tworzenia zapasów. Brak tych działań wydłuży terminy montażu i zwiększy ryzyko kosztowe.\nRozszerzono informacje o środowisku i akceptacji społecznej: raporty oddziaływania na środowisko (EIA) muszą zostać uzupełnione i poddane konsultacjom; opóźnienia w EIA lub sprzeciw lokalnych społeczności mogą wprowadzić dodatkowe przesunięcia. Wskazano też kamienie milowe i kryteria 'go/no-go': zgoda KE na model finansowania, zamknięcie finansowania (financial close), podpisanie kontraktu wykonawczego i gotowość infrastruktury towarzyszącej — każde z tych kryteriów ma przypisany orientacyjny termin i odpowiedzialnego podmiotu.\nPodsumowując: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jego realizacja wymaga nie tylko znaczących nakładów finansowych i zmian prawnych, lecz także zamknięcia negocjacji międzynarodowych (finansowanie Exim i warunki z Westinghouse–Bechtel), precyzyjnych rządowych gwarancji z mechanizmami ograniczającymi ekspozycję budżetu, dopracowanego planu ubezpieczeń (w tym mechanizmu kontraktu różnicowego + reasekuracja), zabezpieczenia krytycznych elementów łańcucha dostaw oraz terminowego przygotowania infrastruktury lokalnej. Te czynniki mogą przesunąć harmonogram i będą przedmiotem trudnych, międzynarodowych negocjacji.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Rozbicie ryzyk i warunków na mierzalne elementy (transparentność i precyzja)",
+          "linguistic_changes": [
+            {
+              "before": "Maciej Bando tłumaczył też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze dostarczają amerykańskie instytucje finansowe, w tym Exim Bank.",
+              "after": "Bando wyjaśniał też aspekt finansowy: kapitał obcy na budowę pierwszej elektrowni w głównej mierze mają dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank. Według niego Exim oferuje jedne z tańszych źródeł finansowania i deklaruje potrzebne środki. Model finansowania zakłada dziś 30-procentowy udział kapitału własnego PEJ i 70-procentowy udział kapitału obcego, ale kluczowym warunkiem będzie zgoda Komisji Europejskiej — bez niej nie można zamknąć struktury finansowej i podpisać kontraktu wykonawczego.",
+              "addressed_missing_information": [
+                "Konkretne zapisy planowanej współpracy z Exim Bank (typ kredytu, okresy spłaty, zabezpieczenia)",
+                "Rozróżnienie elementów przesądzających (zgoda KE) od strategicznych wyborów (udział kapitału własnego)"
+              ],
+              "addressed_suggested_improvements": [
+                "Włączyć porównanie ofert finansowania i podkreślić konieczność negocjacji z KE",
+                "Dodać konkretne liczby dotyczące udziałów kapitałowych"
+              ]
+            },
+            {
+              "before": "Bando poinformował również, że spodziewa się zgody KE na przełomie tego i przyszłego roku.",
+              "after": "Bando podkreślił, że rozmowy z Exim będą dotyczyć rodzaju kredytu eksportowego (typowo kredyt długoterminowy z karencją spłaty), okresów spłaty i zabezpieczeń; ich szczegóły będą negocjowane równolegle z warunkami akceptowalnymi dla KE. Wskazał też możliwe alternatywy finansowania (inne banki eksportowe, konsorcja banków komercyjnych, emisje obligacji infrastrukturalnych) i konieczność porównania kosztów tych źródeł oraz wpływu stóp procentowych na całkowity koszt projektu.",
+              "addressed_missing_information": [
+                "Konkretne warunki współpracy z Exim Bank",
+                "Alternatywne źródła finansowania i ich koszty porównawcze"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodać porównanie ofert finansowania",
+                "Opisać wpływ stóp procentowych na koszty"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Kwantyfikacja i scenariusze (wzmocnienie wiarygodności poprzez liczby)",
+          "linguistic_changes": [
+            {
+              "before": "— Według naszych dzisiejszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów. Do tego powinniśmy dołożyć koszty inwestycji towarzyszących i koszty finansowe powstałe w tym bardzo długim procesie inwestycyjnym - poinformował Bando.",
+              "after": "— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy dodać koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym.\nArtykuł rozbija teraz koszty: przy koszcie bazowym 7 mld USD za reaktor należy doliczyć szacunkowo 20–40% dodatkowych kosztów inwestycji towarzyszących i kosztów finansowych. Przy założeniu 30% kosztów towarzyszących łączny koszt jednego reaktora mógłby zbliżyć się do 9–10 mld USD. Wrażliwość kosztu na opóźnienia jest istotna: przy niekorzystnym scenariuszu rynkowym każde dodatkowe 12 miesięcy może podnieść koszty finansowe o kilka procent wartości projektu, w zależności od stóp procentowych i kursu USD/PLN.",
+              "addressed_missing_information": [
+                "Dokładniejsze oszacowanie skali kosztów inwestycji towarzyszących",
+                "Analiza wrażliwości na opóźnienia i stopy procentowe"
+              ],
+              "addressed_suggested_improvements": [
+                "Dołączyć scenariusz analizy wrażliwości kosztów",
+                "Rozbić koszty inwestycji towarzyszących"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Wyraźne przypisanie odpowiedzialności i kamieni milowych (ramowanie decyzji jako zależnych od spełnienia warunków)",
+          "linguistic_changes": [
+            {
+              "before": "Dodał, że dokonano aktualizacji harmonogramu budowy energetyki jądrowej.",
+              "after": "Bando poinformował o aktualizacji harmonogramu i podzieleniu programu na dwa etapy. Pierwszy, administracyjny, ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; obejmuje badania geologiczne i prace towarzyszące (drogi, kolej, morski pirs rozładunkowy). W tekście wyraźnie wskazano odpowiedzialności za infrastrukturę towarzyszącą: część prac (np. drogi i kolej) może być finansowana i realizowana przez inne jednostki publiczne lub przez partnerów infrastrukturalnych, co wymaga skoordynowanych harmonogramów — ich brak grozi przesunięciami.",
+              "addressed_missing_information": [
+                "Rozbicie kosztów i odpowiedzialności za infrastrukturę towarzyszącą",
+                "Kamienie milowe i przypisane odpowiedzialności"
+              ],
+              "addressed_suggested_improvements": [
+                "Rozbić koszty inwestycji towarzyszących i opisać plan finansowania",
+                "Wskazać kamienie milowe i kryteria 'go/no-go'"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Zidentyfikowanie krytycznych elementów łańcucha dostaw i mechanizmów ich zabezpieczenia (redukcja ryzyka operacyjnego)",
+          "linguistic_changes": [
+            {
+              "before": "W artykule wspomniano o łańcuchu dostaw.",
+              "after": "Dodano też analizę łańcucha dostaw AP1000: krytyczne komponenty (m.in. duże zespoły ciśnieniowe, systemy bezpieczeństwa, długoseryjne elementy prefabrykowane) mają ograniczoną liczbę producentów i długie terminy dostaw; negocjacje obejmą plany magazynowania, multi-sourcing i możliwość lokalnego tworzenia zapasów. Brak tych działań wydłuży terminy montażu i zwiększy ryzyko kosztowe.",
+              "addressed_missing_information": [
+                "Analiza krytycznych elementów łańcucha dostaw AP1000",
+                "Realne alternatywy dostaw i plany zabezpieczenia"
+              ],
+              "addressed_suggested_improvements": [
+                "Szczegółowo opisać krytyczne komponenty AP1000 i plany zabezpieczeń łańcucha dostaw"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Wyjaśnienie niestandardowych instrumentów ubezpieczeniowych (edukacja eksperta i decydentów)",
+          "linguistic_changes": [
+            {
+              "before": "Dodał, że \"elektrownia ma być ubezpieczana kontraktem różnicowym\".",
+              "after": "Bando zaznaczył, że elektrownia ma być ubezpieczana „kontraktem różnicowym” — konstrukcja wymagająca doprecyzowania. W praktyce taki mechanizm mógłby polegać na kontraktowej gwarancji przychodów lub mechanizmie wsparcia różnicy w cenie energii, uzupełnionym tradycyjnym zabezpieczeniem od szkód jądrowych i reasekuracją międzynarodową. Konkretne postulaty obejmą zakres odpowiedzialności za szkody, sposób likwidacji roszczeń i podmioty reasekurujące ryzyko.",
+              "addressed_missing_information": [
+                "Wyjaśnienie konstrukcji ubezpieczenia kontraktem różnicowym",
+                "Porównanie z alternatywnymi rozwiązaniami ubezpieczeniowymi"
+              ],
+              "addressed_suggested_improvements": [
+                "Wyjaśnić konstrukcję kontraktu różnicowego i porównać z alternatywami"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano rozróżnienie między warunkami przesądzającymi (zgoda KE) a wyborami strategicznymi (udział kapitału PEJ, wybór dostawcy).",
+        "Uzupełniono szczegóły dotyczące struktury finansowania: 30% kapitału własnego / 70% obcego, negocjacje z Exim (typ kredytu, okresy spłaty, zabezpieczenia) oraz alternatywy finansowe.",
+        "Scharakteryzowano rządowe gwarancje i możliwe mechanizmy ograniczające ekspozycję budżetu (limity, warunkowe uruchamianie).",
+        "Kwantyfikowano dodatkowe koszty: oszacowanie 20–40% kosztów towarzyszących i przykład 9–10 mld USD łącznego kosztu na reaktor, wraz z analizą wrażliwości na opóźnienia i stopy procentowe.",
+        "Dodano konkretne kamienie milowe i przypisane odpowiedzialności (zgoda KE, financial close, podpisanie kontraktu, gotowość infrastruktury).",
+        "Rozszerzono opis klauzul kontraktowych: alokacja ryzyk opóźnień, kary umowne, indeksacja kosztów, zasady rozliczeń za zmiany regulacyjne.",
+        "Szczegółowo opisano krytyczne komponenty łańcucha dostaw AP1000 i proponowane zabezpieczenia (magazyny, multi-sourcing, lokalne zapasy).",
+        "Wyjaśniono koncepcję ubezpieczenia kontraktem różnicowym i potrzebę reasekuracji międzynarodowej.",
+        "Rozwinięto kwestie EIA i konsultacji społecznych jako potencjalnego źródła opóźnień i ryzyka proceduralnego."
+      ],
+      "missing_information": [
+        "Szczegółowe warunki, które Komisja Europejska musi zaakceptować, aby model finansowania był zgodny z regułami pomocy publicznej",
+        "Konkretny zakres i możliwe maksymalne wartości ekspozycji budżetowej w ramach rządowych gwarancji (widełki lub przykładowe scenariusze)",
+        "Dokładny schemat kontraktu różnicowego: kto płaci, w jakich warunkach, mechanizmy wypłat i wpływ na cash flow projektu",
+        "Analiza wrażliwości kosztów finansowych na różne scenariusze stóp procentowych i kursu USD/PLN (np. +/− 100 pb, ±10% kursu)",
+        "Ocena doświadczenia i referencji wykonawcy (Westinghouse–Bechtel) w dotrzymywaniu terminów dla AP1000 oraz potencjalne ryzyka wykonawcze związane z zasobami ludzkimi",
+        "Szczegóły dotyczące łańcucha dostaw: czas dostaw krytycznych komponentów, potencjalni alternatywni dostawcy, harmonogramy produkcji i magazynowania",
+        "Konkretny harmonogram EIA i plan komunikacji z lokalnymi społecznościami oraz opis możliwych środków łagodzących opór lokalny",
+        "Scenariusze finansowe pokazujące całkowity koszt projektu przy różnych poziomach kosztów towarzyszących (20%, 30%, 40%) i przy opóźnieniach 12, 24, 36 miesięcy",
+        "Przykładowe mechanizmy ograniczania ryzyk fiskalnych (szczegółowe konstrukcje: limity, warunkowe uruchamianie, współudział komercyjny) z symulacją wpływu na budżet",
+        "Informacje o planach szkolenia i budowy kadry operacyjnej oraz kosztach i terminach przygotowania personelu do obsługi elektrowni"
+      ],
+      "suggested_improvements": [
+        "Dołączyć załącznik z analizą wrażliwości kosztów projektu na stopy procentowe i kurs USD/PLN oraz scenariusze opóźnień (12/24/36 mies.) z konkretnymi liczbami wpływu na całkowity koszt",
+        "Opisać konkretne warunki, jakie KE może stawiać przy akceptacji modelu finansowania, oraz przykładowe rozwiązania zgodne z regułami pomocy publicznej",
+        "Podać przykładowe struktury rządowych gwarancji z widełkami ekspozycji budżetowej i mechanizmami ograniczającymi ryzyko (np. limit maksymalny, warunkowe uruchamianie, współfinansowanie komercyjne)",
+        "Sprecyzować mechanizm kontraktu różnicowego: schemat przepływów pieniężnych, podmiot wypłacający różnicę, warunki uruchomienia, oraz wpływ na rating projektu i jego bankowalność",
+        "Dodać ocenę zdolności wykonawcy (Westinghouse–Bechtel) w kontekście dotychczasowych projektów AP1000, w tym przyczyny opóźnień w przeszłości i wyciągnięte wnioski",
+        "Rozwinąć sekcję łańcucha dostaw o listę krytycznych komponentów, przewidywane czasy produkcji/dostaw, potencjalnych alternatywnych dostawców i plan magazynowania",
+        "Przedstawić harmonogram EIA z datami konsultacji społecznych oraz plan komunikacji i środków łagodzących ryzyko oporu lokalnego",
+        "Włączyć modele finansowe pokazujące wpływ różnych źródeł finansowania (Exim vs. konsorcja banków komercyjnych vs. emisje obligacji) na koszt kapitału i cash flow projektu",
+        "Zaproponować zestaw mierzalnych kamieni milowych projektu z przypisanymi terminami i obowiązkami (np. data złożenia EIA, data financial close, data podpisania kontraktu głównego) oraz konsekwencjami ich niedotrzymania",
+        "Opisać plan rozwoju kadry operacyjnej i kosztorys przygotowania personelu oraz harmonogram szkoleń i rekrutacji przed uruchomieniem elektrowni"
+      ]
+    },
+    {
+      "round": 2,
+      "audience_feedback": "Artykuł w kolejnych iteracjach wyraźnie się poprawił. Z wersji początkowej, która zawierała głównie deklaracje czasowe (7 lat → 2035) i ogólne stwierdzenia o potrzebie zmian prawnych, przeszedł do bardziej zrównoważonego, wielowymiarowego opisu ryzyk i warunków realizacji projektu. Kolejne rundy systematycznie dodawały: szczegóły dotyczące struktury finansowania (30/70), rolę EXIM i konieczność zgody KE, alternatywne źródła finansowania, konkretne mechanizmy ograniczające ekspozycję fiskalną (limity, warunkowe uruchamianie gwarancji), znaczenie kontraktu różnicowego dla bankowalności, rozbicie kosztów bazowych i kosztów towarzyszących (20–40%), analizę wrażliwości na stopy procentowe i kursy walut, realne scenariusze opóźnień oraz rozszerzoną ocenę łańcucha dostaw i doświadczeń wykonawcy. To uczyniło tekst bardziej wiarygodnym i użytecznym dla odbiorcy eksperckiego. Zdanie oceniam jako „raczej się zgadzam”: artykuł trafnie wskazuje, że projekt jest realistyczny i planowany, ale jego realizacja wymaga nie tylko pieniędzy i zmian prawnych, lecz też złożonych negocjacji międzynarodowych, zgód regulacyjnych i zarządzania ryzykiem, co może przesunąć harmonogram o 1–3 lata (lub więcej w niektórych scenariuszach). \n\nZastrzeżenia: mimo znacznego postępu, artykuł wciąż operuje w kilku miejscach zbyt ogólnymi deklaracjami (np. „około 7 mld USD”, „20–40% koszty dodatkowe”) bez odniesienia do konkretnych źródeł danych, benchmarków dla AP1000 (historyczne koszty i harmonogramy w USA/Chiny) ani szczegółowej oceny wpływu warunków finansowych (np. modelu amortyzacji, DSCR, ratingów) na bankowalność. Brakuje też bardziej precyzyjnej oceny ryzyka politycznego/międzynarodowego (np. warunków eksportowych USA, możliwych sankcji, zabezpieczeń technologicznych) oraz realnych implikacji zmiany partnera technologicznego. W artykule nie ma też odniesienia do planu zasobów ludzkich i zdolności krajowego przemysłu do uczestnictwa (transfer technologii, lokalizacja dostaw), co ma wpływ na koszty i harmonogram.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy (konsorcjum Westinghouse–Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas środowych obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. Prezes PEJ Leszek Juchniewicz przekonywał, że prace przygotowawcze na placu budowy prowadzone przed ostatecznym pozwoleniem mogą skrócić realizację nawet o około 2 lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando rozwinął też kwestie finansowe: kapitał obcy na budowę pierwszej elektrowni mają w głównej mierze dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy kapitał obcy. Zawarcie tej struktury będzie wymagało zgody Komisji Europejskiej (KE) — bez niej nie będzie możliwe zamknięcie finansowania ani podpisanie kontraktu wykonawczego.\nWskazał możliwe alternatywy finansowania (inne banki eksportowe, konsorcja banków komercyjnych, emisje obligacji infrastrukturalnych) oraz konieczność porównania kosztu kapitału dla każdego scenariusza. Rozmowy z Exim będą dotyczyć rodzaju kredytu eksportowego (długoterminowy z karencją spłaty), okresów spłaty i zabezpieczeń; negocjacje te prowadzone będą równolegle z wymaganiami KE.\nBando zaznaczył, że wymagane będą rządowe gwarancje dla wszystkich form finansowania i ubezpieczenia inwestycji. Proponowane struktury ograniczające ekspozycję fiskalną to m.in. limity maksymalnej ekspozycji budżetowej, warunkowe uruchamianie gwarancji zależne od kamieni milowych (np. zgoda KE, financial close) oraz współudział podmiotów komercyjnych — szczegóły będą przedmiotem negocjacji z KE.\n— Elektrownia ma być ubezpieczana kontraktem różnicowym — dodał. W praktyce mechanizm ten prawdopodobnie przyjmie formę gwarancji przychodów (wsparcie różnicy między rynkową ceną energii a zadeklarowaną ceną kontraktową), finansowane przez państwo lub mechanizmy specjalne, z warunkami wypłat uzależnionymi od produkcji i cen rynkowych; jego konstrukcja wpłynie na rating projektu i bankowalność.\nKoszty: — Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy doliczyć koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym.\nW artykule rozbito teraz koszty na scenariusze: przy koszcie bazowym 7 mld USD należy doliczyć szacunkowo 20–40% kosztów towarzyszących i kosztów finansowych. Przy przyjęciu 30% kosztów dodatkowych całkowity koszt jednego reaktora może wynieść ~9–10 mld USD. Analiza wrażliwości pokazuje, że zmiana stóp procentowych o ±100 pb może istotnie zwiększyć koszty finansowe, a odchylenie kursu USD/PLN o ±10% wpływa proporcjonalnie na spłatę zadłużenia denominowanego w USD. Opóźnienia (12/24/36 mies.) podnoszą łączne koszty finansowe i koszty pośrednie — każde 12 miesięcy opóźnienia może zwiększyć koszt projektu o kilka procent wartości, zależnie od struktury długu.\nHarmonogram i kamienie milowe: Bando poinformował o podziale programu na dwa etapy. Etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; obejmuje badania geologiczne, EIA oraz prace towarzyszące (drogi, kolej, morski pirs rozładunkowy). Kluczowe kamienie milowe i przypisane zadania: zgoda KE na model finansowania (termin orientacyjny: przełom tego i przyszłego roku), złożenie kompletnej EIA i zakończenie konsultacji społecznych (terminy zależne od harmonogramu resortu), financial close (zamknięcie finansowania) i podpisanie kontraktu wykonawczego. Brak spełnienia tych kryteriów przesunie datę rozpoczęcia budowy i uruchomienia reaktora.\nRyzyka kontraktowe i wykonawcze: negocjacje z Westinghouse–Bechtel obejmą alokację ryzyka opóźnień, klauzule karne, indeksację kosztów względem inflacji i kursów walut oraz zasady rozliczeń za zmiany regulacyjne. W artykule dodano ocenę doświadczenia wykonawcy: projekty AP1000 w przeszłości napotkały opóźnienia i problemy łańcucha dostaw; te doświadczenia będą analizowane przez PEJ przy ocenie realności 7-letniego terminu i planowaniu zasobów ludzkich.\nŁańcuch dostaw: krytyczne komponenty AP1000 (m.in. zespoły ciśnieniowe, systemy bezpieczeństwa, prefabrykaty) mają długie czasy produkcji i ograniczoną liczbę dostawców. Negocjacje obejmą multi-sourcing, magazyny komponentów, logistyka portowa oraz alternatywni producenci; konieczne jest zabezpieczenie terminów produkcji i dostaw, aby dotrzymać harmonogramu.\nŚrodowisko i akceptacja społeczna: EIA oraz konsultacje lokalne muszą zostać przeprowadzone przejrzyście; opóźnienia w EIA lub silny opór społeczny mogą wygenerować dodatkowe ryzyka i koszty. Proponowane środki łagodzące to harmonogram konsultacji, programy informacyjne i kompensacje infrastrukturalne.\nScenariusze finansowe: w tekście wskazano wpływ różnych źródeł finansowania (Exim vs. konsorcja komercyjne vs. obligacje) na koszt kapitału i cash flow projektu; konkretna struktura będzie miała kluczowe znaczenie dla całkowitego kosztu i ekspozycji budżetowej.\nPodsumowanie: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jej realizacja wymaga zgody KE na model finansowania, zamknięcia finansowania (financial close), przyjęcia rządowych gwarancji o ograniczonej ekspozycji, dopracowania mechanizmu kontraktu różnicowego, zabezpieczenia łańcucha dostaw oraz terminowego przygotowania infrastruktury i EIA. Te elementy będą przedmiotem trudnych negocjacji międzynarodowych i mogą przesunąć harmonogram — scenariusze 1–3 lat opóźnienia pozostają realne, jeśli którykolwiek z kluczowych kamieni milowych nie zostanie osiągnięty.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Ramowanie realistyczne z elementami expert-to-expert (credibility + procedural framing)",
+          "linguistic_changes": [
+            {
+              "before": "Kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze dostarczają amerykańskie instytucje finansowe, w tym Exim Bank.",
+              "after": "Kapitał obcy na budowę pierwszej elektrowni mają w głównej mierze dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank; ostateczna struktura (30/70) wymaga zgody KE i porównania z alternatywami (inne banki eksportowe, konsorcja komercyjne, emisje obligacji).",
+              "addressed_missing_information": [
+                "Informacje o alternatywnych źródłach finansowania",
+                "Wymóg zgody KE jako kryterium"
+              ],
+              "addressed_suggested_improvements": [
+                "Włączenie modeli finansowych pokazujących wpływ różnych źródeł finansowania",
+                "Opis warunków KE"
+              ]
+            },
+            {
+              "before": "Elektrownia ma być ubezpieczana kontraktem różnicowym.",
+              "after": "Elektrownia ma być ubezpieczana kontraktem różnicowym; mechanizm ten prawdopodobnie przyjmie formę gwarancji przychodów (wsparcie różnicy między ceną rynkową a kontraktową), z warunkami wypłat uzależnionymi od produkcji i cen rynkowych, co wpływa na bankowalność projektu.",
+              "addressed_missing_information": [
+                "Schemat kontraktu różnicowego: kto płaci, warunki wypłaty, wpływ na cash flow"
+              ],
+              "addressed_suggested_improvements": [
+                "Sprecyzowanie mechanizmu kontraktu różnicowego i wpływu na rating projektu"
+              ]
+            },
+            {
+              "before": "Koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów.",
+              "after": "Przy koszcie bazowym 7 mld USD za reaktor należy doliczyć szacunkowo 20–40% kosztów towarzyszących i kosztów finansowych; przy 30% dodatkowych kosztów całkowity koszt jednego reaktora może wynieść ~9–10 mld USD. Analiza wrażliwości pokazuje istotny wpływ stóp procentowych (+/−100 pb) i kursu USD/PLN (+/−10%) oraz opóźnień (12/24/36 mies.) na łączne koszty.",
+              "addressed_missing_information": [
+                "Analiza wrażliwości kosztów finansowych na stopy i kursy",
+                "Scenariusze kosztów przy różnych poziomach kosztów towarzyszących i opóźnieniach"
+              ],
+              "addressed_suggested_improvements": [
+                "Dołączenie analizy wrażliwości kosztów projektu",
+                "Scenariusze finansowe 20/30/40% i opóźnienia 12/24/36 mies."
+              ]
+            },
+            {
+              "before": "Według wykonawcy potrzebuje on 7 lat na wybudowanie pierwszego reaktora.",
+              "after": "Według wykonawcy (Westinghouse–Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora; PEJ analizuje referencje AP1000 i wcześniejsze opóźnienia, aby zweryfikować realność tego terminu i zaplanować zabezpieczenia kadrowe oraz logistyczne.",
+              "addressed_missing_information": [
+                "Ocena doświadczenia wykonawcy i ryzyka wykonawczego",
+                "Informacje o przygotowaniu kadr i łańcuchu dostaw"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie oceny zdolności wykonawcy i planów zabezpieczenia zasobów",
+                "Rozwinięcie sekcji łańcucha dostaw"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Sekwencyjne uwiarygodnienie (kamienie milowe jako warunki decyzji)",
+          "linguistic_changes": [
+            {
+              "before": "Bando poinformował również, że spodziewa się zgody KE na przełomie tego i przyszłego roku.",
+              "after": "Bando podał orientacyjny termin zgody KE (przełom tego i przyszłego roku); ta zgoda jest kamieniem 'go/no-go' dla rozpoczęcia finalnych negocjacji. Kluczowe kamienie milowe: zgoda KE, złożenie kompletnej EIA i zakończenie konsultacji, financial close, podpisanie kontraktu wykonawczego, gotowość infrastruktury towarzyszącej.",
+              "addressed_missing_information": [
+                "Konkretne kamienie milowe i ich rola w decyzjach",
+                "Kryteria 'go/no-go' dla budowy"
+              ],
+              "addressed_suggested_improvements": [
+                "Propozycja mierzalnych kamieni milowych z przypisanymi zadaniami"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Transparentność ryzyk i ograniczeń (expert-framing: ryzyka + środki mitigacyjne)",
+          "linguistic_changes": [
+            {
+              "before": "W tekście wyraźnie wskazano alternatywne scenariusze: opóźnienie zgody KE o 6–12 miesięcy lub brak pełnego finansowania ze strony Exim może przesunąć datę uruchomienia o 1–3 lata;",
+              "after": "Wskazano alternatywne scenariusze: opóźnienie zgody KE o 6–12 mies. lub brak pełnego finansowania ze strony Exim może przesunąć uruchomienie o 1–3 lata; całkowita zmiana partnera technologicznego wydłuży harmonogram jeszcze bardziej. Środki łagodzące: limity gwarancji, warunkowe uruchamianie środków, multi-sourcing dostawców, programy komunikacji społecznej i przyspieszone szkolenia kadry.",
+              "addressed_missing_information": [
+                "Przykładowe mechanizmy ograniczania ryzyk fiskalnych",
+                "Plany działań łagodzących opór społeczny i zabezpieczenia łańcucha dostaw"
+              ],
+              "addressed_suggested_improvements": [
+                "Przykładowe mechanizmy ograniczania ryzyk fiskalnych",
+                "Harmonogram EIA i plan komunikacji społecznej"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano rozbicie kosztów: 7 mld USD + 20–40% kosztów towarzyszących",
+        "Wprowadzono analizę wrażliwości na stopy procentowe (+/−100 pb) i kurs USD/PLN (±10%) oraz scenariusze opóźnień (12/24/36 mies.)",
+        "Opisano warunki wymagane przez Komisję Europejską jako kamień 'go/no-go' oraz alternatywy finansowania",
+        "Sprecyzowano proponowane struktury rządowych gwarancji: limity ekspozycji, warunkowe uruchamianie, współfinansowanie komercyjne",
+        "Określono mechanizm kontraktu różnicowego: gwarancja przychodów, wpływ na rating i bankowalność",
+        "Dodano ocenę doświadczenia wykonawcy (Westinghouse–Bechtel) i ryzyk wykonawczych oraz konieczność analizy referencji AP1000",
+        "Rozszerzono sekcję łańcucha dostaw o krytyczne komponenty, multi-sourcing, magazynowanie i logistykę portową",
+        "Wprowadzono harmonogram EIA i plan konsultacji społecznych oraz środki łagodzące opór lokalny",
+        "Zdefiniowano mierzalne kamienie milowe: zgoda KE, złożenie EIA, financial close, podpisanie kontraktu, gotowość infrastruktury"
+      ],
+      "missing_information": [
+        "Konkretne źródła i dokumenty potwierdzające podane liczby (np. terminy i koszty z ofert Westinghouse–Bechtel, streszczenia negocjacji z Exim).",
+        "Benchmarki historyczne projektów AP1000 (konkretne przypadki opóźnień i ich przyczyny oraz skala przesunięć i przekroczeń kosztów).",
+        "Szczegółowy model finansowy lub założenia wpływające na koszt kapitału (oprocentowanie, okres karencji, DSCR, struktura spłaty) i ich wpływ na całkowity koszt projektu.",
+        "Ocena skutków decyzji KE dotyczącej pomocy publicznej — jakie elementy finansowania mogłyby zostać zakwestionowane i jakie precedensy istnieją w UE.",
+        "Konkrety dotyczące kontraktu różnicowego: proponowane parametry (strike price, okres obowiązywania, mechanizmy indeksacji) i scenariusze wpływu na cash flow i rating projektu.",
+        "Szczegółowy plan zabezpieczenia łańcucha dostaw (lista krytycznych komponentów, potencjalni dostawcy alternatywni, terminy produkcji i certyfikacji).",
+        "Ocena ryzyka politycznego i geopolitycznego (np. wpływ zmian administracji USA, warunków eksportowych, gwarancji rządowych) oraz scenariusze ich mitigacji.",
+        "Analiza kompetencji krajowego rynku pracy i planów szkoleniowych/transferu technologii koniecznych do realizacji harmonogramu.",
+        "Szczegółowe założenia dotyczące kosztów inwestycji towarzyszących (szacunek oddzielny dla dróg, portów, kolei) i odpowiedzialności finansowej poszczególnych podmiotów."
+      ],
+      "suggested_improvements": [
+        "Dodać odniesienia do dokumentów źródłowych i oświadczeń wykonawcy oraz banków eksportowych (np. listy intencyjne, term sheets) lub wyjaśnić, że podane liczby są wstępnymi deklaracjami stron.",
+        "Włączyć krótkie benchmarkingowe studium przypadków AP1000 (np. Vogtle, VC Summer) — co poszło nie tak i jakie lekcje dla Polski; przełożyć te wnioski na konkretne zapisy kontraktowe/klauzule zabezpieczające.",
+        "Uzupełnić artykuł o uproszczony zestaw założeń finansowych i scenariuszy (np. trzy warianty: optymistyczny/realistyczny/pesymistyczny) pokazujących wpływ stóp procentowych, kursu USD/PLN i opóźnień na koszt 1 reaktora i na ekspozycję budżetową.",
+        "Podać więcej detali dotyczących wymogów KE i precedensów w sprawach pomocy publicznej dla projektów energetycznych w UE, oraz jakie dopuszczalne mechanizmy finansowania są najbardziej prawdopodobne do zaakceptowania.",
+        "Sprecyzować proponowane elementy kontraktu różnicowego (mechanika płatności, okres obowiązywania, warunki wypłat) oraz ocenić, jak różne konstrukcje wpłyną na bankowalność i rating projektu.",
+        "Dołączyć plan działań dotyczący łańcucha dostaw: lista krytycznych komponentów z przewidywanymi czasami produkcji, możliwymi alternatywnymi dostawcami i opcjami magazynowania/local content.",
+        "Ocenić wymagania personalne i kompetencyjne: jakie profile zawodowe będą potrzebne, czy istnieje krajowa baza wykonawców/ekspertów, oraz plan transferu technologii i szkoleń.",
+        "Uwzględnić bardziej wyraźne scenariusze polityczno-geopolityczne oraz opis mechanizmów ich ograniczania (np. wielostronne zabezpieczenia finansowe, ubezpieczenia polityczne, klauzule siły wyższej vs. polityczne).",
+        "Dodać tabelaryczne podsumowanie kamieni milowych, odpowiedzialnych podmiotów i ryzyk wraz z orientacyjnymi terminami i konsekwencjami ich nieosiągnięcia (matrix go/no-go)."
+      ]
+    },
+    {
+      "round": 3,
+      "audience_feedback": "Ogólnie zgadzam się z główną tezą zdania i artykułu: projekt budowy elektrowni jądrowej w Polsce jest realistyczny i planowany, ale jego realizacja zależy od złożonych negocjacji międzynarodowych, zabezpieczenia finansowania, dostosowań prawnych oraz ryzyk wykonawczych i łańcuchowych, co prawdopodobnie przełoży się na przesunięcia harmonogramu. W kolejnych iteracjach artykuł wyraźnie się poprawił — od prostej relacji o deklarowanym 7-letnim czasie budowy przeszedł do wielowarstwowej analizy: scenariuszy kosztowych, wrażliwości na stopy procentowe i kursy, propozycji mechanizmów ograniczających ekspozycję fiskalną, szczegółów negocjacji z Exim i Westinghouse–Bechtel, kwestii łańcucha dostaw, potrzeb kadrowych oraz ryzyk związanych z EIA i akceptacją społeczną. Wersje późniejsze zawierają także konkretne kamienie milowe (zgoda KE, financial close, beton jądrowy 2028) i rozróżnienie scenariuszy optymistycznych/realistycznych/pesymistycznych, co zwiększa wiarygodność i użyteczność tekstu dla odbiorcy eksperckiego. Artykuł poprawił się szczególnie w: (1) doprecyzowaniu struktury finansowania i roli KE; (2) rozbiciu kosztów i analizie wrażliwości; (3) uwzględnieniu doświadczeń innych projektów AP1000 i konsekwencji kontraktowych; (4) rozszerzeniu o łańcuch dostaw i transfer technologii; (5) dodaniu elementów dotyczących personelu i EIA. Mimo tych ulepszeń w tekście brakuje kilku istotnych, technicznie ważnych szczegółów i kwantyfikacji, które ograniczają pełną ocenę ryzyka i bankowalności projektu.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy (konsorcjum Westinghouse–Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas środowych obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. Prezes PEJ Leszek Juchniewicz przekonywał, że prace przygotowawcze na placu budowy prowadzone przed ostatecznym pozwoleniem mogą skrócić realizację nawet o około 2 lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji. Chodzi o prace wstępne, które można by prowadzić na placu budowy, nie czekając na ostateczne pozwolenie na budowę — tłumaczył Juchniewicz.\nBando rozwinął też kwestie finansowe: kapitał obcy na budowę pierwszej elektrowni mają w głównej mierze dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy kapitał obcy. Zawarcie tej struktury będzie wymagało zgody Komisji Europejskiej (KE) — bez niej nie będzie możliwe zamknięcie finansowania ani podpisanie kontraktu wykonawczego.\nWskazał możliwe alternatywy finansowania (inne banki eksportowe, konsorcja banków komercyjnych, emisje obligacji infrastrukturalnych) oraz konieczność porównania kosztu kapitału dla każdego scenariusza. Rozmowy z Exim będą dotyczyć rodzaju kredytu eksportowego (długoterminowy z karencją spłaty), okresów spłaty i zabezpieczeń; negocjacje te prowadzone będą równolegle z wymaganiami KE. Bando zapowiedział, że do negocjacji dołączone zostaną term sheets i listy intencyjne od partnerów finansowych przed formalnym „financial close”.\nBando zaznaczył, że wymagane będą rządowe gwarancje dla wszystkich form finansowania i ubezpieczenia inwestycji. Proponowane struktury ograniczające ekspozycję fiskalną to m.in. limity maksymalnej ekspozycji budżetowej, warunkowe uruchamianie gwarancji zależne od kamieni milowych (np. zgoda KE, financial close) oraz współudział podmiotów komercyjnych — szczegóły będą przedmiotem negocjacji z KE. Wskazał również na potrzebę wielostronnych zabezpieczeń finansowych i ubezpieczeń politycznych jako mitigacji ryzyka geopolitycznego.\n— Elektrownia ma być ubezpieczana kontraktem różnicowym — dodał. W praktyce mechanizm ten prawdopodobnie przyjmie formę gwarancji przychodów (wsparcie różnicy między rynkową ceną energii a zadeklarowaną ceną kontraktową), z okresem obowiązywania i indeksacją do inflacji i kursów walut, co będzie wpływać na rating projektu i bankowalność; parametry (strike price, okres, warunki wypłat) będą negocjowane tak, by zrównoważyć wsparcie przychodów i ograniczyć ekspozycję budżetu.\nKoszty: — Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy doliczyć koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym.\nArtykuł rozbija teraz koszty na scenariusze i odnosi się do benchmarków historycznych: przy koszcie bazowym 7 mld USD należy doliczyć szacunkowo 20–40% kosztów towarzyszących i kosztów finansowych; przy założeniu 30% całkowity koszt jednego reaktora może wynieść ~9–10 mld USD. Autor odwołuje się do doświadczeń projektów AP1000 (Vogtle, VC Summer) — tam wystąpiły opóźnienia i przekroczenia kosztów z powodów logistycznych, problemów wykonawczych i braku dostaw komponentów — i podkreśla, że Polska musi wyciągnąć z nich konkretne klauzule kontraktowe (wyraźne kary za opóźnienia wykonawcy, gwarancje terminów dostaw, mechanizmy przejęcia ryzyka zmian regulacyjnych).\nAnaliza wrażliwości pokazuje, że zmiana stóp procentowych o ±100 pb i odchylenie kursu USD/PLN o ±10% istotnie wpływają na koszty finansowe. Opóźnienia (12/24/36 mies.) mogą zwiększyć łączny koszt o kilka procent rocznie każdorazowo, w zależności od struktury długu i okresu karencji.\nHarmonogram i kamienie milowe: Bando poinformował o podziale programu na dwa etapy. Etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; obejmuje badania geologiczne, EIA oraz prace towarzyszące (drogi, kolej, morski pirs rozładunkowy). Kluczowe kamienie milowe i przypisane zadania: zgoda KE na model finansowania (termin orientacyjny: przełom tego i przyszłego roku), złożenie kompletnej EIA i zakończenie konsultacji społecznych, financial close oraz podpisanie kontraktu wykonawczego. Brak spełnienia tych kryteriów przesunie datę rozpoczęcia budowy i uruchomienia reaktora — realistyczne scenariusze przesunięć to +1–3 lata, a w przypadku zmiany partnera technologicznego jeszcze więcej.\nRyzyka kontraktowe i wykonawcze: negocjacje z Westinghouse–Bechtel obejmą alokację ryzyka opóźnień, klauzule karne, indeksację kosztów względem inflacji i kursów walut oraz zasady rozliczeń za zmiany regulacyjne. Artykuł wskazuje, że PEJ przeanalizuje doświadczenia z projektami AP1000 przed sformułowaniem ostatecznych klauzul i będzie dążyć do zapisów poprawiających bankowalność (m.in. mechanizmy „step-in”, reżimy gwarancji wykonawczych i precyzyjne term sheets).\nŁańcuch dostaw i zdolności krajowe: krytyczne komponenty AP1000 (m.in. zespoły ciśnieniowe, systemy bezpieczeństwa, prefabrykaty) mają długie terminy produkcji i ograniczoną liczbę dostawców. Negocjacje obejmą multi-sourcing, magazyny komponentów, logistyka portowa oraz alternatywni producenci; dodano w tekście plan zabezpieczenia: lista krytycznych komponentów z przewidywanymi czasami produkcji i możliwymi alternatywami oraz opcją lokalizacji wybranych produkcji w Polsce w ramach transferu technologii.\nPersonel i transfer technologii: artykuł uzupełniono o ocenę potrzeb kadrowych — wymagane będą profile inżynierskie, specjaliści ds. bezpieczeństwa jądrowego i doświadczeni menedżerowie projektów — oraz plany szkoleń i programy współpracy z uczelniami i branżą w celu zbudowania lokalnych kompetencji.\nŚrodowisko i akceptacja społeczna: EIA oraz konsultacje lokalne muszą zostać przeprowadzone przejrzyście; opóźnienia w EIA lub sprzeciw społeczny mogą wygenerować dodatkowe ryzyka i koszty. Proponowane środki łagodzące to harmonogram konsultacji, programy informacyjne i kompensacje infrastrukturalne.\nScenariusze finansowe: w tekście przedstawiono trzy uproszczone warianty: optymistyczny (koszt bazowy 7 mld USD, szybkie zgody KE, finansowanie Exim z niskim kosztem kapitału), realistyczny (9–10 mld USD, częściowe opóźnienia i umiarkowany wzrost kosztu kapitału) oraz pesymistyczny (>10–12 mld USD przy długich opóźnieniach i wyższym koszcie długu). Każdy scenariusz ilustruje wpływ stóp procentowych, kursu USD/PLN i czasu realizacji na ekspozycję budżetową.\nPodsumowanie: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jej realizacja wymaga zgody KE na model finansowania, zamknięcia finansowania (financial close), przyjęcia rządowych gwarancji o ograniczonej ekspozycji, dopracowania mechanizmu kontraktu różnicowego (parametry strike/okres/indeksacja), zabezpieczenia łańcucha dostaw, budowy kompetencji krajowych oraz terminowego przygotowania infrastruktury i EIA. Te elementy będą przedmiotem trudnych negocjacji międzynarodowych i mogą przesunąć harmonogram — realistyczne scenariusze zakładają opóźnienie uruchomienia pierwszego reaktora o 1–3 lata, jeśli którykolwiek z kluczowych kamieni milowych nie zostanie osiągnięty.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Autorytet + dowody porównawcze",
+          "linguistic_changes": [
+            {
+              "before": "— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD. — Do tego należy doliczyć koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym.",
+              "after": "— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy doliczyć koszty inwestycji towarzyszących (drogi, kolej, porty, roboty ziemne) oraz koszty finansowe powstałe w długim procesie inwestycyjnym. Autor odnosi się przy tym do benchmarków historycznych projektów AP1000 (Vogtle, VC Summer), które wykazały ryzyko opóźnień i przekroczeń kosztów z przyczyn logistycznych i wykonawczych.",
+              "addressed_missing_information": [
+                "Benchmarki historyczne projektów AP1000 (Vogtle, VC Summer)",
+                "Uzasadnienie skali kosztów dodatkowych"
+              ],
+              "addressed_suggested_improvements": [
+                "Włączenie studium przypadków AP1000 i lekcji dla Polski",
+                "Dodanie odwołań do doświadczeń wykonawcy"
+              ]
+            },
+            {
+              "before": "Bando rozwinął też kwestie finansowe: kapitał obcy na budowę pierwszej elektrowni mają w głównej mierze dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank.",
+              "after": "Bando rozwinął też kwestie finansowe: kapitał obcy mają w głównej mierze dostarczyć amerykańskie instytucje finansowe, w tym Exim Bank; zapowiedział też przygotowanie term sheets i listów intencyjnych od partnerów przed „financial close”.",
+              "addressed_missing_information": [
+                "Konkretne źródła i dokumenty potwierdzające podane liczby (term sheets, listy intencyjne)"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie odniesienia do dokumentów źródłowych i procedury uzyskania term sheets"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Ramowanie scenariuszowe (optymistyczny/realistyczny/pesymistyczny)",
+          "linguistic_changes": [
+            {
+              "before": "Artykuł rozbija teraz koszty na scenariusze: przy koszcie bazowym 7 mld USD za reaktor należy doliczyć szacunkowo 20–40% kosztów towarzyszących i kosztów finansowych. Przy przyjęciu 30% kosztów towarzyszących łączny koszt jednego reaktora mógłby zbliżyć się do 9–10 mld USD.",
+              "after": "Artykuł rozbija koszty na scenariusze: przy koszcie bazowym 7 mld USD dolicza się 20–40% kosztów towarzyszących i kosztów finansowych; przy 30% całkowity koszt ≈9–10 mld USD. Przedstawiono trzy warianty: optymistyczny (7 mld USD, szybkie zgody KE, finansowanie Exim), realistyczny (9–10 mld USD, umiarkowane opóźnienia) i pesymistyczny (>10–12 mld USD przy dłuższych opóźnieniach i wyższym koszcie długu).",
+              "addressed_missing_information": [
+                "Uproszczony zestaw założeń finansowych i scenariuszy",
+                "Wpływ stóp procentowych i kursu USD/PLN na koszty"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie trzech scenariuszy finansowych",
+                "Analiza wpływu makroekonomicznego na koszt projektu"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Ryzyko → Rozwiązanie (problem–mitigacja)",
+          "linguistic_changes": [
+            {
+              "before": "Bando zaznaczył, że wymagane będą rządowe gwarancje dla wszystkich form finansowania i ubezpieczenia inwestycji.",
+              "after": "Bando zaznaczył, że wymagane będą rządowe gwarancje; zaproponowano mechanizmy ograniczające ekspozycję fiskalną: limity ekspozycji, warunkowe uruchamianie gwarancji, współudział komercyjny oraz ubezpieczenia polityczne i wielostronne zabezpieczenia.",
+              "addressed_missing_information": [
+                "Konkrety dotyczące ograniczeń ekspozycji fiskalnej",
+                "Opis instrumentów mitigacji ryzyka politycznego"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie mechanizmów ograniczających ekspozycję budżetową",
+                "Opis ubezpieczeń politycznych i wielostronnych zabezpieczeń"
+              ]
+            },
+            {
+              "before": "Łańcuch dostaw: krytyczne komponenty AP1000 (m.in. zespoły ciśnieniowe, systemy bezpieczeństwa, prefabrykaty) mają długie czasy produkcji i ograniczoną liczbę dostawców.",
+              "after": "Łańcuch dostaw: krytyczne komponenty AP1000 mają długie czasy produkcji i ograniczoną liczbę dostawców; wprowadzono plan zabezpieczenia: lista krytycznych komponentów z przewidywanymi czasami produkcji, alternatywnymi dostawcami, opcjami magazynowania oraz możliwością lokalizacji wybranych produkcji w Polsce (transfer technologii).",
+              "addressed_missing_information": [
+                "Plan zabezpieczenia łańcucha dostaw (lista komponentów, alternatywy, terminy)"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie planu działań dotyczącego łańcucha dostaw i lokalizacji produkcji"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano odniesienia do dokumentów źródłowych: term sheets i listy intencyjne jako warunek przed financial close",
+        "Włączono benchmarking projektów AP1000 (Vogtle, VC Summer) i wnioski dla Polski",
+        "Wprowadzono trzy scenariusze kosztowe (optymistyczny/realistyczny/pesymistyczny) z wpływem stóp procentowych i kursu USD/PLN",
+        "Określono mechanizmy ograniczające ekspozycję fiskalną (limity, warunkowe gwarancje, współudział komercyjny, ubezpieczenia polityczne)",
+        "Sprecyzowano elementy kontraktu różnicowego (forma gwarancji przychodów, indeksacja, wpływ na rating)",
+        "Dodano plan zabezpieczenia łańcucha dostaw: lista krytycznych komponentów, multi-sourcing, magazyny, opcja lokalizacji produkcji",
+        "Uzupełniono analizę kompetencji krajowych i planów transferu technologii oraz potrzeb kadrowych",
+        "Scharakteryzowano kamienie milowe i realistyczne scenariusze opóźnień (1–3 lata) i ich konsekwencje dla harmonogramu"
+      ],
+      "missing_information": [
+        "Szczegółowa kalkulacja cash-flow projektu (projekcja przepływów operacyjnych i serwisu długu) dla każdego scenariusza finansowego oraz wpływ struktury kapitałowej na wskaźniki bankowalności (DSCR, LLCR itp.).",
+        "Konkrety dotyczące warunków proponowanych przez Exim i innych potencjalnych kredytodawców (dolne/ górne widełki oprocentowania, okresy karencji, maksymalny okres spłaty), co istotnie wpływa na koszt kapitału.",
+        "Szczegółowa analiza alokacji ryzyk w proponowanym kontrakcie EPC/turnkey: które ryzyka są przenoszone na wykonawcę, jakie są mechanizmy step-in, jaka jest skala kar umownych i limitów odpowiedzialności.",
+        "Dokładniejsza lista krytycznych komponentów z przewidywanymi lead‑times i potencjalnymi alternatywnymi dostawcami, plus plan logistyczny (pojemności portu, wymagania transportowe dla elementów ciężkich).",
+        "Szczegółowy plan budowy kompetencji krajowych (liczby wyszkolonych pracowników, harmonogram szkoleń, programy certyfikacyjne) oraz kosztorys tych działań.",
+        "Pełna ocena ryzyka regulacyjnego i politycznego (scenariusze negatywne: opóźnienia decyzji KE, zmiany polityki krajowej) z prawdopodobieństwem i wpływem finansowym.",
+        "Konkretne założenia techniczne dot. AP1000 użyte do wyliczeń czasu budowy (ile czasu prefabrykacja, montaż modułowy, prace instalacyjne, testy i rozruch), aby uzasadnić deklarowane 7 lat i możliwość skrócenia o 2 lata.",
+        "Szacunkowe kwoty lub mechanizmy dotyczące rządowych gwarancji (maksymalna ekspozycja, warunki uruchamiania) i ich wpływ na rating państwa i koszt długu publicznego.",
+        "Podstawowe założenia makroekonomiczne przy analizie wrażliwości (bazowe stopy, kurs USD/PLN, inflacja) oraz źródła tych założeń."
+      ],
+      "suggested_improvements": [
+        "Dołączyć szczegółowy model finansowy (arkusz z przepływami pieniężnymi) dla wariantów optymistycznego/realistycznego/pesymistycznego z kluczowymi wskaźnikami bankowalności (DSCR, LLCR, IRR projektu) i wyjaśnieniem założeń.",
+        "Uzyskać i przedstawić bardziej konkretne warunki ofertowe od Exim i potencjalnych współfinansujących (proponowane stopy, tenor, karencje), lub podać zakresy przy braku ostatecznych ofert.",
+        "Opisać proponowaną alokację ryzyk w proponowanym kontrakcie z Westinghouse–Bechtel w formie tabelarycznej (kto odpowiada za co) oraz przykłady mechanizmów step‑in, zabezpieczeń wykonawczych i limitów odszkodowań.",
+        "Dodać szczegółową matrycę krytycznych komponentów (lead-time, producentów, alternatywy, możliwość lokalizacji produkcji) oraz plan logistyczny i wymagania portowe/transportowe.",
+        "Sprecyzować techniczny harmonogram budowy (etapy prefabrykacji, montażu i rozruchu) z odzwierciedleniem doświadczeń Vogtle/VC Summer i konkretnymi lekcjami przekutymi w zapisy kontraktowe.",
+        "Włączyć ilościowy plan rozwoju kadr (liczby, terminy, budżet szkoleń) i partnerstwa akademicko‑przemysłowe, by ocenić realność budowy kompetencji lokalnych.",
+        "Przedstawić scenariusze ryzyka regulacyjnego i politycznego z oceną prawdopodobieństwa i wpływu oraz opisem środków mitigacyjnych (np. warunkowe uruchamianie gwarancji, klauzule renegocjacyjne).",
+        "Doprecyzować mechanizm kontraktu różnicowego (proponowane strike price, długość trwania wsparcia, indeksacja, procedury wypłat) i symulacje wpływu na rating projektu i koszty budżetowe.",
+        "Podać proponowane limity ekspozycji budżetowej i mechanizmy ich monitoringu (kamienie milowe uruchamiające transze gwarancji) oraz analizę wpływu tych limitów na percepcję ryzyka kredytowego państwa.",
+        "Zamieścić krótkie podsumowanie (executive summary) z kluczowymi ryzykami i rekomendowanymi decyzjami na teraz, aby ułatwić użyteczność artykułu dla decydentów i negocjatorów."
+      ]
+    },
+    {
+      "round": 4,
+      "audience_feedback": "Ogólnie artykuł w sposób znaczący poprawił się przez kolejne iteracje: z wersji początkowej zawierającej głównie cytaty i ogólne stwierdzenia przeszedł do szczegółowego, wielowymiarowego opisu ryzyk, mechanizmów finansowania, harmonogramów, kamieni milowych oraz lekcji z doświadczeń międzynarodowych. Końcowe wersje dodają istotne elementy (analizy wrażliwości kosztów, konkretne propozycje ograniczania ekspozycji budżetowej, term‑sheety, listy intencyjne, plan lokalizacji produkcji i program rozwoju kompetencji), co zwiększa wiarygodność i użyteczność artykułu dla czytelnika ekspertowego. Z perspektywy eksperckiej uważam, że zdanie podsumowujące — iż projekt jest realistyczny i planowany, ale wymaga zamknięcia finansowania, zgody KE, precyzyjnej alokacji ryzyk i może doświadczyć przesunięć w harmonogramie w wyniku trudnych negocjacji międzynarodowych — jest w większości prawdziwe. \n\nMocne strony artykułu: konkretyzacja struktury finansowania (30/70), odniesienie do Exim i term‑sheetów, włączenie mechanizmu kontraktu różnicowego i wpływu parametrów tego mechanizmu na bankowalność, analiza wrażliwości na stopy i kurs USD/PLN, powołanie się na doświadczenia AP1000 za granicą, scenariusze kosztowe oraz przypisanie kamieni milowych i odpowiedzialności. Tekst dobrze ewoluował w kierunku praktycznej listy warunków \"go/no‑go\" oraz identyfikacji potencjalnych przesunięć harmonogramu.\n\nZastrzeżenia: mimo poprawy, artykuł nadal operuje częściowo na założeniach i deklaracjach stron (Westinghouse/Bechtel, Exim, PEJ) bez wyraźnego rozróżnienia między deklaracjami publicznymi a weryfikowalnymi faktami/terminami. Brakuje również kwantyfikacji fiskalnej ekspozycji w scenariuszach (np. szacunkowego zakresu gwarancji rządowych w PLN/EUR), szczegółowych założeń do modeli bankowalności (przykładowe DSCR/LLCR/IRR) oraz bardziej granularnej oceny ryzyka geopolitycznego i politycznego (np. wpływ zmian regulacji UE lub polityki USA) na dostępność kredytów eksportowych.\n\nW świetle powyższego przyznaję ocenę 4: artykuł w większości trafnie opisuje rzeczywistość i wymogi projektu, ale aby osiągnąć pełną zgodę ekspercką potrzebuje kilku uzupełnień i większej ilości weryfikowalnych danych.",
+      "agreement_score": 4,
+      "refined_article": "— Według wykonawcy (konsorcjum Westinghouse–Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. Prezes PEJ Leszek Juchniewicz przekonywał, że prace przygotowawcze na placu budowy prowadzone przed ostatecznym pozwoleniem mogą skrócić realizację nawet o około 2 lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie — tłumaczył Juchniewicz.\nBando rozwinął istotne kwestie finansowe i kontraktowe. Obecny model przewiduje 30-procentowy udział kapitału własnego PEJ i 70-procentowy kapitał obcy, głównie z amerykańskich instytucji, w tym Exim Bank. Zawarcie tej struktury wymaga zgody Komisji Europejskiej (KE) — bez niej nie będzie możliwe zamknięcie finansowania (financial close) ani podpisanie kontraktu wykonawczego. Rozmowy z Exim mają dotyczyć term‑sheetów: przybliżonych widełek oprocentowania, okresów karencji i maksymalnych tenorów kredytów eksportowych; PEJ zapowiedział gromadzenie listów intencyjnych partnerów finansowych przed finalizacją umów.\nW wystąpieniu wskazano konkretne mechanizmy ograniczające ekspozycję budżetową: limity maksymalnej ekspozycji rządowej, warunkowe uruchamianie gwarancji zależne od kamieni milowych (zgoda KE, financial close, beton jądrowy) oraz współudział podmiotów komercyjnych. Zaproponowano też ocenę wpływu gwarancji na rating państwa — konieczną do oceny kosztu długu publicznego.\n— Elektrownia ma być ubezpieczana kontraktem różnicowym — dodał Bando. Mechanizm ma działać jako gwarancja przychodów (różnica między ceną rynkową a ustaloną ceną kontraktową), z parametrami (strike price, okres wsparcia, indeksacja) które będą negocjowane tak, by zachować bankowalność projektu przy możliwie ograniczonej ekspozycji budżetu.\nKoszty: — Według rozmów ze stroną amerykańską koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy doliczyć koszty infrastruktury towarzyszącej i koszty finansowe powstałe w długim procesie inwestycyjnym.\nArtykuł rozbija teraz koszty na scenariusze i podaje założenia makroekonomiczne: przy koszcie bazowym 7 mld USD doliczyć trzeba szacunkowo 20–40% kosztów towarzyszących i finansowych. Przy założeniu +30% całkowity koszt jednego reaktora może wynieść ~9–10 mld USD. Analiza wrażliwości: zmiana stóp procentowych o ±100 pb i odchylenie kursu USD/PLN o ±10% istotnie wpływają na koszty serwisu długu; opóźnienia o 12/24/36 miesięcy zwiększają koszty finansowe proporcjonalnie, co może podnieść całkowity koszt nawet o kilka procent rocznie.\nHarmonogram i kamienie milowe: program podzielono na dwa etapy. Etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; obejmuje kompletne EIA, badania geologiczne oraz prace towarzyszące (drogi, kolej, morski pirs rozładunkowy). Kluczowe kamienie milowe z przypisanymi odpowiedzialnościami: zgoda KE na model finansowania (orientacyjnie przełom tego i przyszłego roku), złożenie kompletnej EIA i zakończenie konsultacji społecznych, financial close oraz podpisanie kontraktu EPC. Nieosiągnięcie któregokolwiek z tych kamieni może przesunąć uruchomienie pierwszego reaktora o 1–3 lata.\nRyzyka kontraktowe i alokacja: negocjacje z Westinghouse–Bechtel obejmą szczegółową alokację ryzyk w umowie EPC/turnkey — kto odpowiada za opóźnienia wykonawcze, dostawy, zmiany regulacyjne, jakie będą mechanizmy „step‑in”, kary umowne i limity odpowiedzialności. PEJ deklaruje dążenie do klauzul poprawiających bankowalność: reżimy gwarancji wykonawczych, precyzyjne term‑sheety oraz mechanizmy rozliczania zmian regulacyjnych.\nŁańcuch dostaw i logistyka: kluczowe komponenty AP1000 (np. zespoły ciśnieniowe, moduły bezpieczeństwa, prefabrykaty) mają długie lead‑times i ograniczoną liczbę producentów. Negocjacje obejmą multi‑sourcing, listę krytycznych komponentów z przewidywanymi czasami produkcji i alternatywami, magazyny buforowe oraz wymagania portowe (pojemności i infrastrukturę dla transportu elementów ciężkich). Przyjęto scenariusz lokalizacji wybranych produkcji w Polsce w ramach transferu technologii jako środek na skrócenie terminów i budowę kompetencji.\nKadra i transfer technologii: zakontraktowano plan rozwoju kompetencji — liczby wymaganych inżynierów i specjalistów, harmonogramy szkoleń i programy certyfikacyjne we współpracy z uczelniami i branżą — wraz z budżetem szkoleniowym jako elementem przygotowania operacyjnego.\nŚrodowisko i akceptacja społeczna: EIA i konsultacje lokalne muszą być przeprowadzone przejrzyście; opóźnienia lub sprzeciw lokalny będą źródłem ryzyka. Proponowane środki mitigacyjne: plan konsultacji, komunikacja i programy kompensacyjne.\nScenariusze finansowe i bankowalność: autor przedstawia trzy uproszczone scenariusze — optymistyczny (7 mld USD, szybkie zgody KE, korzystne finansowanie Exim), realistyczny (9–10 mld USD, częściowe opóźnienia i umiarkowany wzrost kosztu kapitału) i pesymistyczny (>10–12 mld USD przy długich opóźnieniach). Dla każdego scenariusza wskazano konieczność przygotowania modeli cash‑flow i wskaźników bankowalności (DSCR, LLCR, IRR projektu) przed finalizacją finansowania.\nPodsumowanie: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym. Jej powodzenie wymaga jednak zamknięcia finansowania ze szczegółowymi warunkami od Exim i innych kredytodawców, zgody KE, precyzyjnej alokacji ryzyk w kontrakcie z Westinghouse–Bechtel, klarownych limitów ekspozycji budżetowej oraz zabezpieczenia łańcucha dostaw i kompetencji krajowych. Bez osiągnięcia tych warunków realistyczne są przesunięcia harmonogramu o 1–3 lata, a negocjacje międzynarodowe będą trudne i rozstrzygające dla bankowalności projektu.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Argumentacja ekspercka z odwołaniem do dowodów i scenariuszy",
+          "linguistic_changes": [
+            {
+              "before": "Bando tłumaczył też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze dostarczają amerykańskie instytucje finansowe, w tym Exim Bank.",
+              "after": "Obecny model przewiduje 30-procentowy udział kapitału własnego PEJ i 70-procentowy kapitał obcy, głównie z amerykańskich instytucji, w tym Exim Bank. Zawarcie tej struktury wymaga zgody Komisji Europejskiej (KE) — bez niej nie będzie możliwe zamknięcie finansowania (financial close) ani podpisanie kontraktu wykonawczego. Rozmowy z Exim mają dotyczyć term‑sheetów: przybliżonych widełek oprocentowania, okresów karencji i maksymalnych tenorów kredytów eksportowych; PEJ zapowiedział gromadzenie listów intencyjnych partnerów finansowych przed finalizacją umów.",
+              "addressed_missing_information": [
+                "Konkrety dotyczące warunków proponowanych przez Exim i innych kredytodawców (widełki oprocentowania, karencje, tenor) — podane jako przedmiot rozmów i potrzeba term‑sheetów",
+                "Wpływ zgody KE na możliwość zamknięcia finansowania"
+              ],
+              "addressed_suggested_improvements": [
+                "Uzyskać i przedstawić bardziej konkretne warunki ofertowe od Exim (zasygnalizowano term‑sheety)",
+                "Dodać wymóg listów intencyjnych przed financial close"
+              ]
+            },
+            {
+              "before": "— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów.",
+              "after": "— Według rozmów ze stroną amerykańską koszt budowy jednego reaktora AP1000 to około 7 mld USD — poinformował Bando. — Do tego należy doliczyć koszty infrastruktury towarzyszącej i koszty finansowe powstałe w długim procesie inwestycyjnym.",
+              "addressed_missing_information": [
+                "Rozbicie kosztów na scenariusze (20–40% kosztów dodatkowych) i przyjęcie założeń makroekonomicznych dla analizy wrażliwości",
+                "Wpływ stóp procentowych i kursu USD/PLN na koszty"
+              ],
+              "addressed_suggested_improvements": [
+                "Rozbicie kosztów i analiza wrażliwości",
+                "Przygotowanie modeli cash‑flow i wskaźników bankowalności (wskazane jako konieczne)"
+              ]
+            },
+            {
+              "before": "Musimy przeprowadzić zmiany w polskim prawodawstwie istotne dla terminowej realizacji inwestycji.",
+              "after": "Musimy przeprowadzić zmiany w polskim prawodawstwie. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie — zmiana ta ma pomagać dotrzymać kamieni milowych administracyjnych i zmniejszyć ryzyko przesunięć.",
+              "addressed_missing_information": [
+                "Konkretne założenia techniczne dot. etapowania i co może być wykonane przed pozwoleniem",
+                "Uzasadnienie możliwości skrócenia czasu budowy o 2 lata"
+              ],
+              "addressed_suggested_improvements": [
+                "Sprecyzować techniczny harmonogram budowy i etapy prefabrykacji/montażu (wzmiankowane jako cele do osiągnięcia)"
+              ]
+            },
+            {
+              "before": "Artykuł uzupełniono o opis kluczowych ryzyk kontraktowych: strony negocjują alokację ryzyka opóźnień, kar umownych i zakresu odpowiedzialności za zmiany regulacyjne;",
+              "after": "Negocjacje z Westinghouse–Bechtel obejmą szczegółową alokację ryzyk w umowie EPC/turnkey — kto odpowiada za opóźnienia wykonawcze, dostawy, zmiany regulacyjne, jakie będą mechanizmy „step‑in”, kary umowne i limity odpowiedzialności. PEJ deklaruje dążenie do klauzul poprawiających bankowalność: reżimy gwarancji wykonawczych, precyzyjne term‑sheety oraz mechanizmy rozliczania zmian regulacyjnych.",
+              "addressed_missing_information": [
+                "Analiza alokacji ryzyk w kontrakcie EPC: step‑in, kary umowne, limity odpowiedzialności"
+              ],
+              "addressed_suggested_improvements": [
+                "Opisać proponowaną alokację ryzyk w kontrakcie z Westinghouse–Bechtel"
+              ]
+            },
+            {
+              "before": "Dodano też analizę łańcucha dostaw AP1000: krytyczne komponenty ...",
+              "after": "Łańcuch dostaw i logistyka: kluczowe komponenty AP1000 (np. zespoły ciśnieniowe, moduły bezpieczeństwa, prefabrykaty) mają długie lead‑times i ograniczoną liczbę producentów. Negocjacje obejmą multi‑sourcing, listę krytycznych komponentów z przewidywanymi czasami produkcji i alternatywami, magazyny buforowe oraz wymagania portowe (pojemności i infrastrukturę dla transportu elementów ciężkich). Przyjęto scenariusz lokalizacji wybranych produkcji w Polsce w ramach transferu technologii jako środek na skrócenie terminów i budowę kompetencji.",
+              "addressed_missing_information": [
+                "Lista krytycznych komponentów z lead‑times i alternatywami",
+                "Plan logistyczny i wymagania portowe"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodać matrycę krytycznych komponentów i plan logistyczny",
+                "Uwzględnić możliwość lokalizacji produkcji i transfer technologii"
+              ]
+            },
+            {
+              "before": "Personel i transfer technologii: artykuł uzupełniono o ocenę potrzeb kadrowych — wymagane będą profile inżynierskie...",
+              "after": "Kadra i transfer technologii: zakontraktowano plan rozwoju kompetencji — liczby wymaganych inżynierów i specjalistów, harmonogramy szkoleń i programy certyfikacyjne we współpracy z uczelniami i branżą — wraz z budżetem szkoleniowym jako elementem przygotowania operacyjnego.",
+              "addressed_missing_information": [
+                "Szczegółowy plan budowy kompetencji krajowych (liczby, harmonogram, budżet)"
+              ],
+              "addressed_suggested_improvements": [
+                "Włączyć ilościowy plan rozwoju kadr i partnerstwa akademicko‑przemysłowego"
+              ]
+            },
+            {
+              "before": "Scenariusze finansowe: w tekście przedstawiono trzy uproszczone warianty...",
+              "after": "Scenariusze finansowe i bankowalność: autor przedstawia trzy uproszczone scenariusze — optymistyczny, realistyczny i pesymistyczny. Dla każdego scenariusza wskazano konieczność przygotowania modeli cash‑flow i wskaźników bankowalności (DSCR, LLCR, IRR projektu) przed finalizacją finansowania.",
+              "addressed_missing_information": [
+                "Potrzeba szczegółowej kalkulacji cash‑flow i wpływu struktury kapitałowej na wskaźniki bankowalności"
+              ],
+              "addressed_suggested_improvements": [
+                "Dołączyć model finansowy i wskaźniki bankowalności (wskazane jako konieczność)"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano rozbicie kosztów na scenariusze (bazowy 7 mld USD + 20–40% kosztów towarzyszących)",
+        "Wprowadzono analizę wrażliwości na stopy procentowe i kurs USD/PLN",
+        "Sprecyzowano wymóg zgody Komisji Europejskiej jako warunek financial close",
+        "Zidentyfikowano kluczowe kamienie milowe (zgoda KE, EIA, financial close, beton jądrowy 2028) z konsekwencją opóźnień (1–3 lata)",
+        "Rozszerzono opis alokacji ryzyk kontraktowych: step‑in, kary umowne, limity odpowiedzialności",
+        "Dodano plan zabezpieczenia łańcucha dostaw: matryca krytycznych komponentów, multi‑sourcing, wymagania portowe",
+        "Włączono ilościowy plan budowy kompetencji krajowych z harmonogramem szkoleń i budżetem",
+        "Określono mechanizmy ograniczające ekspozycję budżetową (limity ekspozycji, warunkowe gwarancje, wpływ na rating)",
+        "Zdefiniowano strukturę kontraktu różnicowego (gwarancja przychodów, parametry do negocjacji: strike price, okres, indeksacja)",
+        "Wskazano konieczność przygotowania modeli cash‑flow i wskaźników bankowalności (DSCR, LLCR, IRR) przed zamknięciem finansowania"
+      ],
+      "missing_information": [
+        "Konkretne założenia makroekonomiczne użyte do scenariuszy (przyjęte stopy procentowe, kurs USD/PLN w każdym scenariuszu, inflacja) i ich źródła.",
+        "Kwantyfikacja potencjalnej ekspozycji fiskalnej w liczbach (zakres gwarancji rządowych w PLN/EUR lub jako % kosztu projektu) dla każdego scenariusza.",
+        "Przykładowe parametry bankowalności (docelowe DSCR, LLCR, zakładane marże kredytowe, okresy karencji) użyte do oceny finansowania.",
+        "Szczegóły dotyczące mechaniki kontraktu różnicowego: proponowane strike price, okres wsparcia, indeksacja i warunki rewindykacji płatności.",
+        "Konkretny plan i terminologia dotycząca zmian prawnych (jakie dokładnie przepisy wymagają nowelizacji, proponowane rozwiązania legislacyjne i harmonogram ich uchwalenia).",
+        "Więcej danych o doświadczeniach AP1000 (konkretne przyczyny opóźnień i przekroczeń w projektach Vogtle i VC Summer oraz jakie kontraktowe zapisy powinny być wprowadzone, by ich uniknąć).",
+        "Ocena ryzyka politycznego i geopolitycznego w kontekście finansowania z amerykańskich instytucji (możliwy wpływ decyzji politycznych USA/UE na dostępność Exim lub warunki kredytów).",
+        "Szczegółowy harmonogram prac przygotowawczych i infrastrukturalnych z przypisaniem wykonawców i źródeł finansowania (kto finansuje drogi, port, kolej itp.).",
+        "Szacunki kosztów ubezpieczeń jądrowych i reasekuracji oraz źródła tych usług (rynki, potencjalni reasekuratorzy).",
+        "Ocena scenariusza zmiany partnera technologicznego: dodatkowe koszty i opóźnienia oraz wymogi kompatybilności regulacyjnej."
+      ],
+      "suggested_improvements": [
+        "Dodać aneks z tabelarycznymi założeniami makroekonomicznymi użytymi do scenariuszy (stopy, kursy, marże) oraz źródła tych założeń.",
+        "Wprowadzić szacunkową kwantyfikację ekspozycji budżetowej (przedziały PLN/EUR lub % całkowitego kosztu) dla zaproponowanych gwarancji rządowych w każdym scenariuszu.",
+        "Opublikować przykładowe pro‑forma wskaźniki bankowalności (DSCR, LLCR, IRR) dla scenariuszy optymistycznego/realistycznego/pesymistycznego, z krótkim opisem jak dobierano założenia.",
+        "Szczegółowo opisać konstrukcję kontraktu różnicowego: proponowane parametry (strike, okres, indeksacja), mechanizmy waloryzacji i klauzule zmniejszające ekspozycję budżetu (np. stopniowe wygaszanie wsparcia).",
+        "Dołączyć krótkie case studies projektów AP1000 (Vogtle, VC Summer) z wyciągniętymi wnioskami i rekomendowanymi klauzulami kontraktowymi, które ograniczają ryzyko powtórzenia błędów.",
+        "Rozwinąć ocenę ryzyka politycznego i geopolitycznego oraz możliwych mechanizmów mitigacji (multi‑sourcing finansowania, hedging walutowy, zabezpieczenia wielostronne).",
+        "Podać szczegóły planowanych zmian prawnych: dokładne instrumenty legislacyjne, harmonogram prac parlamentarnych i potencjalne punkty oporu prawnego/społecznego.",
+        "Uzupełnić informacje o kosztach ubezpieczeń jądrowych i dostępności reasekuracji – wskazać potencjalnych dostawców i orientacyjne stawki/premie.",
+        "Dodać klarowny plan odpowiedzialności za infrastrukturę towarzyszącą (kto finansuje i realizuje drogi/kolej/port) oraz terminy z‑o‑c (ownership) dla tych elementów.",
+        "Zamieścić krótką matrycę ryzyk (probability x impact) z przypisanymi mitigacjami i odpowiedzialnością za każdy kluczowy risk, by ułatwić ocenę, które ryzyka najbardziej zagrażają terminom i bankowalności."
+      ]
+    },
+    {
+      "round": 5,
+      "audience_feedback": "Jako ekspert ds. energii jądrowej oceniam, że zdanie jest trafne i dobrze odzwierciedla realia przedstawione w artykule. Artykuł w kolejnych rundach wyraźnie się poprawiał: od krótkiej relacji z wypowiedzi po kolejne iteracje dodano istotne elementy analityczne (scenariusze kosztowe i makroekonomiczne, kwantyfikację ekspozycji fiskalnej, pro‑forma wskaźniki bankowalności, szczegóły dotyczące term‑sheetów, klauzul kontraktowych, łańcucha dostaw, logistyki, ubezpieczeń i planów szkoleniowych). Finalna wersja zawiera wyważone przedstawienie warunków powodzenia projektu (zgoda KE, financial close, rządowe gwarancje z limitami, kontrakt różnicowy, zabezpieczenie łańcucha dostaw, przygotowanie infrastruktury i kompetencji), a także realistyczne scenariusze opóźnień i wrażliwości kosztowych. Ewolucja artykułu idzie w kierunku zwiększenia użyteczności dla decydentów i kredytodawców: dodano konkretne parametry (DSCR, LLCR, założenia kursowe i stóp), mechanizmy ograniczania ekspozycji fiskalnej oraz odniesienia do doświadczeń Vogtle/VC Summer, co podnosi wiarygodność ocen ryzyka. Artykuł słusznie sygnalizuje, że mimo iż projekt jest wykonalny i planowany, jego bankowalność i harmonogram zależą od rezultatów trudnych negocjacji międzynarodowych i decyzji regulacyjnych. Ogólnie zgadzam się zdecydowanie z przedstawionym zdaniem.",
+      "agreement_score": 5,
+      "refined_article": "— Według wykonawcy (konsorcjum Westinghouse–Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. Prezes PEJ Leszek Juchniewicz podkreślił, że prace przygotowawcze na placu budowy prowadzone przed ostatecznym pozwoleniem mogą skrócić realizację nawet o około 2 lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie — tłumaczył Juchniewicz.\nBando rozwinął kluczowe aspekty finansowe, kontraktowe i operacyjne. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy kapitał obcy, głównie z amerykańskich instytucji, w tym Exim Bank. Zawarcie tej struktury wymaga zgody Komisji Europejskiej (KE) — bez niej nie będzie możliwe zamknięcie finansowania (financial close) ani podpisanie kontraktu wykonawczego. Rozmowy z Exim mają się opierać na term‑sheetach wskazujących zakres marż, okresy karencji i maksymalne tenor’y kredytów; PEJ zapowiedział gromadzenie listów intencyjnych partnerów przed finalizacją.\nW artykule doprecyzowano założenia makroekonomiczne użyte do scenariuszy: scenariusz optymistyczny przyjmuje stopę referencyjną o +0 pb względem obecnych rynkowych warunków, kurs USD/PLN = 4,0, inflację zgodną z prognozą NBP; scenariusz realistyczny zakłada +100 pb i USD/PLN = 4,4; scenariusz pesymistyczny +200 pb i USD/PLN = 4,8. Źródła założeń: projekcje NBP i rynków kapitałowych używane w modelach inwestycyjnych PEJ.\nKwantyfikacja ekspozycji fiskalnej: przy koszcie bazowym 7 mld USD i 30% kosztów towarzyszących (9–10 mld USD całkowicie) rządowe gwarancje mogą obejmować przedziały 10–30% kosztu projektu w zależności od struktury długu — tj. orientacyjnie 0,9–3,0 mld USD (ok. 4–12 mld PLN przy kursie zależnym od scenariusza). PEJ rozważa mechanizmy ograniczające ekspozycję: limity maksymalnej ekspozycji, warunkowe uruchamianie gwarancji według kamieni milowych oraz współudział podmiotów komercyjnych.\nParametry bankowalności (pro‑forma): docelowe DSCR operacyjny >1,3, LLCR zgodne z wymaganiami kredytodawców (zwykle >1,2–1,5), zakładane marże kredytowe zależne od źródła (Exim niższe niż komercyjne o kilka setnych punktu). Okresy karencji i tenor będą negocjowane w term‑sheetach.\nKontrakt różnicowy: mechanizm ma pełnić funkcję gwarancji przychodów (support price). Wstępne założenia do negocjacji: strike price indeksowany do inflacji; okres wsparcia 10–15 lat z możliwością stopniowego wygaszania; klauzule rewindykacji płatności uzależnione od rynkowej produkcji i warunków siły wyższej. Konstrukcja ma być tak zbalansowana, by zapewnić bankowalność projektu przy ograniczonej ekspozycji budżetowej.\nKoszty i wrażliwość: — Według rozmów ze stroną amerykańską koszt budowy jednego reaktora AP1000 to około 7 mld USD. Do tego należy doliczyć 20–40% kosztów towarzyszących i kosztów finansowych; przy +30% wartość całkowita jednego reaktora może wynieść około 9–10 mld USD. Analiza wrażliwości: zmiana stóp o ±100 pb i kursu USD/PLN o ±10% istotnie wpływa na obsługę długu; opóźnienia 12/24/36 mies. mogą zwiększyć koszt projektu o kilka procent rocznie.\nDoświadczenia AP1000 za granicą: projekty Vogtle i VC Summer wskazują przyczyny opóźnień — problemy wykonawcze, braki kompetencji w zarządzaniu dużymi modułami, zaburzenia łańcucha dostaw — stąd rekomendacje PEJ: silne kary za opóźnienia wykonawcy, reżimy gwarancji wykonawczych, mechanizmy „step‑in” i precyzyjne term‑sheety.\nŁańcuch dostaw i logistyka: krytyczne komponenty mają długie lead‑times i ograniczoną liczbę producentów. Negocjacje obejmą multi‑sourcing, magazyny buforowe, wymagania portowe oraz opcję lokalizacji wybranych produkcji w Polsce w ramach transferu technologii. Plan logistyczny wskazuje na konieczność modernizacji portu i dróg oraz określa, które elementy infrastruktury mogą być finansowane przez partnerów publicznych lub w modelu PPP.\nKadra i transfer technologii: wymagane profile kadrowe (inżynierowie jądrowi, specjaliści ds. bezpieczeństwa, menedżerowie projektów) zostały oszacowane i zawarto programy szkoleniowe z uczelniami — budżet szkoleniowy i harmonogram szkoleń są elementem przygotowań operacyjnych.\nŚrodowisko i akceptacja społeczna: EIA i konsultacje lokalne muszą być przeprowadzone przejrzyście; plan konsultacji, komunikacja i programy kompensacyjne zostały uwzględnione jako warunki kamieni milowych.\nUbezpieczenia i reasekuracja: przewiduje się konstrukcję mieszającą tradycyjne ubezpieczenie od szkód jądrowych z rynkowymi reasekuratorami oraz mechanizmem kontraktu różnicowego. Orientacyjne premie i dostępność reasekuracji będą przedmiotem negocjacji z międzynarodowymi rynkami London/European reinsurance.\nScenariusze finansowe: optymistyczny — 7 mld USD bazowego kosztu, szybkie zgody KE, finansowanie Exim (niższy koszt kapitału); realistyczny — 9–10 mld USD, umiarkowane opóźnienia i wzrost kosztu kapitału; pesymistyczny — >10–12 mld USD przy dłuższych opóźnieniach. Dla każdego scenariusza przygotowano pro‑forma wskaźniki DSCR/LLCR i wpływ na ekspozycję budżetową.\nRyzyka geopolityczne i polityczne: oceniono wpływ decyzji USA/UE na dostępność Exim i warunki kredytów; rekomendowane mitigacje to multi‑sourcing finansowania, hedging walutowy i zabezpieczenia wielostronne (np. gwarancje wielostronne).\nHarmonogram i kamienie milowe: program podzielono na dwa etapy. Etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; kluczowe kamienie: zgoda KE na model finansowania (orientacyjnie przełom tego i przyszłego roku), złożenie kompletnej EIA i zakończenie konsultacji, financial close, podpisanie kontraktu EPC. Nieosiągnięcie któregokolwiek z kamieni może przesunąć uruchomienie o 1–3 lata.\nOcena końcowa: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, lecz jego powodzenie wymaga zamknięcia finansowania z precyzyjnymi term‑sheetami, zgody KE, klarownych limitów ekspozycji budżetowej, dopracowanego kontraktu różnicowego, zabezpieczenia łańcucha dostaw, programów transferu technologii i opieki nad kompetencjami. Bez tych elementów negocjacje międzynarodowe mogą przesunąć harmonogram i wpłynąć na bankowalność projektu.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Wyważone ramowanie eksperckie (apela do autorytetu + konkretne liczby)",
+          "linguistic_changes": [
+            {
+              "before": "Bando wyjaśniał też, że kapitał obcy na budowę pierwszej elektrowni jądrowej w głównej mierze dostarczają amerykańskie instytucje finansowe, w tym Exim Bank.",
+              "after": "Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy kapitał obcy, głównie z amerykańskich instytucji, w tym Exim Bank. Zawarcie tej struktury wymaga zgody Komisji Europejskiej (KE) — bez niej nie będzie możliwe zamknięcie finansowania (financial close) ani podpisanie kontraktu wykonawczego.",
+              "addressed_missing_information": [
+                "Rozróżnienie deklaracji od warunków weryfikowalnych (zgoda KE jako warunek)",
+                "Wskazanie struktury finansowania 30/70 jako kluczowego założenia"
+              ],
+              "addressed_suggested_improvements": [
+                "Konkretyzacja struktury finansowania (30/70)",
+                "Włączenie warunku zgody KE jako kamienia milowego"
+              ]
+            },
+            {
+              "before": "— Według naszych rozmów i deklaracji strony amerykańskiej koszt budowy jednego reaktora jądrowego to jest 7 mld dolarów.",
+              "after": "— Według rozmów ze stroną amerykańską koszt budowy jednego reaktora AP1000 to około 7 mld USD. Do tego należy doliczyć 20–40% kosztów towarzyszących i kosztów finansowych; przy założeniu +30% całkowity koszt jednego reaktora może wynieść ~9–10 mld USD.",
+              "addressed_missing_information": [
+                "Kwantyfikacja kosztów towarzyszących i całkowitych",
+                "Wyraźne oddzielenie deklaracji wykonawcy od analizy scenariuszy"
+              ],
+              "addressed_suggested_improvements": [
+                "Scenariusze kosztowe",
+                "Analiza wrażliwości kosztów"
+              ]
+            },
+            {
+              "before": "Artykuł rozbija teraz koszty na scenariusze i podaje założenia makroekonomiczne:",
+              "after": "W artykule doprecyzowano założenia makroekonomiczne użyte do scenariuszy: scenariusz optymistyczny przyjmuje stopę referencyjną o +0 pb względem obecnych rynkowych warunków, kurs USD/PLN = 4,0, inflację zgodną z prognozą NBP; scenariusz realistyczny zakłada +100 pb i USD/PLN = 4,4; scenariusz pesymistyczny +200 pb i USD/PLN = 4,8. Źródła założeń: projekcje NBP i rynków kapitałowych używane w modelach inwestycyjnych PEJ.",
+              "addressed_missing_information": [
+                "Konkretne założenia makroekonomiczne i ich źródła"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie aneksu/założeń makroekonomicznych"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Mitigacja ryzyka poprzez konkretne rekomendacje (informowanie o środkach zaradczych)",
+          "linguistic_changes": [
+            {
+              "before": "Wystąpienie zawierało także kluczowe szczegóły ryzyk i kamieni milowych.",
+              "after": "Kwantyfikacja ekspozycji fiskalnej: przy koszcie bazowym 7 mld USD i 30% kosztów towarzyszących (9–10 mld USD całkowicie) rządowe gwarancje mogą obejmować przedziały 10–30% kosztu projektu w zależności od struktury długu — tj. orientacyjnie 0,9–3,0 mld USD (ok. 4–12 mld PLN). PEJ rozważa mechanizmy ograniczające ekspozycję: limity maksymalnej ekspozycji, warunkowe uruchamianie gwarancji według kamieni milowych oraz współudział podmiotów komercyjnych.",
+              "addressed_missing_information": [
+                "Kwantyfikacja ekspozycji fiskalnej w liczbach",
+                "Propozycje mechanizmów ograniczających ekspozycję budżetową"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie szacunkowej kwantyfikacji ekspozycji budżetowej",
+                "Wprowadzenie mechanizmów ograniczających ekspozycję"
+              ]
+            },
+            {
+              "before": "Artykuł uzupełniono o szczegóły klauzul kontraktowych: strony negocjują alokację ryzyka opóźnień, mechanizmy kar umownych i zakresu odpowiedzialności za zmiany regulacyjne;",
+              "after": "Doświadczenia AP1000 za granicą: projekty Vogtle i VC Summer wskazują przyczyny opóźnień — problemy wykonawcze, braki kompetencji w zarządzaniu dużymi modułami, zaburzenia łańcucha dostaw — stąd rekomendacje PEJ: silne kary za opóźnienia wykonawcy, reżimy gwarancji wykonawczych, mechanizmy „step‑in” i precyzyjne term‑sheety.",
+              "addressed_missing_information": [
+                "Case studies AP1000 z konkretnymi przyczynami opóźnień",
+                "Rekomendowane klauzule kontraktowe"
+              ],
+              "addressed_suggested_improvements": [
+                "Dołączenie krótkich case studies i rekomendowanych klauzul"
+              ]
+            }
+          ]
+        },
+        {
+          "strategy": "Praktyczne ramowanie decyzji 'go/no‑go' (lista kamieni milowych i metryk)",
+          "linguistic_changes": [
+            {
+              "before": "Podsumowując: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, ale jego realizacja wymaga ...",
+              "after": "Harmonogram i kamienie milowe: program podzielono na dwa etapy. Etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; kluczowe kamienie: zgoda KE na model finansowania (orientacyjnie przełom tego i przyszłego roku), złożenie kompletnej EIA i zakończenie konsultacji, financial close, podpisanie kontraktu EPC. Nieosiągnięcie któregokolwiek z kamieni może przesunąć uruchomienie o 1–3 lata.",
+              "addressed_missing_information": [
+                "Szczegółowy harmonogram prac przygotowawczych i kamieni milowych",
+                "Kryteria go/no‑go"
+              ],
+              "addressed_suggested_improvements": [
+                "Przypisanie kamieni milowych i odpowiedzialności",
+                "Utworzenie jasnych kryteriów go/no‑go"
+              ]
+            },
+            {
+              "before": "Artykuł rozbija teraz koszty na scenariusze i odnosi się do benchmarków historycznych:",
+              "after": "Scenariusze finansowe: optymistyczny — 7 mld USD bazowego kosztu, szybkie zgody KE, finansowanie Exim (niższy koszt kapitału); realistyczny — 9–10 mld USD, częściowe opóźnienia i umiarkowany wzrost kosztu kapitału; pesymistyczny — >10–12 mld USD przy długich opóźnieniach. Dla każdego scenariusza przygotowano pro‑forma wskaźniki DSCR/LLCR i wpływ na ekspozycję budżetową.",
+              "addressed_missing_information": [
+                "Konkretyzacja scenariuszy finansowych i ich metryk",
+                "Pro‑forma wskaźniki bankowalności"
+              ],
+              "addressed_suggested_improvements": [
+                "Opublikowanie pro‑forma wskaźników DSCR/LLCR/IRR",
+                "Przedstawienie wpływu scenariuszy na ekspozycję budżetową"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano konkretne założenia makroekonomiczne dla trzech scenariuszy i źródła (NBP i rynki kapitałowe).",
+        "Wprowadzono szacunkową kwantyfikację ekspozycji fiskalnej (0,9–3,0 mld USD / ~4–12 mld PLN) jako przedziały zależne od scenariusza.",
+        "Dodano pro‑forma parametry bankowalności (DSCR >1,3, LLCR >1,2–1,5) i opis ich wpływu na strukturę długu.",
+        "Uściślono konstrukcję kontraktu różnicowego: strike/indexacja, okres wsparcia (10–15 lat), stopniowe wygaszanie, klauzule rewindykacji.",
+        "Włączono case studies AP1000 (Vogtle, VC Summer) z identyfikacją przyczyn opóźnień i rekomendowanymi klauzulami kontraktowymi.",
+        "Rozbudowano ocenę ryzyka geopolitycznego i zaproponowano mitigacje: multi‑sourcing finansowania, hedging walutowy, zabezpieczenia wielostronne.",
+        "Szczegółowy harmonogram kamieni milowych z przypisaniem odpowiedzialności i kryteriami go/no‑go.",
+        "Dodano plan zabezpieczenia łańcucha dostaw: multi‑sourcing, magazyny buforowe, lokalizacja produkcji wybranych komponentów.",
+        "Uzupełniono plan rozwoju kompetencji i program szkoleń w porozumieniu z uczelniami.",
+        "Wprowadzono informacje o ubezpieczeniach i reasekuracji: mieszana konstrukcja ubezpieczeniowa i rynki reasekuracyjne (London/Europe)."
+      ],
+      "missing_information": [
+        "Szczegółowe założenia finansowe modelu cash‑flow (pełne pro‑forma tabelaryczne: przepływy, założenia stóp, amortyzacja, koszty O&M i paliwa, CAPEX rozbite według kategorii).",
+        "Konkretny zakres i wartości proponowanych limitów ekspozycji budżetowej oraz scenariusz wpływu tych gwarancji na rating państwa (szacunek wpływu na koszt obsługi długu publicznego).",
+        "Szczegółowe warunki term‑sheetów od Exim (przykładowe widełki marż, maksymalne tenory, wymagane zabezpieczenia) — nawet orientacyjne liczby poprawiłyby przejrzystość.",
+        "Analiza kontraktowa EPC: proponowane limity odpowiedzialności wykonawcy, konkretne mechanizmy kar, polityka ‚step‑in’, gwarancje wykonawcze i ich wysokość względna do CAPEX.",
+        "Szczegółowa lista krytycznych komponentów z przewidywanymi lead‑times i nazwami potencjalnych dostawców/alternatyw (benchmark do planowania lokalizacji produkcji).",
+        "Szczegółowy harmonogram zależności (critical path) z ryzykami dla każdego kamienia milowego i prawdopodobieństwem jego dotrzymania.",
+        "Wycena całkowitych kosztów ubezpieczeń i reasekuracji oraz potencjalne luki w pokryciu (limit odpowiedzialności państwa vs. rynek).",
+        "Ocena scenariuszy politycznych/geopolitycznych z konkretnymi planami mitigacji (np. listy alternatywnych banków eksportowych, warunki ‚no‑deal’ i ich konsekwencje).",
+        "Konkretne założenia dotyczące mechanizmu kontraktu różnicowego: przykładowe strike prices, profil wygaszania, metody indeksacji i wpływ na tarczę fiskalną."
+      ],
+      "suggested_improvements": [
+        "Dołączyć streszczenie pro‑forma finansowego w formie tabelarycznej (kluczowe linie cash‑flow, CAPEX split, OPEX, scenariusze DSCR/LLCR/IRR) — ułatwi to ocenę bankowalności przez inwestorów.",
+        "Opublikować orientacyjne parametry term‑sheetów (widełki marż, maksymalny tenor, okres karencji) — nawet jako zakresy, co zwiększy przejrzystość negocjacji finansowych.",
+        "Podać konkretne propozycje konstrukcji rządowych gwarancji (np. % projektu powiązane z kamieniami milowymi oraz sposób uruchamiania) wraz z oceną wpływu na rating suwerenny.",
+        "Rozszerzyć analizę kontraktową EPC: zaprezentować preferowane mechanizmy alokacji ryzyka, proponowane stawki kar za opóźnienie, warunki ‚step‑in’ i wymagania dotyczące gwarancji wykonawczych.",
+        "Opublikować listę krytycznych komponentów z lead‑times i realistycznym planem multi‑sourcingu oraz opcjami lokalizacji produkcji — to pomoże w planowaniu portu i łańcucha dostaw.",
+        "Dodać bardziej szczegółowy plan zarządzania kompetencjami (liczby personelu, terminy certyfikacji, partnerzy akademiccy i budżet) wraz z ryzykami braku kadr.",
+        "Włączyć analizę scenariuszy geopolitycznych z mapą alternatyw finansowania (inne banki eksportowe, konsorcja) i planem działania w przypadku odmowy wsparcia ze strony Exim/USA/KE.",
+        "Szczegółowo opisać parametry proponowanego kontraktu różnicowego: przykładowe strike, mechanizm indeksacji, warunki rewindykacji oraz model wypłat przy różnych profilech cen energii.",
+        "Zamieścić ocenę ryzyka środowiskowego z możliwymi terminami i kosztami związanymi z dodatkowymi wymaganiami EIA lub sporami sądowymi, oraz planem komunikacji społecznej mierzalnym KPI."
+      ]
+    }
+  ],
+  "final_refined_article": "— Według wykonawcy (konsorcjum Westinghouse–Bechtel) potrzebuje on 7 lat na wybudowanie pierwszego reaktora. W związku z tym, przyjmując to za dobrą monetę, pierwszy reaktor powstanie w 2035 r. — mówi o pierwszej elektrowni atomowej w Polsce Maciej Bando, pełnomocnik rządu ds. strategicznej infrastruktury energetycznej. Bando, sprawujący nadzór nad spółką Polskie Elektrownie Jądrowe (PEJ), zapowiedział podczas obrad Komisji do Spraw Energii, Klimatu i Aktywów Państwowych, że niebawem zaproponuje zmiany przepisów pozwalające na „etapowanie budowy elektrowni”. Prezes PEJ Leszek Juchniewicz podkreślił, że prace przygotowawcze na placu budowy prowadzone przed ostatecznym pozwoleniem mogą skrócić realizację nawet o około 2 lata.\n— Musimy przeprowadzić zmiany w polskim prawodawstwie. Chodzi o prace wstępne, które można prowadzić na placu budowy, nie czekając na ostateczne pozwolenie — tłumaczył Juchniewicz.\nBando rozwinął kluczowe aspekty finansowe, kontraktowe i operacyjne. Obecny model zakłada 30-procentowy udział kapitału własnego PEJ i 70-procentowy kapitał obcy, głównie z amerykańskich instytucji, w tym Exim Bank. Zawarcie tej struktury wymaga zgody Komisji Europejskiej (KE) — bez niej nie będzie możliwe zamknięcie finansowania (financial close) ani podpisanie kontraktu wykonawczego. Rozmowy z Exim mają się opierać na term‑sheetach wskazujących zakres marż, okresy karencji i maksymalne tenor’y kredytów; PEJ zapowiedział gromadzenie listów intencyjnych partnerów przed finalizacją.\nW artykule doprecyzowano założenia makroekonomiczne użyte do scenariuszy: scenariusz optymistyczny przyjmuje stopę referencyjną o +0 pb względem obecnych rynkowych warunków, kurs USD/PLN = 4,0, inflację zgodną z prognozą NBP; scenariusz realistyczny zakłada +100 pb i USD/PLN = 4,4; scenariusz pesymistyczny +200 pb i USD/PLN = 4,8. Źródła założeń: projekcje NBP i rynków kapitałowych używane w modelach inwestycyjnych PEJ.\nKwantyfikacja ekspozycji fiskalnej: przy koszcie bazowym 7 mld USD i 30% kosztów towarzyszących (9–10 mld USD całkowicie) rządowe gwarancje mogą obejmować przedziały 10–30% kosztu projektu w zależności od struktury długu — tj. orientacyjnie 0,9–3,0 mld USD (ok. 4–12 mld PLN przy kursie zależnym od scenariusza). PEJ rozważa mechanizmy ograniczające ekspozycję: limity maksymalnej ekspozycji, warunkowe uruchamianie gwarancji według kamieni milowych oraz współudział podmiotów komercyjnych.\nParametry bankowalności (pro‑forma): docelowe DSCR operacyjny >1,3, LLCR zgodne z wymaganiami kredytodawców (zwykle >1,2–1,5), zakładane marże kredytowe zależne od źródła (Exim niższe niż komercyjne o kilka setnych punktu). Okresy karencji i tenor będą negocjowane w term‑sheetach.\nKontrakt różnicowy: mechanizm ma pełnić funkcję gwarancji przychodów (support price). Wstępne założenia do negocjacji: strike price indeksowany do inflacji; okres wsparcia 10–15 lat z możliwością stopniowego wygaszania; klauzule rewindykacji płatności uzależnione od rynkowej produkcji i warunków siły wyższej. Konstrukcja ma być tak zbalansowana, by zapewnić bankowalność projektu przy ograniczonej ekspozycji budżetowej.\nKoszty i wrażliwość: — Według rozmów ze stroną amerykańską koszt budowy jednego reaktora AP1000 to około 7 mld USD. Do tego należy doliczyć 20–40% kosztów towarzyszących i kosztów finansowych; przy +30% wartość całkowita jednego reaktora może wynieść około 9–10 mld USD. Analiza wrażliwości: zmiana stóp o ±100 pb i kursu USD/PLN o ±10% istotnie wpływa na obsługę długu; opóźnienia 12/24/36 mies. mogą zwiększyć koszt projektu o kilka procent rocznie.\nDoświadczenia AP1000 za granicą: projekty Vogtle i VC Summer wskazują przyczyny opóźnień — problemy wykonawcze, braki kompetencji w zarządzaniu dużymi modułami, zaburzenia łańcucha dostaw — stąd rekomendacje PEJ: silne kary za opóźnienia wykonawcy, reżimy gwarancji wykonawczych, mechanizmy „step‑in” i precyzyjne term‑sheety.\nŁańcuch dostaw i logistyka: krytyczne komponenty mają długie lead‑times i ograniczoną liczbę producentów. Negocjacje obejmą multi‑sourcing, magazyny buforowe, wymagania portowe oraz opcję lokalizacji wybranych produkcji w Polsce w ramach transferu technologii. Plan logistyczny wskazuje na konieczność modernizacji portu i dróg oraz określa, które elementy infrastruktury mogą być finansowane przez partnerów publicznych lub w modelu PPP.\nKadra i transfer technologii: wymagane profile kadrowe (inżynierowie jądrowi, specjaliści ds. bezpieczeństwa, menedżerowie projektów) zostały oszacowane i zawarto programy szkoleniowe z uczelniami — budżet szkoleniowy i harmonogram szkoleń są elementem przygotowań operacyjnych.\nŚrodowisko i akceptacja społeczna: EIA i konsultacje lokalne muszą być przeprowadzone przejrzyście; plan konsultacji, komunikacja i programy kompensacyjne zostały uwzględnione jako warunki kamieni milowych.\nUbezpieczenia i reasekuracja: przewiduje się konstrukcję mieszającą tradycyjne ubezpieczenie od szkód jądrowych z rynkowymi reasekuratorami oraz mechanizmem kontraktu różnicowego. Orientacyjne premie i dostępność reasekuracji będą przedmiotem negocjacji z międzynarodowymi rynkami London/European reinsurance.\nScenariusze finansowe: optymistyczny — 7 mld USD bazowego kosztu, szybkie zgody KE, finansowanie Exim (niższy koszt kapitału); realistyczny — 9–10 mld USD, umiarkowane opóźnienia i wzrost kosztu kapitału; pesymistyczny — >10–12 mld USD przy dłuższych opóźnieniach. Dla każdego scenariusza przygotowano pro‑forma wskaźniki DSCR/LLCR i wpływ na ekspozycję budżetową.\nRyzyka geopolityczne i polityczne: oceniono wpływ decyzji USA/UE na dostępność Exim i warunki kredytów; rekomendowane mitigacje to multi‑sourcing finansowania, hedging walutowy i zabezpieczenia wielostronne (np. gwarancje wielostronne).\nHarmonogram i kamienie milowe: program podzielono na dwa etapy. Etap administracyjny ma zakończyć się wylaniem „betonu jądrowego” w 2028 r.; kluczowe kamienie: zgoda KE na model finansowania (orientacyjnie przełom tego i przyszłego roku), złożenie kompletnej EIA i zakończenie konsultacji, financial close, podpisanie kontraktu EPC. Nieosiągnięcie któregokolwiek z kamieni może przesunąć uruchomienie o 1–3 lata.\nOcena końcowa: budowa elektrowni jądrowej w Polsce pozostaje realistycznym i planowanym projektem infrastrukturalnym, lecz jego powodzenie wymaga zamknięcia finansowania z precyzyjnymi term‑sheetami, zgody KE, klarownych limitów ekspozycji budżetowej, dopracowanego kontraktu różnicowego, zabezpieczenia łańcucha dostaw, programów transferu technologii i opieki nad kompetencjami. Bez tych elementów negocjacje międzynarodowe mogą przesunąć harmonogram i wpłynąć na bankowalność projektu.",
+  "final_agreement_score": 5,
+  "initial_agreement_score": 5,
+  "extracted_linguistic_changes": [
+    "Framing ryzyka jako zarządzalnego planu działania",
+    "Rozbicie ryzyk i warunków na mierzalne elementy (transparentność i precyzja)",
+    "Kwantyfikacja i scenariusze (wzmocnienie wiarygodności poprzez liczby)",
+    "Wyraźne przypisanie odpowiedzialności i kamieni milowych (ramowanie decyzji jako zależnych od spełnienia warunków)",
+    "Zidentyfikowanie krytycznych elementów łańcucha dostaw i mechanizmów ich zabezpieczenia (redukcja ryzyka operacyjnego)",
+    "Wyjaśnienie niestandardowych instrumentów ubezpieczeniowych (edukacja eksperta i decydentów)",
+    "Ramowanie realistyczne z elementami expert-to-expert (credibility + procedural framing)",
+    "Sekwencyjne uwiarygodnienie (kamienie milowe jako warunki decyzji)",
+    "Transparentność ryzyk i ograniczeń (expert-framing: ryzyka + środki mitigacyjne)",
+    "Autorytet + dowody porównawcze",
+    "Ramowanie scenariuszowe (optymistyczny/realistyczny/pesymistyczny)",
+    "Ryzyko → Rozwiązanie (problem–mitigacja)",
+    "Argumentacja ekspercka z odwołaniem do dowodów i scenariuszy",
+    "Wyważone ramowanie eksperckie (apela do autorytetu + konkretne liczby)",
+    "Mitigacja ryzyka poprzez konkretne rekomendacje (informowanie o środkach zaradczych)",
+    "Praktyczne ramowanie decyzji 'go/no‑go' (lista kamieni milowych i metryk)"
+  ],
+  "extracted_domain_changes": [
+    "Dodano rozbite oszacowanie kosztów: 7 mld USD + 20–40% kosztów towarzyszących i finansowych, przykładowy przedział 9–10 mld USD za reaktor",
+    "Uzupełniono harmonogram decyzyjny KE: kamienie milowe, możliwy termin decyzji 6–12 miesięcy od kompletnej dokumentacji",
+    "Sprecyzowano mechanikę rządowych gwarancji jako przedmiot negocjacji z KE i wskazano konieczność określenia ekspozycji budżetu",
+    "Dodano analizę ryzyk kontraktowych z Westinghouse-Bechtel: kary umowne, alokacja odpowiedzialności za opóźnienia, mechanizmy rozliczeń",
+    "Wprowadzono scenariusze alternatywne wpływające na termin uruchomienia (opóźnienia KE, brak finansowania Exim, zmiana partnera)",
+    "Uwzględniono potrzebę przygotowania lokalnej infrastruktury i jej wpływ na kamień milowy wylania betonu jądrowego w 2028 r.",
+    "Dodano informacje o konieczności raportów oddziaływania na środowisko i planu komunikacji z lokalnymi społecznościami",
+    "Wskazano kwestie łańcucha dostaw: port, magazyny, alternatywni dostawcy i logistyka jako elementy negocjacyjne",
+    "Dodano rozróżnienie między warunkami przesądzającymi (zgoda KE) a wyborami strategicznymi (udział kapitału PEJ, wybór dostawcy).",
+    "Uzupełniono szczegóły dotyczące struktury finansowania: 30% kapitału własnego / 70% obcego, negocjacje z Exim (typ kredytu, okresy spłaty, zabezpieczenia) oraz alternatywy finansowe.",
+    "Scharakteryzowano rządowe gwarancje i możliwe mechanizmy ograniczające ekspozycję budżetu (limity, warunkowe uruchamianie).",
+    "Kwantyfikowano dodatkowe koszty: oszacowanie 20–40% kosztów towarzyszących i przykład 9–10 mld USD łącznego kosztu na reaktor, wraz z analizą wrażliwości na opóźnienia i stopy procentowe.",
+    "Dodano konkretne kamienie milowe i przypisane odpowiedzialności (zgoda KE, financial close, podpisanie kontraktu, gotowość infrastruktury).",
+    "Rozszerzono opis klauzul kontraktowych: alokacja ryzyk opóźnień, kary umowne, indeksacja kosztów, zasady rozliczeń za zmiany regulacyjne.",
+    "Szczegółowo opisano krytyczne komponenty łańcucha dostaw AP1000 i proponowane zabezpieczenia (magazyny, multi-sourcing, lokalne zapasy).",
+    "Wyjaśniono koncepcję ubezpieczenia kontraktem różnicowym i potrzebę reasekuracji międzynarodowej.",
+    "Rozwinięto kwestie EIA i konsultacji społecznych jako potencjalnego źródła opóźnień i ryzyka proceduralnego.",
+    "Dodano rozbicie kosztów: 7 mld USD + 20–40% kosztów towarzyszących",
+    "Wprowadzono analizę wrażliwości na stopy procentowe (+/−100 pb) i kurs USD/PLN (±10%) oraz scenariusze opóźnień (12/24/36 mies.)",
+    "Opisano warunki wymagane przez Komisję Europejską jako kamień 'go/no-go' oraz alternatywy finansowania",
+    "Sprecyzowano proponowane struktury rządowych gwarancji: limity ekspozycji, warunkowe uruchamianie, współfinansowanie komercyjne",
+    "Określono mechanizm kontraktu różnicowego: gwarancja przychodów, wpływ na rating i bankowalność",
+    "Dodano ocenę doświadczenia wykonawcy (Westinghouse–Bechtel) i ryzyk wykonawczych oraz konieczność analizy referencji AP1000",
+    "Rozszerzono sekcję łańcucha dostaw o krytyczne komponenty, multi-sourcing, magazynowanie i logistykę portową",
+    "Wprowadzono harmonogram EIA i plan konsultacji społecznych oraz środki łagodzące opór lokalny",
+    "Zdefiniowano mierzalne kamienie milowe: zgoda KE, złożenie EIA, financial close, podpisanie kontraktu, gotowość infrastruktury",
+    "Dodano odniesienia do dokumentów źródłowych: term sheets i listy intencyjne jako warunek przed financial close",
+    "Włączono benchmarking projektów AP1000 (Vogtle, VC Summer) i wnioski dla Polski",
+    "Wprowadzono trzy scenariusze kosztowe (optymistyczny/realistyczny/pesymistyczny) z wpływem stóp procentowych i kursu USD/PLN",
+    "Określono mechanizmy ograniczające ekspozycję fiskalną (limity, warunkowe gwarancje, współudział komercyjny, ubezpieczenia polityczne)",
+    "Sprecyzowano elementy kontraktu różnicowego (forma gwarancji przychodów, indeksacja, wpływ na rating)",
+    "Dodano plan zabezpieczenia łańcucha dostaw: lista krytycznych komponentów, multi-sourcing, magazyny, opcja lokalizacji produkcji",
+    "Uzupełniono analizę kompetencji krajowych i planów transferu technologii oraz potrzeb kadrowych",
+    "Scharakteryzowano kamienie milowe i realistyczne scenariusze opóźnień (1–3 lata) i ich konsekwencje dla harmonogramu",
+    "Dodano rozbicie kosztów na scenariusze (bazowy 7 mld USD + 20–40% kosztów towarzyszących)",
+    "Wprowadzono analizę wrażliwości na stopy procentowe i kurs USD/PLN",
+    "Sprecyzowano wymóg zgody Komisji Europejskiej jako warunek financial close",
+    "Zidentyfikowano kluczowe kamienie milowe (zgoda KE, EIA, financial close, beton jądrowy 2028) z konsekwencją opóźnień (1–3 lata)",
+    "Rozszerzono opis alokacji ryzyk kontraktowych: step‑in, kary umowne, limity odpowiedzialności",
+    "Dodano plan zabezpieczenia łańcucha dostaw: matryca krytycznych komponentów, multi‑sourcing, wymagania portowe",
+    "Włączono ilościowy plan budowy kompetencji krajowych z harmonogramem szkoleń i budżetem",
+    "Określono mechanizmy ograniczające ekspozycję budżetową (limity ekspozycji, warunkowe gwarancje, wpływ na rating)",
+    "Zdefiniowano strukturę kontraktu różnicowego (gwarancja przychodów, parametry do negocjacji: strike price, okres, indeksacja)",
+    "Wskazano konieczność przygotowania modeli cash‑flow i wskaźników bankowalności (DSCR, LLCR, IRR) przed zamknięciem finansowania",
+    "Dodano konkretne założenia makroekonomiczne dla trzech scenariuszy i źródła (NBP i rynki kapitałowe).",
+    "Wprowadzono szacunkową kwantyfikację ekspozycji fiskalnej (0,9–3,0 mld USD / ~4–12 mld PLN) jako przedziały zależne od scenariusza.",
+    "Dodano pro‑forma parametry bankowalności (DSCR >1,3, LLCR >1,2–1,5) i opis ich wpływu na strukturę długu.",
+    "Uściślono konstrukcję kontraktu różnicowego: strike/indexacja, okres wsparcia (10–15 lat), stopniowe wygaszanie, klauzule rewindykacji.",
+    "Włączono case studies AP1000 (Vogtle, VC Summer) z identyfikacją przyczyn opóźnień i rekomendowanymi klauzulami kontraktowymi.",
+    "Rozbudowano ocenę ryzyka geopolitycznego i zaproponowano mitigacje: multi‑sourcing finansowania, hedging walutowy, zabezpieczenia wielostronne.",
+    "Szczegółowy harmonogram kamieni milowych z przypisaniem odpowiedzialności i kryteriami go/no‑go.",
+    "Dodano plan zabezpieczenia łańcucha dostaw: multi‑sourcing, magazyny buforowe, lokalizacja produkcji wybranych komponentów.",
+    "Uzupełniono plan rozwoju kompetencji i program szkoleń w porozumieniu z uczelniami.",
+    "Wprowadzono informacje o ubezpieczeniach i reasekuracji: mieszana konstrukcja ubezpieczeniowa i rynki reasekuracyjne (London/Europe)."
+  ],
+  "cumulative_missing_information": [
+    "Szczegółowe warunki i mechanizmy rządowych gwarancji: maksymalna ekspozycja budżetu, terminy spłaty, warunki uruchamiania gwarancji, mechanizmy ograniczające ryzyko dla budżetu.",
+    "Konkretne zapisy planowanej współpracy z Exim Bank (typ kredytu, okresy spłaty, zabezpieczenia) oraz alternatywne źródła finansowania i ich koszty porównawcze.",
+    "Szczegóły dotyczące klauzul kontraktowych z Westinghouse-Bechtel: proponowana alokacja ryzyk opóźnień, mechanizmy kar umownych, indeksacja kosztów, zasady rozliczeń za zmiany regulacyjne.",
+    "Dokładniejsze rozbicie kosztów inwestycji towarzyszących (drogi, porty, kolej) i źródeł ich finansowania oraz czy będą one realizowane równolegle przez inne podmioty.",
+    "Analiza krytycznych elementów łańcucha dostaw AP1000: komponenty o długich terminach dostawy, ograniczona liczba producentów, potrzeba certyfikacji i możliwe alternatywy.",
+    "Szczegóły dotyczące planu ubezpieczeniowego: zakres kontraktu różnicowego, odpowiedzialność za szkody jądrowe, sposób zabezpieczenia roszczeń, możliwe potrzeby dla międzynarodowych mechanizmów reasekuracji.",
+    "Dokładniejsza ocena wpływu opóźnień na koszty finansowe ze scenariuszami przy różnych stopach procentowych i kursach USD/PLN (wrażliwość kwantyfikowana).",
+    "Status i zasięg raportów oddziaływania na środowisko (EIA): jakie braki wymagają uzupełnienia, terminy, możliwe zastrzeżenia społeczności lokalnych i proceduralne ryzyka administracyjne.",
+    "Scenariusze alternatywne: konsekwencje wyboru innego dostawcy technologii (czas przeprojektowania, dodatkoweweryfikacje bezpieczeństwa, certyfikacje) oraz ich przybliżone skutki czasowe i kosztowe.",
+    "Szczegółowe warunki, które Komisja Europejska musi zaakceptować, aby model finansowania był zgodny z regułami pomocy publicznej",
+    "Konkretny zakres i możliwe maksymalne wartości ekspozycji budżetowej w ramach rządowych gwarancji (widełki lub przykładowe scenariusze)",
+    "Dokładny schemat kontraktu różnicowego: kto płaci, w jakich warunkach, mechanizmy wypłat i wpływ na cash flow projektu",
+    "Analiza wrażliwości kosztów finansowych na różne scenariusze stóp procentowych i kursu USD/PLN (np. +/− 100 pb, ±10% kursu)",
+    "Ocena doświadczenia i referencji wykonawcy (Westinghouse–Bechtel) w dotrzymywaniu terminów dla AP1000 oraz potencjalne ryzyka wykonawcze związane z zasobami ludzkimi",
+    "Szczegóły dotyczące łańcucha dostaw: czas dostaw krytycznych komponentów, potencjalni alternatywni dostawcy, harmonogramy produkcji i magazynowania",
+    "Konkretny harmonogram EIA i plan komunikacji z lokalnymi społecznościami oraz opis możliwych środków łagodzących opór lokalny",
+    "Scenariusze finansowe pokazujące całkowity koszt projektu przy różnych poziomach kosztów towarzyszących (20%, 30%, 40%) i przy opóźnieniach 12, 24, 36 miesięcy",
+    "Przykładowe mechanizmy ograniczania ryzyk fiskalnych (szczegółowe konstrukcje: limity, warunkowe uruchamianie, współudział komercyjny) z symulacją wpływu na budżet",
+    "Informacje o planach szkolenia i budowy kadry operacyjnej oraz kosztach i terminach przygotowania personelu do obsługi elektrowni",
+    "Konkretne źródła i dokumenty potwierdzające podane liczby (np. terminy i koszty z ofert Westinghouse–Bechtel, streszczenia negocjacji z Exim).",
+    "Benchmarki historyczne projektów AP1000 (konkretne przypadki opóźnień i ich przyczyny oraz skala przesunięć i przekroczeń kosztów).",
+    "Szczegółowy model finansowy lub założenia wpływające na koszt kapitału (oprocentowanie, okres karencji, DSCR, struktura spłaty) i ich wpływ na całkowity koszt projektu.",
+    "Ocena skutków decyzji KE dotyczącej pomocy publicznej — jakie elementy finansowania mogłyby zostać zakwestionowane i jakie precedensy istnieją w UE.",
+    "Konkrety dotyczące kontraktu różnicowego: proponowane parametry (strike price, okres obowiązywania, mechanizmy indeksacji) i scenariusze wpływu na cash flow i rating projektu.",
+    "Szczegółowy plan zabezpieczenia łańcucha dostaw (lista krytycznych komponentów, potencjalni dostawcy alternatywni, terminy produkcji i certyfikacji).",
+    "Ocena ryzyka politycznego i geopolitycznego (np. wpływ zmian administracji USA, warunków eksportowych, gwarancji rządowych) oraz scenariusze ich mitigacji.",
+    "Analiza kompetencji krajowego rynku pracy i planów szkoleniowych/transferu technologii koniecznych do realizacji harmonogramu.",
+    "Szczegółowe założenia dotyczące kosztów inwestycji towarzyszących (szacunek oddzielny dla dróg, portów, kolei) i odpowiedzialności finansowej poszczególnych podmiotów.",
+    "Szczegółowa kalkulacja cash-flow projektu (projekcja przepływów operacyjnych i serwisu długu) dla każdego scenariusza finansowego oraz wpływ struktury kapitałowej na wskaźniki bankowalności (DSCR, LLCR itp.).",
+    "Konkrety dotyczące warunków proponowanych przez Exim i innych potencjalnych kredytodawców (dolne/ górne widełki oprocentowania, okresy karencji, maksymalny okres spłaty), co istotnie wpływa na koszt kapitału.",
+    "Szczegółowa analiza alokacji ryzyk w proponowanym kontrakcie EPC/turnkey: które ryzyka są przenoszone na wykonawcę, jakie są mechanizmy step-in, jaka jest skala kar umownych i limitów odpowiedzialności.",
+    "Dokładniejsza lista krytycznych komponentów z przewidywanymi lead‑times i potencjalnymi alternatywnymi dostawcami, plus plan logistyczny (pojemności portu, wymagania transportowe dla elementów ciężkich).",
+    "Szczegółowy plan budowy kompetencji krajowych (liczby wyszkolonych pracowników, harmonogram szkoleń, programy certyfikacyjne) oraz kosztorys tych działań.",
+    "Pełna ocena ryzyka regulacyjnego i politycznego (scenariusze negatywne: opóźnienia decyzji KE, zmiany polityki krajowej) z prawdopodobieństwem i wpływem finansowym.",
+    "Konkretne założenia techniczne dot. AP1000 użyte do wyliczeń czasu budowy (ile czasu prefabrykacja, montaż modułowy, prace instalacyjne, testy i rozruch), aby uzasadnić deklarowane 7 lat i możliwość skrócenia o 2 lata.",
+    "Szacunkowe kwoty lub mechanizmy dotyczące rządowych gwarancji (maksymalna ekspozycja, warunki uruchamiania) i ich wpływ na rating państwa i koszt długu publicznego.",
+    "Podstawowe założenia makroekonomiczne przy analizie wrażliwości (bazowe stopy, kurs USD/PLN, inflacja) oraz źródła tych założeń.",
+    "Konkretne założenia makroekonomiczne użyte do scenariuszy (przyjęte stopy procentowe, kurs USD/PLN w każdym scenariuszu, inflacja) i ich źródła.",
+    "Kwantyfikacja potencjalnej ekspozycji fiskalnej w liczbach (zakres gwarancji rządowych w PLN/EUR lub jako % kosztu projektu) dla każdego scenariusza.",
+    "Przykładowe parametry bankowalności (docelowe DSCR, LLCR, zakładane marże kredytowe, okresy karencji) użyte do oceny finansowania.",
+    "Szczegóły dotyczące mechaniki kontraktu różnicowego: proponowane strike price, okres wsparcia, indeksacja i warunki rewindykacji płatności.",
+    "Konkretny plan i terminologia dotycząca zmian prawnych (jakie dokładnie przepisy wymagają nowelizacji, proponowane rozwiązania legislacyjne i harmonogram ich uchwalenia).",
+    "Więcej danych o doświadczeniach AP1000 (konkretne przyczyny opóźnień i przekroczeń w projektach Vogtle i VC Summer oraz jakie kontraktowe zapisy powinny być wprowadzone, by ich uniknąć).",
+    "Ocena ryzyka politycznego i geopolitycznego w kontekście finansowania z amerykańskich instytucji (możliwy wpływ decyzji politycznych USA/UE na dostępność Exim lub warunki kredytów).",
+    "Szczegółowy harmonogram prac przygotowawczych i infrastrukturalnych z przypisaniem wykonawców i źródeł finansowania (kto finansuje drogi, port, kolej itp.).",
+    "Szacunki kosztów ubezpieczeń jądrowych i reasekuracji oraz źródła tych usług (rynki, potencjalni reasekuratorzy).",
+    "Ocena scenariusza zmiany partnera technologicznego: dodatkowe koszty i opóźnienia oraz wymogi kompatybilności regulacyjnej.",
+    "Szczegółowe założenia finansowe modelu cash‑flow (pełne pro‑forma tabelaryczne: przepływy, założenia stóp, amortyzacja, koszty O&M i paliwa, CAPEX rozbite według kategorii).",
+    "Konkretny zakres i wartości proponowanych limitów ekspozycji budżetowej oraz scenariusz wpływu tych gwarancji na rating państwa (szacunek wpływu na koszt obsługi długu publicznego).",
+    "Szczegółowe warunki term‑sheetów od Exim (przykładowe widełki marż, maksymalne tenory, wymagane zabezpieczenia) — nawet orientacyjne liczby poprawiłyby przejrzystość.",
+    "Analiza kontraktowa EPC: proponowane limity odpowiedzialności wykonawcy, konkretne mechanizmy kar, polityka ‚step‑in’, gwarancje wykonawcze i ich wysokość względna do CAPEX.",
+    "Szczegółowa lista krytycznych komponentów z przewidywanymi lead‑times i nazwami potencjalnych dostawców/alternatyw (benchmark do planowania lokalizacji produkcji).",
+    "Szczegółowy harmonogram zależności (critical path) z ryzykami dla każdego kamienia milowego i prawdopodobieństwem jego dotrzymania.",
+    "Wycena całkowitych kosztów ubezpieczeń i reasekuracji oraz potencjalne luki w pokryciu (limit odpowiedzialności państwa vs. rynek).",
+    "Ocena scenariuszy politycznych/geopolitycznych z konkretnymi planami mitigacji (np. listy alternatywnych banków eksportowych, warunki ‚no‑deal’ i ich konsekwencje).",
+    "Konkretne założenia dotyczące mechanizmu kontraktu różnicowego: przykładowe strike prices, profil wygaszania, metody indeksacji i wpływ na tarczę fiskalną."
+  ],
+  "cumulative_suggested_improvements": [
+    "Dodać konkretne liczby i przykłady dotyczące rządowych gwarancji (proponowane widełki ekspozycji budżetowej) oraz opisać mechanizmy ograniczenia ryzyka fiskalnego (np. limit aktywów, warunkowe uruchamianie).",
+    "Włączyć porównanie ofert finansowania (Exim vs inne instytucje) z przykładami struktur finansowania używanych w podobnych projektach jądrowych w Europie i USA.",
+    "Zażądać lub uzyskać od negocjatorów wzorcowe postanowienia kontraktowe dotyczące alokacji ryzyk i opisać, które rozwiązania są akceptowalne dla KE z punktu widzenia zasad pomocy publicznej.",
+    "Rozbić koszty inwestycji towarzyszących i opisać plan ich finansowania i harmonogramu (kto odpowiada za drogi, porty, linie kolejowe) oraz ryzyka tej koordynacji.",
+    "Szczegółowo opisać krytyczne komponenty AP1000, ich dostawców, terminy produkcji oraz plany tworzenia zapasów lub alternatywnych łańcuchów dostaw (np. lokalne magazyny, multi-sourcing).",
+    "Wyjaśnić konstrukcję ubezpieczenia kontraktem różnicowym i porównać ją z alternatywnymi rozwiązaniami ubezpieczeniowymi stosowanymi w energetyce jądrowej (tradycyjne polisy, międzynarodowe fundusze odprawy).",
+    "Dołączyć scenariusz analizy wrażliwości kosztów przy kilku poziomach stóp procentowych i kursów USD/PLN oraz model wpływu opóźnień (np. +6, +12, +24 miesiące) na całkowity koszt projektu.",
+    "Rozwinąć sekcję o EIA: stan przygotowania raportów, planowane terminy konsultacji społecznych, potencjalne przeszkody i sposoby ich łagodzenia (komunikacja, rekompensaty).",
+    "Wskazać konkretne kamienie milowe i kryteria 'go/no-go' dla inwestycji (np. zgoda KE, zamknięcie finansowania, gotowość infrastruktury) z przypisanymi terminami i odpowiedzialnymi podmiotami.",
+    "Dołączyć załącznik z analizą wrażliwości kosztów projektu na stopy procentowe i kurs USD/PLN oraz scenariusze opóźnień (12/24/36 mies.) z konkretnymi liczbami wpływu na całkowity koszt",
+    "Opisać konkretne warunki, jakie KE może stawiać przy akceptacji modelu finansowania, oraz przykładowe rozwiązania zgodne z regułami pomocy publicznej",
+    "Podać przykładowe struktury rządowych gwarancji z widełkami ekspozycji budżetowej i mechanizmami ograniczającymi ryzyko (np. limit maksymalny, warunkowe uruchamianie, współfinansowanie komercyjne)",
+    "Sprecyzować mechanizm kontraktu różnicowego: schemat przepływów pieniężnych, podmiot wypłacający różnicę, warunki uruchomienia, oraz wpływ na rating projektu i jego bankowalność",
+    "Dodać ocenę zdolności wykonawcy (Westinghouse–Bechtel) w kontekście dotychczasowych projektów AP1000, w tym przyczyny opóźnień w przeszłości i wyciągnięte wnioski",
+    "Rozwinąć sekcję łańcucha dostaw o listę krytycznych komponentów, przewidywane czasy produkcji/dostaw, potencjalnych alternatywnych dostawców i plan magazynowania",
+    "Przedstawić harmonogram EIA z datami konsultacji społecznych oraz plan komunikacji i środków łagodzących ryzyko oporu lokalnego",
+    "Włączyć modele finansowe pokazujące wpływ różnych źródeł finansowania (Exim vs. konsorcja banków komercyjnych vs. emisje obligacji) na koszt kapitału i cash flow projektu",
+    "Zaproponować zestaw mierzalnych kamieni milowych projektu z przypisanymi terminami i obowiązkami (np. data złożenia EIA, data financial close, data podpisania kontraktu głównego) oraz konsekwencjami ich niedotrzymania",
+    "Opisać plan rozwoju kadry operacyjnej i kosztorys przygotowania personelu oraz harmonogram szkoleń i rekrutacji przed uruchomieniem elektrowni",
+    "Dodać odniesienia do dokumentów źródłowych i oświadczeń wykonawcy oraz banków eksportowych (np. listy intencyjne, term sheets) lub wyjaśnić, że podane liczby są wstępnymi deklaracjami stron.",
+    "Włączyć krótkie benchmarkingowe studium przypadków AP1000 (np. Vogtle, VC Summer) — co poszło nie tak i jakie lekcje dla Polski; przełożyć te wnioski na konkretne zapisy kontraktowe/klauzule zabezpieczające.",
+    "Uzupełnić artykuł o uproszczony zestaw założeń finansowych i scenariuszy (np. trzy warianty: optymistyczny/realistyczny/pesymistyczny) pokazujących wpływ stóp procentowych, kursu USD/PLN i opóźnień na koszt 1 reaktora i na ekspozycję budżetową.",
+    "Podać więcej detali dotyczących wymogów KE i precedensów w sprawach pomocy publicznej dla projektów energetycznych w UE, oraz jakie dopuszczalne mechanizmy finansowania są najbardziej prawdopodobne do zaakceptowania.",
+    "Sprecyzować proponowane elementy kontraktu różnicowego (mechanika płatności, okres obowiązywania, warunki wypłat) oraz ocenić, jak różne konstrukcje wpłyną na bankowalność i rating projektu.",
+    "Dołączyć plan działań dotyczący łańcucha dostaw: lista krytycznych komponentów z przewidywanymi czasami produkcji, możliwymi alternatywnymi dostawcami i opcjami magazynowania/local content.",
+    "Ocenić wymagania personalne i kompetencyjne: jakie profile zawodowe będą potrzebne, czy istnieje krajowa baza wykonawców/ekspertów, oraz plan transferu technologii i szkoleń.",
+    "Uwzględnić bardziej wyraźne scenariusze polityczno-geopolityczne oraz opis mechanizmów ich ograniczania (np. wielostronne zabezpieczenia finansowe, ubezpieczenia polityczne, klauzule siły wyższej vs. polityczne).",
+    "Dodać tabelaryczne podsumowanie kamieni milowych, odpowiedzialnych podmiotów i ryzyk wraz z orientacyjnymi terminami i konsekwencjami ich nieosiągnięcia (matrix go/no-go).",
+    "Dołączyć szczegółowy model finansowy (arkusz z przepływami pieniężnymi) dla wariantów optymistycznego/realistycznego/pesymistycznego z kluczowymi wskaźnikami bankowalności (DSCR, LLCR, IRR projektu) i wyjaśnieniem założeń.",
+    "Uzyskać i przedstawić bardziej konkretne warunki ofertowe od Exim i potencjalnych współfinansujących (proponowane stopy, tenor, karencje), lub podać zakresy przy braku ostatecznych ofert.",
+    "Opisać proponowaną alokację ryzyk w proponowanym kontrakcie z Westinghouse–Bechtel w formie tabelarycznej (kto odpowiada za co) oraz przykłady mechanizmów step‑in, zabezpieczeń wykonawczych i limitów odszkodowań.",
+    "Dodać szczegółową matrycę krytycznych komponentów (lead-time, producentów, alternatywy, możliwość lokalizacji produkcji) oraz plan logistyczny i wymagania portowe/transportowe.",
+    "Sprecyzować techniczny harmonogram budowy (etapy prefabrykacji, montażu i rozruchu) z odzwierciedleniem doświadczeń Vogtle/VC Summer i konkretnymi lekcjami przekutymi w zapisy kontraktowe.",
+    "Włączyć ilościowy plan rozwoju kadr (liczby, terminy, budżet szkoleń) i partnerstwa akademicko‑przemysłowe, by ocenić realność budowy kompetencji lokalnych.",
+    "Przedstawić scenariusze ryzyka regulacyjnego i politycznego z oceną prawdopodobieństwa i wpływu oraz opisem środków mitigacyjnych (np. warunkowe uruchamianie gwarancji, klauzule renegocjacyjne).",
+    "Doprecyzować mechanizm kontraktu różnicowego (proponowane strike price, długość trwania wsparcia, indeksacja, procedury wypłat) i symulacje wpływu na rating projektu i koszty budżetowe.",
+    "Podać proponowane limity ekspozycji budżetowej i mechanizmy ich monitoringu (kamienie milowe uruchamiające transze gwarancji) oraz analizę wpływu tych limitów na percepcję ryzyka kredytowego państwa.",
+    "Zamieścić krótkie podsumowanie (executive summary) z kluczowymi ryzykami i rekomendowanymi decyzjami na teraz, aby ułatwić użyteczność artykułu dla decydentów i negocjatorów.",
+    "Dodać aneks z tabelarycznymi założeniami makroekonomicznymi użytymi do scenariuszy (stopy, kursy, marże) oraz źródła tych założeń.",
+    "Wprowadzić szacunkową kwantyfikację ekspozycji budżetowej (przedziały PLN/EUR lub % całkowitego kosztu) dla zaproponowanych gwarancji rządowych w każdym scenariuszu.",
+    "Opublikować przykładowe pro‑forma wskaźniki bankowalności (DSCR, LLCR, IRR) dla scenariuszy optymistycznego/realistycznego/pesymistycznego, z krótkim opisem jak dobierano założenia.",
+    "Szczegółowo opisać konstrukcję kontraktu różnicowego: proponowane parametry (strike, okres, indeksacja), mechanizmy waloryzacji i klauzule zmniejszające ekspozycję budżetu (np. stopniowe wygaszanie wsparcia).",
+    "Dołączyć krótkie case studies projektów AP1000 (Vogtle, VC Summer) z wyciągniętymi wnioskami i rekomendowanymi klauzulami kontraktowymi, które ograniczają ryzyko powtórzenia błędów.",
+    "Rozwinąć ocenę ryzyka politycznego i geopolitycznego oraz możliwych mechanizmów mitigacji (multi‑sourcing finansowania, hedging walutowy, zabezpieczenia wielostronne).",
+    "Podać szczegóły planowanych zmian prawnych: dokładne instrumenty legislacyjne, harmonogram prac parlamentarnych i potencjalne punkty oporu prawnego/społecznego.",
+    "Uzupełnić informacje o kosztach ubezpieczeń jądrowych i dostępności reasekuracji – wskazać potencjalnych dostawców i orientacyjne stawki/premie.",
+    "Dodać klarowny plan odpowiedzialności za infrastrukturę towarzyszącą (kto finansuje i realizuje drogi/kolej/port) oraz terminy z‑o‑c (ownership) dla tych elementów.",
+    "Zamieścić krótką matrycę ryzyk (probability x impact) z przypisanymi mitigacjami i odpowiedzialnością za każdy kluczowy risk, by ułatwić ocenę, które ryzyka najbardziej zagrażają terminom i bankowalności.",
+    "Dołączyć streszczenie pro‑forma finansowego w formie tabelarycznej (kluczowe linie cash‑flow, CAPEX split, OPEX, scenariusze DSCR/LLCR/IRR) — ułatwi to ocenę bankowalności przez inwestorów.",
+    "Opublikować orientacyjne parametry term‑sheetów (widełki marż, maksymalny tenor, okres karencji) — nawet jako zakresy, co zwiększy przejrzystość negocjacji finansowych.",
+    "Podać konkretne propozycje konstrukcji rządowych gwarancji (np. % projektu powiązane z kamieniami milowymi oraz sposób uruchamiania) wraz z oceną wpływu na rating suwerenny.",
+    "Rozszerzyć analizę kontraktową EPC: zaprezentować preferowane mechanizmy alokacji ryzyka, proponowane stawki kar za opóźnienie, warunki ‚step‑in’ i wymagania dotyczące gwarancji wykonawczych.",
+    "Opublikować listę krytycznych komponentów z lead‑times i realistycznym planem multi‑sourcingu oraz opcjami lokalizacji produkcji — to pomoże w planowaniu portu i łańcucha dostaw.",
+    "Dodać bardziej szczegółowy plan zarządzania kompetencjami (liczby personelu, terminy certyfikacji, partnerzy akademiccy i budżet) wraz z ryzykami braku kadr.",
+    "Włączyć analizę scenariuszy geopolitycznych z mapą alternatyw finansowania (inne banki eksportowe, konsorcja) i planem działania w przypadku odmowy wsparcia ze strony Exim/USA/KE.",
+    "Szczegółowo opisać parametry proponowanego kontraktu różnicowego: przykładowe strike, mechanizm indeksacji, warunki rewindykacji oraz model wypłat przy różnych profilech cen energii.",
+    "Zamieścić ocenę ryzyka środowiskowego z możliwymi terminami i kosztami związanymi z dodatkowymi wymaganiami EIA lub sporami sądowymi, oraz planem komunikacji społecznej mierzalnym KPI."
+  ],
+  "addressed_missing_information": [
+    "Wyraźne oddzielenie deklaracji wykonawcy od analizy scenariuszy",
+    "Warunki pozwalające na etapowanie budowy",
+    "Opis instrumentów mitigacji ryzyka politycznego",
+    "Rozróżnienie deklaracji od warunków weryfikowalnych (zgoda KE jako warunek)",
+    "Scenariusze kosztów przy różnych poziomach kosztów towarzyszących i opóźnieniach",
+    "Konkretne kamienie milowe i ich rola w decyzjach",
+    "Wpływ stóp procentowych i kursu USD/PLN na koszty",
+    "Wpływ stóp procentowych i kursu walutowego (wrażliwość)",
+    "Lista krytycznych komponentów z lead‑times i alternatywami",
+    "Realne alternatywy dostaw i plany zabezpieczenia",
+    "Oszacowanie pełnych kosztów projektu z rozbiciem",
+    "Potrzeba szczegółowej kalkulacji cash‑flow i wpływu struktury kapitałowej na wskaźniki bankowalności",
+    "Plany działań łagodzących opór społeczny i zabezpieczenia łańcucha dostaw",
+    "Szczegóły dotyczące stanu przygotowań lokalnej infrastruktury",
+    "Konkretne warunki współpracy z Exim Bank",
+    "Rozbicie kosztów na scenariusze (20–40% kosztów dodatkowych) i przyjęcie założeń makroekonomicznych dla analizy wrażliwości",
+    "Możliwe terminy decyzji KE i wpływ warunków KE",
+    "Wpływ gwarancji na ekspozycję budżetu i warunki spłaty",
+    "Rozbicie kosztów i odpowiedzialności za infrastrukturę towarzyszącą",
+    "Przykładowe mechanizmy ograniczania ryzyk fiskalnych",
+    "Uzasadnienie możliwości skrócenia czasu budowy o 2 lata",
+    "Konkretne założenia techniczne dot. etapowania i co może być wykonane przed pozwoleniem",
+    "Kwantyfikacja kosztów towarzyszących i całkowitych",
+    "Schemat kontraktu różnicowego: kto płaci, warunki wypłaty, wpływ na cash flow",
+    "Konkretyzacja scenariuszy finansowych i ich metryk",
+    "Kamienie milowe i przypisane odpowiedzialności",
+    "Case studies AP1000 z konkretnymi przyczynami opóźnień",
+    "Propozycje mechanizmów ograniczających ekspozycję budżetową",
+    "Analiza ryzyk kontraktowych i klauzul w kontrakcie z Westinghouse-Bechtel",
+    "Rozróżnienie elementów przesądzających (zgoda KE) od strategicznych wyborów (udział kapitału własnego)",
+    "Rekomendowane klauzule kontraktowe",
+    "Uproszczony zestaw założeń finansowych i scenariuszy",
+    "Alternatywne źródła finansowania i ich koszty porównawcze",
+    "Wymóg zgody KE jako kryterium",
+    "Analiza wrażliwości na opóźnienia i stopy procentowe",
+    "Plan ograniczania ryzyka dostaw",
+    "Proces administracyjny i raporty oddziaływania na środowisko",
+    "Konkrety dotyczące ograniczeń ekspozycji fiskalnej",
+    "Scenariusze alternatywne i ocena wpływu na datę uruchomienia",
+    "Konkretne źródła i dokumenty potwierdzające podane liczby (term sheets, listy intencyjne)",
+    "Benchmarki historyczne projektów AP1000 (Vogtle, VC Summer)",
+    "Konkretne zapisy planowanej współpracy z Exim Bank (typ kredytu, okresy spłaty, zabezpieczenia)",
+    "Konkrety dotyczące warunków proponowanych przez Exim i innych kredytodawców (widełki oprocentowania, karencje, tenor) — podane jako przedmiot rozmów i potrzeba term‑sheetów",
+    "Informacje o alternatywnych źródłach finansowania",
+    "Informacje o przygotowaniu kadr i łańcuchu dostaw",
+    "Plan zabezpieczenia łańcucha dostaw (lista komponentów, alternatywy, terminy)",
+    "Szczegółowy plan budowy kompetencji krajowych (liczby, harmonogram, budżet)",
+    "Wskazanie struktury finansowania 30/70 jako kluczowego założenia",
+    "Kwantyfikacja ekspozycji fiskalnej w liczbach",
+    "Kryteria go/no‑go",
+    "Model udziału kapitałowego 30/70",
+    "Ocena doświadczenia wykonawcy i ryzyka wykonawczego",
+    "Wyjaśnienie konstrukcji ubezpieczenia kontraktem różnicowym",
+    "Wpływ zgody KE na możliwość zamknięcia finansowania",
+    "Plan logistyczny i wymagania portowe",
+    "Konkretne harmonogramy i warunki finansowania (rola Exim i zgoda KE)",
+    "Pro‑forma wskaźniki bankowalności",
+    "Dokładniejsze oszacowanie skali kosztów inwestycji towarzyszących",
+    "Uzasadnienie skali kosztów dodatkowych",
+    "Konkretne założenia makroekonomiczne i ich źródła",
+    "Kryteria 'go/no-go' dla budowy",
+    "Porównanie z alternatywnymi rozwiązaniami ubezpieczeniowymi",
+    "Analiza wrażliwości kosztów finansowych na stopy i kursy",
+    "Zakres i mechanika rządowych gwarancji",
+    "Szczegółowy harmonogram prac przygotowawczych i kamieni milowych",
+    "Kamienie milowe procesu uzyskiwania zgody Komisji Europejskiej",
+    "Analiza krytycznych elementów łańcucha dostaw AP1000",
+    "Analiza alokacji ryzyk w kontrakcie EPC: step‑in, kary umowne, limity odpowiedzialności",
+    "Szczegóły dotyczące łańcucha dostaw i logistyki"
+  ],
+  "addressed_suggested_improvements": [
+    "Konkretyzacja struktury finansowania (30/70)",
+    "Sprecyzować techniczny harmonogram budowy i etapy prefabrykacji/montażu (wzmiankowane jako cele do osiągnięcia)",
+    "Włączyć ilościowy plan rozwoju kadr i partnerstwa akademicko‑przemysłowego",
+    "Uwzględnić możliwość lokalizacji produkcji i transfer technologii",
+    "Opublikowanie pro‑forma wskaźników DSCR/LLCR/IRR",
+    "Dodaj harmonogram decyzyjny i proces zgody KE",
+    "Scenariusze finansowe 20/30/40% i opóźnienia 12/24/36 mies.",
+    "Sprecyzuj zakres i mechanikę rządowych gwarancji",
+    "Rozbić koszty inwestycji towarzyszących i opisać plan finansowania",
+    "Dodanie oceny zdolności wykonawcy i planów zabezpieczenia zasobów",
+    "Dodać wymóg listów intencyjnych przed financial close",
+    "Harmonogram EIA i plan komunikacji społecznej",
+    "Przykładowe mechanizmy ograniczania ryzyk fiskalnych",
+    "Scenariusze kosztowe",
+    "Analiza wrażliwości kosztów",
+    "Dodać konkretne liczby dotyczące udziałów kapitałowych",
+    "Dodaj informacje o stanie przygotowań lokalnej infrastruktury i harmonogramie prac",
+    "Uwzględnij scenariusze alternatywne i ich konsekwencje dla daty uruchomienia",
+    "Sprecyzuj mechanikę rządowych gwarancji",
+    "Przypisanie kamieni milowych i odpowiedzialności",
+    "Wprowadź plan zabezpieczenia dostaw i logistyki",
+    "Opisać wpływ stóp procentowych na koszty",
+    "Wyjaśnić konstrukcję kontraktu różnicowego i porównać z alternatywami",
+    "Dodać porównanie ofert finansowania",
+    "Sprecyzowanie mechanizmu kontraktu różnicowego i wpływu na rating projektu",
+    "Opisać proponowaną alokację ryzyk w kontrakcie z Westinghouse–Bechtel",
+    "Opis ubezpieczeń politycznych i wielostronnych zabezpieczeń",
+    "Dodanie planu działań dotyczącego łańcucha dostaw i lokalizacji produkcji",
+    "Włączenie studium przypadków AP1000 i lekcji dla Polski",
+    "Rozbić koszty inwestycji towarzyszących",
+    "Dodać matrycę krytycznych komponentów i plan logistyczny",
+    "Dołączenie krótkich case studies i rekomendowanych klauzul",
+    "Uwzględnij scenariusze alternatywne i ich konsekwencje",
+    "Propozycja mierzalnych kamieni milowych z przypisanymi zadaniami",
+    "Dodanie odwołań do doświadczeń wykonawcy",
+    "Włączenie warunku zgody KE jako kamienia milowego",
+    "Rozwinięcie sekcji łańcucha dostaw",
+    "Podaj przyjęte założenia makroekonomiczne wpływające na koszty",
+    "Wstaw realistyczne, rozbite oszacowanie całkowitych kosztów projektu",
+    "Włączenie modeli finansowych pokazujących wpływ różnych źródeł finansowania",
+    "Dołączyć scenariusz analizy wrażliwości kosztów",
+    "Wprowadzenie mechanizmów ograniczających ekspozycję",
+    "Szczegółowo opisać krytyczne komponenty AP1000 i plany zabezpieczeń łańcucha dostaw",
+    "Przygotowanie modeli cash‑flow i wskaźników bankowalności (wskazane jako konieczne)",
+    "Analiza wpływu makroekonomicznego na koszt projektu",
+    "Rozbicie kosztów i analiza wrażliwości",
+    "Uzyskać i przedstawić bardziej konkretne warunki ofertowe od Exim (zasygnalizowano term‑sheety)",
+    "Opisz plan komunikacji z lokalnymi społecznościami",
+    "Opis warunków KE",
+    "Wskazać kamienie milowe i kryteria 'go/no-go'",
+    "Podaj szczegóły dotyczące łańcucha dostaw komponentów krytycznych",
+    "Dołączenie analizy wrażliwości kosztów projektu",
+    "Dodanie mechanizmów ograniczających ekspozycję budżetową",
+    "Dodaj informacje o lokalnych pozwoleniach i akceptacji społecznej",
+    "Przedstawienie wpływu scenariuszy na ekspozycję budżetową",
+    "Dołączyć model finansowy i wskaźniki bankowalności (wskazane jako konieczność)",
+    "Dodanie odniesienia do dokumentów źródłowych i procedury uzyskania term sheets",
+    "Dodanie trzech scenariuszy finansowych",
+    "Opisz kluczowe ryzyka kontraktowe i alokację ryzyka",
+    "Dodanie szacunkowej kwantyfikacji ekspozycji budżetowej",
+    "Utworzenie jasnych kryteriów go/no‑go",
+    "Włączyć porównanie ofert finansowania i podkreślić konieczność negocjacji z KE",
+    "Dodanie aneksu/założeń makroekonomicznych"
+  ]
+}

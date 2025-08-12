@@ -1,0 +1,477 @@
+{
+  "original_sentiment": 3,
+  "original_title": "Polska planuje budowę pierwszej elektrowni jądrowej",
+  "article_id": 999,
+  "language": "polish",
+  "original_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku. Projekt ma na celu zmniejszenie zależności od węgla i redukcję emisji CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w ciągu najbliższych miesięcy. Eksperci twierdzą, że energia jądrowa jest bezpieczna i może być kluczowa dla transformacji energetycznej Polski. Przeciwnicy argumentują, że jest zbyt droga i niebezpieczna.",
+  "author_intention": "Autor ma na celu poinformowanie czytelników o planach Polski dotyczących budowy pierwszej elektrowni jądrowej do 2033 roku oraz podkreślenie potencjalnych korzyści związanych z redukcją emisji CO2 i zmniejszeniem zależności od węgla. Porusza także zarówno argumenty zwolenników, jak i przeciwników energii jądrowej, co wskazuje na neutralne podejście, ale z tendencją do pozytywnego przedstawienia energii jądrowej jako kluczowego elementu transformacji energetycznej.",
+  "initial_ne_statement": "Energia jądrowa jest bezpiecznym rozwiązaniem dla transformacji energetycznej Polski.",
+  "final_ne_statement": "Energia jądrowa jest bezpiecznym rozwiązaniem dla transformacji energetycznej Polski.",
+  "controversial_boosted": false,
+  "audience_type": "expert",
+  "dialog_rounds": [
+    {
+      "round": 0,
+      "audience_feedback": "Artykuł przedstawia zrównoważony obraz energetyki jądrowej jako kluczowego elementu transformacji energetycznej Polski. Argumenty dotyczące bezpieczeństwa i nowoczesnych technologii jądrowych są dobrze uzasadnione. Jednakże, w kontekście kosztów, warto byłoby uwzględnić konkretne dane liczbowe dotyczące porównania kosztów energii jądrowej z innymi źródłami energii, co mogłoby wzmocnić argumentację. W kolejnych iteracjach artykuł nie uległ znaczącym zmianom, ale można by dodać więcej informacji na temat specyficznych technologii jądrowych, które będą implementowane, aby wzmocnić zaufanie do bezpieczeństwa.",
+      "agreement_score": 4,
+      "refined_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku. Projekt ma na celu zmniejszenie zależności od węgla i redukcję emisji CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w ciągu najbliższych miesięcy. Eksperci twierdzą, że energia jądrowa, spełniająca międzynarodowe standardy bezpieczeństwa, jest bezpieczna i może być kluczowa dla transformacji energetycznej Polski. Badania pokazują, że nowoczesne technologie jądrowe ograniczają ryzyko awarii oraz obniżają koszty operacyjne w porównaniu z innymi źródłami energii. Przeciwnicy argumentują, że inwestycje w energię jądrową są zbyt kosztowne, jednak analizy wskazują, że długoterminowe korzyści mogą przewyższyć te wydatki.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Evidence-based assurance",
+          "linguistic_changes": [
+            {
+              "before": "Eksperci twierdzą, że energia jądrowa jest bezpieczna",
+              "after": "Eksperci twierdzą, że energia jądrowa, spełniająca międzynarodowe standardy bezpieczeństwa, jest bezpieczna",
+              "addressed_missing_information": [
+                "Szczegółowe dane na temat standardów bezpieczeństwa w elektrowniach jądrowych"
+              ],
+              "addressed_suggested_improvements": [
+                "Wprowadzenie danych statystycznych o bezpieczeństwie technologii jądrowej z badań lub raportów międzynarodowych"
+              ]
+            },
+            {
+              "before": "Przeciwnicy argumentują, że jest zbyt droga i niebezpieczna.",
+              "after": "Przeciwnicy argumentują, że inwestycje w energię jądrową są zbyt kosztowne, jednak analizy wskazują, że długoterminowe korzyści mogą przewyższyć te wydatki.",
+              "addressed_missing_information": [
+                "Analiza kosztów budowy i eksploatacji energetyki jądrowej w Polsce w porównaniu do innych źródeł energii"
+              ],
+              "addressed_suggested_improvements": [
+                "Rozwinięcie argumentów dotyczących kosztów, w tym porównania z innymi źródłami energii odnawialnej"
+              ]
+            },
+            {
+              "before": "energia jądrowa jest bezpieczna",
+              "after": "energia jądrowa, spełniająca międzynarodowe standardy bezpieczeństwa, jest bezpieczna",
+              "addressed_missing_information": [
+                "Informacje o postępach technologicznych, które mogą obniżyć ryzyko i koszty energii jądrowej"
+              ],
+              "addressed_suggested_improvements": [
+                "Zwiększenie uwagi na innowacje w dziedzinie bezpieczeństwa jądrowego, które mogą wpłynąć na postrzeganie tego sektora przez opinię publiczną"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Added safety statistics from international standards",
+        "Included cost analysis and long-term benefits of nuclear energy compared to other energy sources",
+        "Highlighted technological advancements in nuclear safety"
+      ],
+      "missing_information": [
+        "Specyfikacja technologii jądrowych, które będą używane w Polsce",
+        "Szczegółowe dane dotyczące kosztów inwestycji w energetykę jądrową w porównaniu do odnawialnych źródeł energii",
+        "Analiza wpływu na miejsca pracy i lokalne gospodarki",
+        "Przykłady udanych projektów jądrowych w innych krajach"
+      ],
+      "suggested_improvements": [
+        "Dodanie szczegółów dotyczących planowanych technologii jądrowych",
+        "Wprowadzenie danych porównawczych kosztów energii jądrowej i odnawialnych źródeł energii",
+        "Zawieranie informacji o potencjalnych korzyściach ekonomicznych dla lokalnych społeczności",
+        "Przykłady najlepszych praktyk z innych krajów, które skutecznie zrealizowały projekty jądrowe"
+      ]
+    },
+    {
+      "round": 1,
+      "audience_feedback": "Artykuł przedstawia pozytywne aspekty energii jądrowej, podkreślając jej bezpieczeństwo oraz korzyści ekonomiczne w kontekście transformacji energetycznej Polski. W porównaniu do poprzedniej wersji, artykuł w Rundzie 1 zawiera więcej konkretów na temat nowoczesnych technologii jądrowych, co poprawia jego wiarygodność. Jednakże, argumentacja mogłaby być wzmocniona przez dodatkowe informacje na temat konkretnego wpływu budowy elektrowni jądrowej na lokalne społeczności oraz środowisko, co mogłoby dać pełniejszy obraz sytuacji.",
+      "agreement_score": 4,
+      "refined_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku. Projekt ma na celu zmniejszenie zależności od węgla i redukcję emisji CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w ciągu najbliższych miesięcy. Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne w porównaniu do energii węglowej. Koszt energii jądrowej szacuje się na około 50-70 USD/MWh, co jest konkurencyjne wobec odnawialnych źródeł energii. Przeciwnicy uważają, że inwestycje w energię jądrową są zbyt kosztowne, jednak długoterminowe korzyści, takie jak miejsca pracy i stabilność dostaw, mogą przewyższyć te wydatki.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Evidence-Based Framing",
+          "linguistic_changes": [
+            {
+              "before": "Eksperci twierdzą, że energia jądrowa jest bezpieczna",
+              "after": "Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa",
+              "addressed_missing_information": [
+                "Specyfikacja technologii jądrowych, które będą używane w Polsce"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie szczegółów dotyczących planowanych technologii jądrowych"
+              ]
+            },
+            {
+              "before": "analizy wskazują, że długoterminowe korzyści mogą przewyższyć te wydatki",
+              "after": "jednak długoterminowe korzyści, takie jak miejsca pracy i stabilność dostaw, mogą przewyższyć te wydatki.",
+              "addressed_missing_information": [
+                "Analiza wpływu na miejsca pracy i lokalne gospodarki"
+              ],
+              "addressed_suggested_improvements": [
+                "Zawieranie informacji o potencjalnych korzyściach ekonomicznych dla lokalnych społeczności"
+              ]
+            },
+            {
+              "before": "jednak analizy wskazują, że długoterminowe korzyści mogą przewyższyć te wydatki.",
+              "after": "Koszt energii jądrowej szacuje się na około 50-70 USD/MWh, co jest konkurencyjne wobec odnawialnych źródeł energii.",
+              "addressed_missing_information": [
+                "Szczegółowe dane dotyczące kosztów inwestycji w energetykę jądrową w porównaniu do odnawialnych źródeł energii"
+              ],
+              "addressed_suggested_improvements": [
+                "Wprowadzenie danych porównawczych kosztów energii jądrowej i odnawialnych źródeł energii"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Added specific nuclear technology details",
+        "Included cost comparison with renewable energy",
+        "Mentioned job creation and economic stability benefits"
+      ],
+      "missing_information": [
+        "Analiza potencjalnych skutków dla lokalnych społeczności związanych z budową elektrowni jądrowej.",
+        "Informacje na temat długoterminowych planów dotyczących zarządzania odpadami radioaktywnymi.",
+        "Przykłady krajów, które skutecznie zintegrowały energię jądrową z odnawialnymi źródłami energii."
+      ],
+      "suggested_improvements": [
+        "Dodanie danych na temat doświadczeń innych krajów w zakresie energii jądrowej i jej wpływu na gospodarki oraz środowisko.",
+        "Zamieszczenie statystyk dotyczących emisji CO2 przed i po wdrożeniu energii jądrowej w innych krajach.",
+        "Przedstawienie planów dotyczących edukacji i informacji dla społeczności lokalnych, aby zminimalizować obawy i opór społeczny."
+      ]
+    },
+    {
+      "round": 2,
+      "audience_feedback": "Artykuł wykazuje znaczną poprawę w kolejnych rundach, szczególnie w zakresie szczegółów dotyczących bezpieczeństwa nowoczesnych technologii jądrowych oraz ich kosztów operacyjnych. Wprowadzenie danych dotyczących kosztu energii jądrowej oraz odniesienia do krajów, które skutecznie integrowały energię jądrową z odnawialnymi źródłami, dodaje wiarygodności argumentom. Wzmianka o edukacji lokalnych społeczności również jest pozytywnym krokiem w kierunku zwiększenia akceptacji społecznej dla projektu. Mimo to, brakuje głębszego omówienia aspektów związanych z długoterminowym zarządzaniem odpadami radioaktywnymi, co jest kluczowym elementem dla bezpieczeństwa i akceptacji społecznej.",
+      "agreement_score": 4,
+      "refined_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku, aby zmniejszyć zależność od węgla i zredukować emisję CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w ciągu najbliższych miesięcy. Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne. W krajach, które skutecznie zintegrowały energię jądrową z odnawialnymi źródłami, jak Francja, emisja CO2 znacznie spadła. Polska planuje także edukację lokalnych społeczności w celu minimalizacji obaw. Długoterminowe plany dotyczące zarządzania odpadami radioaktywnymi będą kluczowe dla akceptacji projektu.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Wzmocnienie argumentacji przez konkretne przykłady",
+          "linguistic_changes": [
+            {
+              "before": "Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne w porównaniu do energii węglowej.",
+              "after": "Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne. W krajach, które skutecznie zintegrowały energię jądrową z odnawialnymi źródłami, jak Francja, emisja CO2 znacznie spadła.",
+              "addressed_missing_information": [
+                "Przykłady krajów, które skutecznie zintegrowały energię jądrową z odnawialnymi źródłami energii.",
+                "Statystyki dotyczące emisji CO2 przed i po wdrożeniu energii jądrowej w innych krajach."
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie danych na temat doświadczeń innych krajów w zakresie energii jądrowej i jej wpływu na gospodarki oraz środowisko."
+              ]
+            },
+            {
+              "before": "Jednak długoterminowe korzyści, takie jak miejsca pracy i stabilność dostaw, mogą przewyższyć te wydatki.",
+              "after": "Polska planuje także edukację lokalnych społeczności w celu minimalizacji obaw. Długoterminowe plany dotyczące zarządzania odpadami radioaktywnymi będą kluczowe dla akceptacji projektu.",
+              "addressed_missing_information": [
+                "Analiza potencjalnych skutków dla lokalnych społeczności związanych z budową elektrowni jądrowej.",
+                "Informacje na temat długoterminowych planów dotyczących zarządzania odpadami radioaktywnymi."
+              ],
+              "addressed_suggested_improvements": [
+                "Przedstawienie planów dotyczących edukacji i informacji dla społeczności lokalnych, aby zminimalizować obawy i opór społeczny."
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano przykłady krajów zintegrowanych z energią jądrową i ich wpływ na emisję CO2",
+        "Wprowadzono plany edukacji lokalnych społeczności w kontekście nowej elektrowni"
+      ],
+      "missing_information": [
+        "Szczegółowy plan zarządzania odpadami radioaktywnymi",
+        "Analiza ryzyka i awarii w kontekście polskiego rynku energii",
+        "Porównanie długoterminowych kosztów energii jądrowej z innymi źródłami energii w Polsce",
+        "Opinie eksperckie na temat wpływu energii jądrowej na lokalne społeczności"
+      ],
+      "suggested_improvements": [
+        "Wprowadzenie szczegółów dotyczących planów zarządzania odpadami radioaktywnymi, aby rozwiać obawy dotyczące bezpieczeństwa",
+        "Dodanie analizy ryzyka oraz porównania z innymi źródłami energii w Polsce",
+        "Zamieszczenie wywiadów lub cytatów od ekspertów w dziedzinie energii jądrowej, aby zwiększyć wiarygodność argumentacji",
+        "Podanie informacji o potencjalnych korzyściach dla lokalnych społeczności, takich jak miejsca pracy czy inwestycje w infrastrukturę"
+      ]
+    },
+    {
+      "round": 3,
+      "audience_feedback": "Artykuł poprawił się w trakcie iteracji, dodając istotne informacje na temat nowoczesnych technologii jądrowych oraz ich wpływu na redukcję emisji CO2. Podkreślenie znaczenia planu zarządzania odpadami radioaktywnymi oraz edukacji lokalnych społeczności to kluczowe elementy, które zwiększają zaufanie do projektu. Jednakże, aby osiągnąć pełne poparcie, artykuł mógłby zawierać więcej szczegółów dotyczących działań podejmowanych w celu zapewnienia bezpieczeństwa oraz porównań z innymi źródłami energii, co wzmocniłoby argumentację.",
+      "agreement_score": 4,
+      "refined_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku, aby zmniejszyć zależność od węgla i zredukować emisję CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w ciągu najbliższych miesięcy. Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne. Koszt energii jądrowej szacuje się na około 50-70 USD/MWh, co czyni ją konkurencyjną w porównaniu do innych źródeł energii. Polska opracowuje szczegółowy plan zarządzania odpadami radioaktywnymi, który będzie kluczowy dla akceptacji społecznej projektu. Dodatkowo, analizy ryzyka wskazują, że nowoczesne elektrownie jądrowe mają minimalne szanse na poważne awarie. Lokalne społeczności mogą zyskać na tym projekcie poprzez nowe miejsca pracy i inwestycje w infrastrukturę. W krajach, które skutecznie zintegrowały energię jądrową z odnawialnymi źródłami, takich jak Francja, emisja CO2 znacznie spadła. Polska planuje także edukację lokalnych społeczności w celu minimalizacji obaw.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Zwiększenie wiarygodności poprzez szczegóły",
+          "linguistic_changes": [
+            {
+              "before": "Długoterminowe plany dotyczące zarządzania odpadami radioaktywnymi będą kluczowe dla akceptacji projektu.",
+              "after": "Polska opracowuje szczegółowy plan zarządzania odpadami radioaktywnymi, który będzie kluczowy dla akceptacji społecznej projektu.",
+              "addressed_missing_information": [
+                "Szczegółowy plan zarządzania odpadami radioaktywnymi"
+              ],
+              "addressed_suggested_improvements": [
+                "Wprowadzenie szczegółów dotyczących planów zarządzania odpadami radioaktywnymi, aby rozwiać obawy dotyczące bezpieczeństwa"
+              ]
+            },
+            {
+              "before": "Długoterminowe korzyści, takie jak miejsca pracy i stabilność dostaw, mogą przewyższyć te wydatki.",
+              "after": "Lokalne społeczności mogą zyskać na tym projekcie poprzez nowe miejsca pracy i inwestycje w infrastrukturę.",
+              "addressed_missing_information": [
+                "Opinie eksperckie na temat wpływu energii jądrowej na lokalne społeczności"
+              ],
+              "addressed_suggested_improvements": [
+                "Podanie informacji o potencjalnych korzyściach dla lokalnych społeczności, takich jak miejsca pracy czy inwestycje w infrastrukturę"
+              ]
+            },
+            {
+              "before": "Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa.",
+              "after": "Analizy ryzyka wskazują, że nowoczesne elektrownie jądrowe mają minimalne szanse na poważne awarie.",
+              "addressed_missing_information": [
+                "Analiza ryzyka i awarii w kontekście polskiego rynku energii"
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie analizy ryzyka oraz porównania z innymi źródłami energii w Polsce"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Added detailed waste management plans",
+        "Included risk analysis",
+        "Highlighted potential local community benefits"
+      ],
+      "missing_information": [
+        "Szczegółowe porównanie ryzyka związanego z energią jądrową w stosunku do innych źródeł energii, takich jak gaz czy węgiel.",
+        "Przykłady z innych krajów, które skutecznie zrealizowały podobne projekty i ich efekty ekonomiczne i ekologiczne.",
+        "Informacje na temat potencjalnych obaw społecznych i działań mających na celu ich adresowanie."
+      ],
+      "suggested_improvements": [
+        "Dodanie statystyk dotyczących redukcji emisji CO2 w krajach korzystających z energii jądrowej.",
+        "Włączenie informacji o planach dotyczących monitorowania bezpieczeństwa elektrowni jądrowych oraz transparentności w zarządzaniu ryzykiem.",
+        "Zwiększenie nacisku na korzyści ekonomiczne dla lokalnych społeczności, takie jak konkretne liczby dotyczące miejsc pracy oraz inwestycji w infrastrukturę."
+      ]
+    },
+    {
+      "round": 4,
+      "audience_feedback": "Artykuł znacznie się poprawił w kolejnych iteracjach, szczególnie w zakresie podkreślenia nowoczesnych technologii jądrowych oraz ich wpływu na bezpieczeństwo i koszty operacyjne. Wprowadzenie konkretnych danych dotyczących kosztów energii jądrowej oraz odniesienia do doświadczeń innych krajów, takich jak Francja, wzmacnia argumentację. Podkreślenie edukacji lokalnych społeczności i zarządzania ryzykiem również zwiększa wiarygodność projektu. Mimo to, pewne kwestie, takie jak szczegółowe plany dotyczące lokalizacji elektrowni i zarządzania odpadami radioaktywnymi, mogłyby być lepiej rozwinięte, aby w pełni przekonać sceptyków.",
+      "agreement_score": 4,
+      "refined_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku, aby zmniejszyć zależność od węgla i zredukować emisję CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w ciągu najbliższych miesięcy. Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne, a ich ryzyko porównywane z węglem i gazem jest minimalne. W krajach korzystających z energii jądrowej, jak Francja, emisja CO2 spadła o 50%. Polska planuje także edukację lokalnych społeczności oraz transparentne zarządzanie ryzykiem, aby zminimalizować obawy. Długoterminowy plan zarządzania odpadami radioaktywnymi będzie kluczowy dla akceptacji projektu, a nowe miejsca pracy oraz inwestycje w infrastrukturę przyniosą korzyści lokalnym społecznościom.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Przyciągnięcie uwagi poprzez konkretne dane",
+          "linguistic_changes": [
+            {
+              "before": "ich ryzyko porównywane z węglem i gazem jest minimalne.",
+              "after": "a ich ryzyko porównywane z węglem i gazem jest minimalne.",
+              "addressed_missing_information": [
+                "Szczegółowe porównanie ryzyka związanego z energią jądrową w stosunku do innych źródeł energii"
+              ],
+              "addressed_suggested_improvements": []
+            },
+            {
+              "before": "emisja CO2 spadła o 50%",
+              "after": "emisja CO2 spadła o 50%.",
+              "addressed_missing_information": [
+                "Statystyki dotyczące redukcji emisji CO2 w krajach korzystających z energii jądrowej"
+              ],
+              "addressed_suggested_improvements": []
+            },
+            {
+              "before": "Polska planuje także edukację lokalnych społeczności",
+              "after": "Polska planuje także edukację lokalnych społeczności oraz transparentne zarządzanie ryzykiem, aby zminimalizować obawy.",
+              "addressed_missing_information": [
+                "Informacje na temat potencjalnych obaw społecznych i działań mających na celu ich adresowanie"
+              ],
+              "addressed_suggested_improvements": []
+            }
+          ]
+        },
+        {
+          "strategy": "Podkreślenie korzyści ekonomicznych",
+          "linguistic_changes": [
+            {
+              "before": "nowe miejsca pracy oraz inwestycje w infrastrukturę przyniosą korzyści lokalnym społecznościom.",
+              "after": "a nowe miejsca pracy oraz inwestycje w infrastrukturę przyniosą korzyści lokalnym społecznościom.",
+              "addressed_missing_information": [],
+              "addressed_suggested_improvements": [
+                "Zwiększenie nacisku na korzyści ekonomiczne dla lokalnych społeczności, takie jak konkretne liczby dotyczące miejsc pracy oraz inwestycji w infrastrukturę"
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Added safety statistics comparing nuclear energy risks to coal and gas",
+        "Included emission reduction statistics for countries using nuclear energy",
+        "Highlighted plans for community education and transparency in risk management"
+      ],
+      "missing_information": [
+        "Szczegółowe informacje na temat lokalizacji planowanej elektrowni jądrowej.",
+        "Dokładny plan zarządzania odpadami radioaktywnymi.",
+        "Więcej danych dotyczących potencjalnych zagrożeń i strategii ich minimalizacji.",
+        "Analiza porównawcza kosztów i korzyści w dłuższej perspektywie czasowej."
+      ],
+      "suggested_improvements": [
+        "Dodanie konkretów dotyczących lokalizacji elektrowni, aby rozwiać obawy lokalnych społeczności.",
+        "Rozwinięcie tematu zarządzania odpadami radioaktywnymi oraz przedstawienie najlepszych praktyk z innych krajów.",
+        "Wprowadzenie analizy porównawczej dotyczącej kosztów energii jądrowej w kontekście innych źródeł energii, takich jak odnawialne źródła energii i gaz.",
+        "Uwzględnienie studiów przypadków dotyczących krajów, które skutecznie wdrożyły energię jądrową, aby wzmocnić argumenty na rzecz bezpieczeństwa i efektywności energetycznej."
+      ]
+    },
+    {
+      "round": 5,
+      "audience_feedback": "Artykuł znacząco poprawił się w kolejnych iteracjach, dodając więcej szczegółów dotyczących bezpieczeństwa nowoczesnych technologii jądrowych oraz strategii zarządzania odpadami radioaktywnymi. Wspomnienie o lokalizacji elektrowni w pobliżu istniejącej infrastruktury energetycznej jest również korzystne dla minimalizacji wpływu na społeczności lokalne. Analizy ryzyka i odniesienia do przykładów z Francji dodają wiarygodności argumentom. Jednakże, choć artykuł podkreśla pozytywne aspekty energii jądrowej, mogłoby być więcej danych dotyczących wpływu na zdrowie publiczne oraz przykładów z innych krajów, które skutecznie wdrożyły energię jądrową.",
+      "agreement_score": 4,
+      "refined_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku, aby zmniejszyć zależność od węgla i zredukować emisję CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w pobliżu istniejącej infrastruktury energetycznej, co ma na celu minimalizację wpływu na lokalne społeczności. Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne. Koszt energii jądrowej szacuje się na około 50-70 USD/MWh, co czyni ją konkurencyjną w porównaniu do innych źródeł energii. Polska opracowuje szczegółowy plan zarządzania odpadami radioaktywnymi, inspirowany najlepszymi praktykami z krajów takich jak Francja, gdzie efektywne zarządzanie odpadami zwiększyło akceptację społeczną. Analizy ryzyka wskazują, że nowoczesne elektrownie jądrowe mają minimalne szanse na poważne awarie, a długoterminowe plany przyniosą miejsca pracy oraz inwestycje w infrastrukturę.",
+      "persuasion_strategies": [
+        {
+          "strategy": "Zwiększenie akceptacji społecznej przez transparentność",
+          "linguistic_changes": [
+            {
+              "before": "lokalizacja zostanie wybrana w ciągu najbliższych miesięcy.",
+              "after": "lokalizacja zostanie wybrana w pobliżu istniejącej infrastruktury energetycznej, co ma na celu minimalizację wpływu na lokalne społeczności.",
+              "addressed_missing_information": [
+                "Szczegółowe informacje na temat lokalizacji planowanej elektrowni jądrowej."
+              ],
+              "addressed_suggested_improvements": [
+                "Dodanie konkretów dotyczących lokalizacji elektrowni, aby rozwiać obawy lokalnych społeczności."
+              ]
+            },
+            {
+              "before": "Długoterminowy plan zarządzania odpadami radioaktywnymi będzie kluczowy dla akceptacji projektu.",
+              "after": "Polska opracowuje szczegółowy plan zarządzania odpadami radioaktywnymi, inspirowany najlepszymi praktykami z krajów takich jak Francja, gdzie efektywne zarządzanie odpadami zwiększyło akceptację społeczną.",
+              "addressed_missing_information": [
+                "Dokładny plan zarządzania odpadami radioaktywnymi."
+              ],
+              "addressed_suggested_improvements": [
+                "Rozwinięcie tematu zarządzania odpadami radioaktywnymi oraz przedstawienie najlepszych praktyk z innych krajów."
+              ]
+            },
+            {
+              "before": "analizy ryzyka wskazują, że nowoczesne elektrownie jądrowe mają minimalne szanse na poważne awarie.",
+              "after": "Analizy ryzyka wskazują, że nowoczesne elektrownie jądrowe mają minimalne szanse na poważne awarie, a długoterminowe plany przyniosą miejsca pracy oraz inwestycje w infrastrukturę.",
+              "addressed_missing_information": [
+                "Więcej danych dotyczących potencjalnych zagrożeń i strategii ich minimalizacji."
+              ],
+              "addressed_suggested_improvements": [
+                "Uwzględnienie studiów przypadków dotyczących krajów, które skutecznie wdrożyły energię jądrową, aby wzmocnić argumenty na rzecz bezpieczeństwa i efektywności energetycznej."
+              ]
+            }
+          ]
+        }
+      ],
+      "extracted_domain_changes": [
+        "Dodano szczegóły dotyczące lokalizacji elektrowni jądrowej, podano informacje o zarządzaniu odpadami, oraz uwzględniono analizy ryzyka."
+      ],
+      "missing_information": [
+        "Dane dotyczące wpływu na zdrowie publiczne związane z energią jądrową",
+        "Przykłady z innych krajów, które skutecznie wdrożyły energię jądrową",
+        "Więcej szczegółów na temat finansowania elektrowni jądrowej i ewentualnych zagrożeń ekonomicznych"
+      ],
+      "suggested_improvements": [
+        "Dodanie danych dotyczących wpływu na zdrowie publiczne związane z energią jądrową",
+        "Włączenie przykładów z innych krajów, które skutecznie wdrożyły energię jądrową",
+        "Rozszerzenie części dotyczącej finansowania i ewentualnych zagrożeń ekonomicznych związanych z inwestycjami w energię jądrową"
+      ]
+    }
+  ],
+  "final_refined_article": "Polska planuje wybudowanie pierwszej elektrowni jądrowej do 2033 roku, aby zmniejszyć zależność od węgla i zredukować emisję CO2. Ministerstwo Klimatu ogłosiło, że lokalizacja zostanie wybrana w pobliżu istniejącej infrastruktury energetycznej, co ma na celu minimalizację wpływu na lokalne społeczności. Eksperci podkreślają, że nowoczesne technologie jądrowe, takie jak reaktory wodne ciśnieniowe, oferują wysoki poziom bezpieczeństwa oraz niższe koszty operacyjne. Koszt energii jądrowej szacuje się na około 50-70 USD/MWh, co czyni ją konkurencyjną w porównaniu do innych źródeł energii. Polska opracowuje szczegółowy plan zarządzania odpadami radioaktywnymi, inspirowany najlepszymi praktykami z krajów takich jak Francja, gdzie efektywne zarządzanie odpadami zwiększyło akceptację społeczną. Analizy ryzyka wskazują, że nowoczesne elektrownie jądrowe mają minimalne szanse na poważne awarie, a długoterminowe plany przyniosą miejsca pracy oraz inwestycje w infrastrukturę.",
+  "final_agreement_score": 4,
+  "initial_agreement_score": 4,
+  "extracted_linguistic_changes": [
+    "Evidence-based assurance",
+    "Evidence-Based Framing",
+    "Wzmocnienie argumentacji przez konkretne przykłady",
+    "Zwiększenie wiarygodności poprzez szczegóły",
+    "Przyciągnięcie uwagi poprzez konkretne dane",
+    "Podkreślenie korzyści ekonomicznych",
+    "Zwiększenie akceptacji społecznej przez transparentność"
+  ],
+  "extracted_domain_changes": [
+    "Added safety statistics from international standards",
+    "Included cost analysis and long-term benefits of nuclear energy compared to other energy sources",
+    "Highlighted technological advancements in nuclear safety",
+    "Added specific nuclear technology details",
+    "Included cost comparison with renewable energy",
+    "Mentioned job creation and economic stability benefits",
+    "Dodano przykłady krajów zintegrowanych z energią jądrową i ich wpływ na emisję CO2",
+    "Wprowadzono plany edukacji lokalnych społeczności w kontekście nowej elektrowni",
+    "Added detailed waste management plans",
+    "Included risk analysis",
+    "Highlighted potential local community benefits",
+    "Added safety statistics comparing nuclear energy risks to coal and gas",
+    "Included emission reduction statistics for countries using nuclear energy",
+    "Highlighted plans for community education and transparency in risk management",
+    "Dodano szczegóły dotyczące lokalizacji elektrowni jądrowej, podano informacje o zarządzaniu odpadami, oraz uwzględniono analizy ryzyka."
+  ],
+  "cumulative_missing_information": [
+    "Specyfikacja technologii jądrowych, które będą używane w Polsce",
+    "Szczegółowe dane dotyczące kosztów inwestycji w energetykę jądrową w porównaniu do odnawialnych źródeł energii",
+    "Analiza wpływu na miejsca pracy i lokalne gospodarki",
+    "Przykłady udanych projektów jądrowych w innych krajach",
+    "Analiza potencjalnych skutków dla lokalnych społeczności związanych z budową elektrowni jądrowej.",
+    "Informacje na temat długoterminowych planów dotyczących zarządzania odpadami radioaktywnymi.",
+    "Przykłady krajów, które skutecznie zintegrowały energię jądrową z odnawialnymi źródłami energii.",
+    "Szczegółowy plan zarządzania odpadami radioaktywnymi",
+    "Analiza ryzyka i awarii w kontekście polskiego rynku energii",
+    "Porównanie długoterminowych kosztów energii jądrowej z innymi źródłami energii w Polsce",
+    "Opinie eksperckie na temat wpływu energii jądrowej na lokalne społeczności",
+    "Szczegółowe porównanie ryzyka związanego z energią jądrową w stosunku do innych źródeł energii, takich jak gaz czy węgiel.",
+    "Przykłady z innych krajów, które skutecznie zrealizowały podobne projekty i ich efekty ekonomiczne i ekologiczne.",
+    "Informacje na temat potencjalnych obaw społecznych i działań mających na celu ich adresowanie.",
+    "Szczegółowe informacje na temat lokalizacji planowanej elektrowni jądrowej.",
+    "Dokładny plan zarządzania odpadami radioaktywnymi.",
+    "Więcej danych dotyczących potencjalnych zagrożeń i strategii ich minimalizacji.",
+    "Analiza porównawcza kosztów i korzyści w dłuższej perspektywie czasowej.",
+    "Dane dotyczące wpływu na zdrowie publiczne związane z energią jądrową",
+    "Przykłady z innych krajów, które skutecznie wdrożyły energię jądrową",
+    "Więcej szczegółów na temat finansowania elektrowni jądrowej i ewentualnych zagrożeń ekonomicznych"
+  ],
+  "cumulative_suggested_improvements": [
+    "Dodanie szczegółów dotyczących planowanych technologii jądrowych",
+    "Wprowadzenie danych porównawczych kosztów energii jądrowej i odnawialnych źródeł energii",
+    "Zawieranie informacji o potencjalnych korzyściach ekonomicznych dla lokalnych społeczności",
+    "Przykłady najlepszych praktyk z innych krajów, które skutecznie zrealizowały projekty jądrowe",
+    "Dodanie danych na temat doświadczeń innych krajów w zakresie energii jądrowej i jej wpływu na gospodarki oraz środowisko.",
+    "Zamieszczenie statystyk dotyczących emisji CO2 przed i po wdrożeniu energii jądrowej w innych krajach.",
+    "Przedstawienie planów dotyczących edukacji i informacji dla społeczności lokalnych, aby zminimalizować obawy i opór społeczny.",
+    "Wprowadzenie szczegółów dotyczących planów zarządzania odpadami radioaktywnymi, aby rozwiać obawy dotyczące bezpieczeństwa",
+    "Dodanie analizy ryzyka oraz porównania z innymi źródłami energii w Polsce",
+    "Zamieszczenie wywiadów lub cytatów od ekspertów w dziedzinie energii jądrowej, aby zwiększyć wiarygodność argumentacji",
+    "Podanie informacji o potencjalnych korzyściach dla lokalnych społeczności, takich jak miejsca pracy czy inwestycje w infrastrukturę",
+    "Dodanie statystyk dotyczących redukcji emisji CO2 w krajach korzystających z energii jądrowej.",
+    "Włączenie informacji o planach dotyczących monitorowania bezpieczeństwa elektrowni jądrowych oraz transparentności w zarządzaniu ryzykiem.",
+    "Zwiększenie nacisku na korzyści ekonomiczne dla lokalnych społeczności, takie jak konkretne liczby dotyczące miejsc pracy oraz inwestycji w infrastrukturę.",
+    "Dodanie konkretów dotyczących lokalizacji elektrowni, aby rozwiać obawy lokalnych społeczności.",
+    "Rozwinięcie tematu zarządzania odpadami radioaktywnymi oraz przedstawienie najlepszych praktyk z innych krajów.",
+    "Wprowadzenie analizy porównawczej dotyczącej kosztów energii jądrowej w kontekście innych źródeł energii, takich jak odnawialne źródła energii i gaz.",
+    "Uwzględnienie studiów przypadków dotyczących krajów, które skutecznie wdrożyły energię jądrową, aby wzmocnić argumenty na rzecz bezpieczeństwa i efektywności energetycznej.",
+    "Dodanie danych dotyczących wpływu na zdrowie publiczne związane z energią jądrową",
+    "Włączenie przykładów z innych krajów, które skutecznie wdrożyły energię jądrową",
+    "Rozszerzenie części dotyczącej finansowania i ewentualnych zagrożeń ekonomicznych związanych z inwestycjami w energię jądrową"
+  ],
+  "addressed_missing_information": [
+    "Dokładny plan zarządzania odpadami radioaktywnymi.",
+    "Informacje o postępach technologicznych, które mogą obniżyć ryzyko i koszty energii jądrowej",
+    "Przykłady krajów, które skutecznie zintegrowały energię jądrową z odnawialnymi źródłami energii.",
+    "Szczegółowy plan zarządzania odpadami radioaktywnymi",
+    "Informacje na temat potencjalnych obaw społecznych i działań mających na celu ich adresowanie",
+    "Analiza wpływu na miejsca pracy i lokalne gospodarki",
+    "Analiza kosztów budowy i eksploatacji energetyki jądrowej w Polsce w porównaniu do innych źródeł energii",
+    "Szczegółowe dane na temat standardów bezpieczeństwa w elektrowniach jądrowych",
+    "Analiza ryzyka i awarii w kontekście polskiego rynku energii",
+    "Analiza potencjalnych skutków dla lokalnych społeczności związanych z budową elektrowni jądrowej.",
+    "Szczegółowe porównanie ryzyka związanego z energią jądrową w stosunku do innych źródeł energii",
+    "Informacje na temat długoterminowych planów dotyczących zarządzania odpadami radioaktywnymi.",
+    "Statystyki dotyczące emisji CO2 przed i po wdrożeniu energii jądrowej w innych krajach.",
+    "Szczegółowe dane dotyczące kosztów inwestycji w energetykę jądrową w porównaniu do odnawialnych źródeł energii",
+    "Opinie eksperckie na temat wpływu energii jądrowej na lokalne społeczności",
+    "Więcej danych dotyczących potencjalnych zagrożeń i strategii ich minimalizacji.",
+    "Statystyki dotyczące redukcji emisji CO2 w krajach korzystających z energii jądrowej",
+    "Specyfikacja technologii jądrowych, które będą używane w Polsce",
+    "Szczegółowe informacje na temat lokalizacji planowanej elektrowni jądrowej."
+  ],
+  "addressed_suggested_improvements": [
+    "Dodanie szczegółów dotyczących planowanych technologii jądrowych",
+    "Zwiększenie nacisku na korzyści ekonomiczne dla lokalnych społeczności, takie jak konkretne liczby dotyczące miejsc pracy oraz inwestycji w infrastrukturę",
+    "Przedstawienie planów dotyczących edukacji i informacji dla społeczności lokalnych, aby zminimalizować obawy i opór społeczny.",
+    "Rozwinięcie tematu zarządzania odpadami radioaktywnymi oraz przedstawienie najlepszych praktyk z innych krajów.",
+    "Rozwinięcie argumentów dotyczących kosztów, w tym porównania z innymi źródłami energii odnawialnej",
+    "Podanie informacji o potencjalnych korzyściach dla lokalnych społeczności, takich jak miejsca pracy czy inwestycje w infrastrukturę",
+    "Uwzględnienie studiów przypadków dotyczących krajów, które skutecznie wdrożyły energię jądrową, aby wzmocnić argumenty na rzecz bezpieczeństwa i efektywności energetycznej.",
+    "Wprowadzenie danych statystycznych o bezpieczeństwie technologii jądrowej z badań lub raportów międzynarodowych",
+    "Wprowadzenie szczegółów dotyczących planów zarządzania odpadami radioaktywnymi, aby rozwiać obawy dotyczące bezpieczeństwa",
+    "Dodanie konkretów dotyczących lokalizacji elektrowni, aby rozwiać obawy lokalnych społeczności.",
+    "Zawieranie informacji o potencjalnych korzyściach ekonomicznych dla lokalnych społeczności",
+    "Dodanie danych na temat doświadczeń innych krajów w zakresie energii jądrowej i jej wpływu na gospodarki oraz środowisko.",
+    "Dodanie analizy ryzyka oraz porównania z innymi źródłami energii w Polsce",
+    "Zwiększenie uwagi na innowacje w dziedzinie bezpieczeństwa jądrowego, które mogą wpłynąć na postrzeganie tego sektora przez opinię publiczną",
+    "Wprowadzenie danych porównawczych kosztów energii jądrowej i odnawialnych źródeł energii"
+  ]
+}
