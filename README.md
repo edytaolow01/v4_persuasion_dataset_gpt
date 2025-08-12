@@ -125,6 +125,8 @@ The dataset should contain articles in JSON format with the following keys:
 - `article_body` - article content
 - `date` - article date
 
+In this repo, 1591 chosen articles from https://huggingface.co/datasets/eoplumbum/v4_nuclear_power_articles.
+
 ## Output Data Format
 
 The system generates two JSON files for each article:
@@ -139,6 +141,9 @@ Each file contains:
 - Agreement scores at various stages
 - Controversy boosting information
 - Missing information and suggested improvements
+
+Expected results should have the same structure as https://huggingface.co/datasets/eoplumbum/persuasion-gemini-1.5-pro
+
 
 ## Configuration
 
@@ -161,12 +166,6 @@ You can customize the system by modifying YAML files in the language-specific pr
 - Controversy attempt history
 - Immediate result persistence
 - Concurrent processing with rate limiting
-
-### Error Recovery
-- Retry mechanism for API calls
-- JSON parsing fallbacks
-- Graceful error handling
-- Comprehensive logging
 
 ## Logging
 
