@@ -175,7 +175,7 @@ The system uses loguru for logging with the following features:
 - Detailed execution tracing
 - Error tracking and debugging information
 
-## Performancef
+## Performance
 
 - Asynchronous processing with 10 concurrent articles
 - Immediate result saving prevents data loss
